@@ -1,0 +1,2458 @@
+Country,Region,City,Type,North_Traffic (m),East_Traffic (m),West_Traffic (m),South_Traffic (m),North_Time(s),East_Time(s),West_Time(s),South_Time(s)
+India,LBS Marg Junction,Mumbai,4-way,28,450,28,45,41,105,41,48
+India,Gandhi Nagar Junction,Mumbai,4-way,89,444,42,160,66,105,47,78
+India,Jolly Marg Junction,Mumbai,4-way,50,59,154,122,50,54,77,73
+India,Nikolsawadi Circle,Mumbai,4-way,15,86,41,71,28,64,46,58
+India,MIDC A Cross Road,Mumbai,4-way,106,0,1032,31,71,10,105,42
+India,N S Phadke Marg,Mumbai,4-way,113,15,23,58,72,28,38,53
+India,Gokhale Bridge,Delhi,4-way,57,34,596,1161,53,44,105,105
+India,DND Flyway,Delhi,4-way,74,124,129,15,60,73,74,28
+India,Maharani Bagh,Delhi,4-way,57,212,46,87,53,85,48,65
+India,Burari Road,Delhi,4-way,62,47,439,16,55,49,105,29
+India,Khyber Pass Crossing,Delhi,4-way,13,18,88,1157,26,32,65,105
+India,Nigam Bodh Ghat,Delhi,4-way,49,379,670,144,50,105,105,76
+India,P.S. Timarpur,Delhi,4-way,29,1,74,12,42,11,60,24
+India,Mall Road,Delhi,4-way,200,711,1174,77,83,105,105,61
+India,Chennai Bypass Road,Chennai,4-way,123,16,15,1061,73,29,28,105
+India,Bangalore Chennai Expressway,Chennai,4-way,14,80,18,26,27,62,32,40
+India,Anna Salai,Chennai,4-way,73,58,36,82,59,53,44,63
+India,EVR Periyar Salai,Chennai,4-way,200,139,153,9,83,75,77,21
+India,Arukilpadi road,Chennai,4-way,53,14,729,11,51,27,105,23
+India,Thakkolam,Chennai,4-way,16,113,13,90,29,72,26,66
+India,Golden Quadrilateral,Chennai,4-way,991,18,6,54,105,32,17,52
+India,Chowringhee Road,Kolkata,4-way,214,5,53,56,85,16,51,52
+India,Hazra Road,Kolkata,4-way,91,31,670,14,66,42,105,27
+India,Park Street,Kolkata,4-way,90,50,13,11,66,50,26,23
+India,Hazra Road,Kolkata,4-way,14,10,70,729,27,22,58,105
+India,College Street,Kolkata,4-way,178,1,87,199,80,11,65,83
+India,Jaddu Mullick Street,Kolkata,4-way,0,11,123,14,10,23,73,27
+India,Raja SC Mullick Road,Kolkata,4-way,474,87,29,60,105,65,42,54
+India,Burdwan Road,Kolkata,4-way,12,0,709,1042,24,10,105,105
+India,Burdwan Road,Kolkata,4-way,188,0,3,84,82,10,14,64
+India,Eastern Metropolitan Bypass,Kolkata,4-way,108,7,47,9,71,18,49,21
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,18,1158,50,59,32,105,50,54
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,25,14,726,150,40,27,105,77
+India,Mahatma Gandhi Marg,Indore,4-way,65,14,73,11,56,27,59,23
+India,A.B. Road,Indore,4-way,190,79,165,14,82,62,79,27
+India,Dewas Road,Indore,4-way,88,97,15,13,65,69,28,26
+India,Ujjain Road,Indore,4-way,132,732,164,0,74,105,79,10
+India,Dhar Road,Indore,4-way,0,92,10,8,10,67,22,20
+India,Pithampur Road,Indore,4-way,1017,5,10,1079,105,16,22,105
+India,Khandwa Road,Indore,4-way,99,652,161,139,70,105,78,75
+India,Nemawar Road,Indore,4-way,77,0,392,726,61,10,105,105
+India,Sarafa Bazaar,Indore,4-way,17,101,20,521,30,70,34,105
+India,Chappan Dukan,Indore,4-way,84,189,81,1045,64,82,62,105
+India,Olpad-Rander Road,Surat,4-way,19,75,58,10,33,60,53,22
+India,Hazira-Adajan Road,Surat,4-way,34,0,14,16,44,10,27,29
+India,Sachin-Udhna Road,Surat,4-way,12,1055,158,1095,24,105,78,105
+India,Dumas-Athwa Road,Surat,4-way,180,60,9,10,81,54,21,22
+India,Kamrej-Varachha Road,Surat,4-way,127,124,892,190,74,73,105,82
+India,Kadodara-Sahara Road,Surat,4-way,117,56,50,34,72,52,50,44
+India,National Highway 6 (NH6),Surat,4-way,179,159,74,25,81,78,60,40
+India,National Highway 8 (NH8),Surat,4-way,34,17,38,61,44,30,45,54
+India,Outer Ring Road,Surat,4-way,177,4,4,159,80,15,15,78
+India,Surat-Chennai Expressway,Surat,4-way,9,114,28,1,21,72,41,11
+India,J.M. Road,Pune,4-way,16,17,18,20,29,30,32,34
+India,Fergusson College Road (FC Road),Pune,4-way,173,34,152,451,80,44,77,105
+India,Laxmi Road,Pune,4-way,11,649,17,24,23,105,30,39
+India,Shivaji Nagar,Pune,4-way,43,74,129,18,47,60,74,32
+India,Koregaon Park,Pune,4-way,126,35,7,20,73,44,18,34
+India,Kothrud,Pune,4-way,17,31,24,548,30,42,39,105
+India,Viman Nagar,Pune,4-way,26,33,1196,213,40,43,105,85
+India,Aundh,Pune,4-way,74,192,124,18,60,82,73,32
+India,Magarpatta City,Pune,4-way,78,199,1,106,61,83,11,71
+India,New Kalyani Nagar,Pune,4-way,41,17,18,131,46,30,32,74
+India,LBS Marg Junction,Mumbai,4-way,79,12,7,195,62,24,18,83
+India,Gandhi Nagar Junction,Mumbai,4-way,44,25,12,0,48,40,24,10
+India,Jolly Marg Junction,Mumbai,4-way,160,71,200,65,78,58,83,56
+India,Nikolsawadi Circle,Mumbai,4-way,1051,16,72,59,105,29,59,54
+India,MIDC A Cross Road,Mumbai,4-way,45,5,9,174,48,16,21,80
+India,N S Phadke Marg,Mumbai,4-way,163,3,17,185,78,14,30,81
+India,Gokhale Bridge,Delhi,4-way,19,4,139,4,33,15,75,15
+India,DND Flyway,Delhi,4-way,2,434,0,0,12,105,10,10
+India,Maharani Bagh,Delhi,4-way,20,38,76,71,34,45,60,58
+India,Burari Road,Delhi,4-way,0,331,155,1115,10,105,77,105
+India,Khyber Pass Crossing,Delhi,4-way,128,19,0,581,74,33,10,105
+India,Nigam Bodh Ghat,Delhi,4-way,196,46,199,4,83,48,83,15
+India,P.S. Timarpur,Delhi,4-way,13,85,752,65,26,64,105,56
+India,Mall Road,Delhi,4-way,13,56,9,18,26,52,21,32
+India,Chennai Bypass Road,Chennai,4-way,393,11,308,30,105,23,105,42
+India,Bangalore Chennai Expressway,Chennai,4-way,11,68,7,102,23,57,18,70
+India,Anna Salai,Chennai,4-way,60,84,16,970,54,64,29,105
+India,EVR Periyar Salai,Chennai,4-way,84,14,642,85,64,27,105,64
+India,Arukilpadi road,Chennai,4-way,15,20,928,20,28,34,105,34
+India,Thakkolam,Chennai,4-way,18,0,62,15,32,10,55,28
+India,Golden Quadrilateral,Chennai,4-way,0,35,70,109,10,44,58,71
+India,Chowringhee Road,Kolkata,4-way,38,9,50,848,45,21,50,105
+India,Hazra Road,Kolkata,4-way,812,5,101,17,105,16,70,30
+India,Park Street,Kolkata,4-way,9,194,193,1123,21,83,82,105
+India,Hazra Road,Kolkata,4-way,3,17,16,2,14,30,29,12
+India,College Street,Kolkata,4-way,68,520,11,3,57,105,23,14
+India,Jaddu Mullick Street,Kolkata,4-way,82,2,58,13,63,12,53,26
+India,Raja SC Mullick Road,Kolkata,4-way,0,37,0,101,10,45,10,70
+India,Burdwan Road,Kolkata,4-way,64,117,610,65,56,72,105,56
+India,Burdwan Road,Kolkata,4-way,97,30,170,0,69,42,79,10
+India,Eastern Metropolitan Bypass,Kolkata,4-way,15,1,165,150,28,11,79,77
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,20,610,355,20,34,105,105,34
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,14,44,132,136,27,48,74,75
+India,Mahatma Gandhi Marg,Indore,4-way,15,48,42,105,28,49,47,71
+India,A.B. Road,Indore,4-way,77,194,72,12,61,83,59,24
+India,Dewas Road,Indore,4-way,141,87,62,108,75,65,55,71
+India,Ujjain Road,Indore,4-way,752,20,603,26,105,34,105,40
+India,Dhar Road,Indore,4-way,170,934,65,1108,79,105,56,105
+India,Pithampur Road,Indore,4-way,11,26,16,4,23,40,29,15
+India,Khandwa Road,Indore,4-way,97,872,2,9,69,105,12,21
+India,Nemawar Road,Indore,4-way,6,1107,11,0,17,105,23,10
+India,Sarafa Bazaar,Indore,4-way,197,154,7,76,83,77,18,60
+India,Chappan Dukan,Indore,4-way,15,20,13,27,28,34,26,41
+India,Olpad-Rander Road,Surat,4-way,19,85,199,740,33,64,83,105
+India,Hazira-Adajan Road,Surat,4-way,12,32,28,400,24,43,41,105
+India,Sachin-Udhna Road,Surat,4-way,156,69,49,62,77,58,50,55
+India,Dumas-Athwa Road,Surat,4-way,1107,189,80,182,105,82,62,81
+India,Kamrej-Varachha Road,Surat,4-way,896,8,889,8,105,20,105,20
+India,Kadodara-Sahara Road,Surat,4-way,147,15,44,144,76,28,48,76
+India,National Highway 6 (NH6),Surat,4-way,567,56,9,178,105,52,21,80
+India,National Highway 8 (NH8),Surat,4-way,991,16,0,120,105,29,10,73
+India,Outer Ring Road,Surat,4-way,8,40,126,1,20,46,73,11
+India,Surat-Chennai Expressway,Surat,4-way,18,1132,15,19,32,105,28,33
+India,J.M. Road,Pune,4-way,788,329,19,20,105,105,33,34
+India,Fergusson College Road (FC Road),Pune,4-way,66,90,20,123,56,66,34,73
+India,Laxmi Road,Pune,4-way,39,70,74,20,46,58,60,34
+India,Shivaji Nagar,Pune,4-way,136,94,8,6,75,68,20,17
+India,Koregaon Park,Pune,4-way,249,199,74,12,90,83,60,24
+India,Kothrud,Pune,4-way,82,940,1138,229,63,105,105,87
+India,Viman Nagar,Pune,4-way,9,76,138,10,21,60,75,22
+India,Aundh,Pune,4-way,1153,267,60,64,105,105,54,56
+India,Magarpatta City,Pune,4-way,117,69,9,1,72,58,21,11
+India,New Kalyani Nagar,Pune,4-way,12,62,32,878,24,55,43,105
+India,LBS Marg Junction,Mumbai,4-way,549,8,41,254,105,20,46,105
+India,Gandhi Nagar Junction,Mumbai,4-way,87,20,11,857,65,34,23,105
+India,Jolly Marg Junction,Mumbai,4-way,62,10,18,0,55,22,32,10
+India,Nikolsawadi Circle,Mumbai,4-way,90,75,1010,31,66,60,105,42
+India,MIDC A Cross Road,Mumbai,4-way,479,1121,18,68,105,105,32,57
+India,N S Phadke Marg,Mumbai,4-way,18,14,32,26,32,27,43,40
+India,Gokhale Bridge,Delhi,4-way,824,39,4,10,105,46,15,22
+India,DND Flyway,Delhi,4-way,28,15,647,23,41,28,105,38
+India,Maharani Bagh,Delhi,4-way,20,8,635,981,34,20,105,105
+India,Burari Road,Delhi,4-way,12,72,55,90,24,59,52,66
+India,Khyber Pass Crossing,Delhi,4-way,15,629,149,0,28,105,77,10
+India,Nigam Bodh Ghat,Delhi,4-way,84,59,97,188,64,54,69,82
+India,P.S. Timarpur,Delhi,4-way,32,21,87,35,43,35,65,44
+India,Mall Road,Delhi,4-way,14,189,860,66,27,82,105,56
+India,Chennai Bypass Road,Chennai,4-way,46,8,17,43,48,20,30,47
+India,Bangalore Chennai Expressway,Chennai,4-way,0,11,99,14,10,23,70,27
+India,Anna Salai,Chennai,4-way,102,164,72,68,70,79,59,57
+India,EVR Periyar Salai,Chennai,4-way,653,15,242,7,105,28,89,18
+India,Arukilpadi road,Chennai,4-way,4,32,128,116,15,43,74,72
+India,Thakkolam,Chennai,4-way,199,124,25,10,83,73,40,22
+India,Golden Quadrilateral,Chennai,4-way,100,141,18,7,70,75,32,18
+India,Chowringhee Road,Kolkata,4-way,51,97,48,518,50,69,49,105
+India,Hazra Road,Kolkata,4-way,5,81,2,158,16,62,12,78
+India,Park Street,Kolkata,4-way,0,80,78,817,10,62,61,105
+India,Hazra Road,Kolkata,4-way,99,91,20,1140,70,66,34,105
+India,College Street,Kolkata,4-way,720,13,30,112,105,26,42,72
+India,Jaddu Mullick Street,Kolkata,4-way,13,11,7,82,26,23,18,63
+India,Raja SC Mullick Road,Kolkata,4-way,1066,55,178,1091,105,52,80,105
+India,Burdwan Road,Kolkata,4-way,0,18,167,76,10,32,79,60
+India,Burdwan Road,Kolkata,4-way,89,16,68,61,66,29,57,54
+India,Eastern Metropolitan Bypass,Kolkata,4-way,12,17,43,918,24,30,47,105
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,32,2,5,131,43,12,16,74
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,17,106,14,156,30,71,27,77
+India,Mahatma Gandhi Marg,Indore,4-way,913,43,143,0,105,47,76,10
+India,A.B. Road,Indore,4-way,65,392,875,1080,56,105,105,105
+India,Dewas Road,Indore,4-way,36,149,63,19,44,77,55,33
+India,Ujjain Road,Indore,4-way,96,35,26,10,68,44,40,22
+India,Dhar Road,Indore,4-way,570,0,88,17,105,10,65,30
+India,Pithampur Road,Indore,4-way,92,51,27,11,67,50,41,23
+India,Khandwa Road,Indore,4-way,123,989,119,0,73,105,73,10
+India,Nemawar Road,Indore,4-way,61,0,34,9,54,10,44,21
+India,Sarafa Bazaar,Indore,4-way,770,968,190,969,105,105,82,105
+India,Chappan Dukan,Indore,4-way,2,147,12,306,12,76,24,105
+India,Olpad-Rander Road,Surat,4-way,5,811,2,42,16,105,12,47
+India,Hazira-Adajan Road,Surat,4-way,20,19,18,1143,34,33,32,105
+India,Sachin-Udhna Road,Surat,4-way,15,7,218,49,28,18,86,50
+India,Dumas-Athwa Road,Surat,4-way,152,55,17,93,77,52,30,67
+India,Kamrej-Varachha Road,Surat,4-way,120,195,12,157,73,83,24,78
+India,Kadodara-Sahara Road,Surat,4-way,5,152,754,69,16,77,105,58
+India,National Highway 6 (NH6),Surat,4-way,8,18,15,95,20,32,28,68
+India,National Highway 8 (NH8),Surat,4-way,3,493,48,170,14,105,49,79
+India,Outer Ring Road,Surat,4-way,29,48,122,20,42,49,73,34
+India,Surat-Chennai Expressway,Surat,4-way,9,601,211,16,21,105,85,29
+India,J.M. Road,Pune,4-way,38,155,359,14,45,77,105,27
+India,Fergusson College Road (FC Road),Pune,4-way,268,113,665,4,105,72,105,15
+India,Laxmi Road,Pune,4-way,281,21,97,17,105,35,69,30
+India,Shivaji Nagar,Pune,4-way,87,124,451,192,65,73,105,82
+India,Koregaon Park,Pune,4-way,10,6,96,0,22,17,68,10
+India,Kothrud,Pune,4-way,98,1000,95,54,69,105,68,52
+India,Viman Nagar,Pune,4-way,14,84,14,5,27,64,27,16
+India,Aundh,Pune,4-way,46,189,92,75,48,82,67,60
+India,Magarpatta City,Pune,4-way,9,442,210,8,21,105,85,20
+India,New Kalyani Nagar,Pune,4-way,209,54,1096,147,85,52,105,76
+India,LBS Marg Junction,Mumbai,4-way,356,20,68,14,105,34,57,27
+India,Gandhi Nagar Junction,Mumbai,4-way,36,45,14,8,44,48,27,20
+India,Jolly Marg Junction,Mumbai,4-way,0,946,779,90,10,105,105,66
+India,Nikolsawadi Circle,Mumbai,4-way,22,167,30,5,36,79,42,16
+India,MIDC A Cross Road,Mumbai,4-way,745,811,54,86,105,105,52,64
+India,N S Phadke Marg,Mumbai,4-way,292,158,16,863,105,78,29,105
+India,Gokhale Bridge,Delhi,4-way,178,26,17,351,80,40,30,105
+India,DND Flyway,Delhi,4-way,16,18,45,182,29,32,48,81
+India,Maharani Bagh,Delhi,4-way,13,78,900,20,26,61,105,34
+India,Burari Road,Delhi,4-way,2,53,44,55,12,51,48,52
+India,Khyber Pass Crossing,Delhi,4-way,18,14,118,721,32,27,72,105
+India,Nigam Bodh Ghat,Delhi,4-way,177,111,61,4,80,71,54,15
+India,P.S. Timarpur,Delhi,4-way,1074,0,432,13,105,10,105,26
+India,Mall Road,Delhi,4-way,976,981,7,113,105,105,18,72
+India,Chennai Bypass Road,Chennai,4-way,909,42,25,38,105,47,40,45
+India,Bangalore Chennai Expressway,Chennai,4-way,46,595,12,39,48,105,24,46
+India,Anna Salai,Chennai,4-way,297,88,34,346,105,65,44,105
+India,EVR Periyar Salai,Chennai,4-way,14,134,0,16,27,75,10,29
+India,Arukilpadi road,Chennai,4-way,36,27,650,1196,44,41,105,105
+India,Thakkolam,Chennai,4-way,1034,350,91,81,105,105,66,62
+India,Golden Quadrilateral,Chennai,4-way,18,103,18,75,32,70,32,60
+India,Chowringhee Road,Kolkata,4-way,20,108,8,53,34,71,20,51
+India,Hazra Road,Kolkata,4-way,111,13,196,12,71,26,83,24
+India,Park Street,Kolkata,4-way,33,76,15,0,43,60,28,10
+India,Hazra Road,Kolkata,4-way,168,106,11,31,79,71,23,42
+India,College Street,Kolkata,4-way,277,67,21,871,105,57,35,105
+India,Jaddu Mullick Street,Kolkata,4-way,29,110,64,746,42,71,56,105
+India,Raja SC Mullick Road,Kolkata,4-way,11,5,20,118,23,16,34,72
+India,Burdwan Road,Kolkata,4-way,954,11,41,4,105,23,46,15
+India,Burdwan Road,Kolkata,4-way,57,18,100,8,53,32,70,20
+India,Eastern Metropolitan Bypass,Kolkata,4-way,4,695,117,117,15,105,72,72
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,19,68,14,135,33,57,27,75
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,106,162,109,18,71,78,71,32
+India,Mahatma Gandhi Marg,Indore,4-way,4,35,47,81,15,44,49,62
+India,A.B. Road,Indore,4-way,0,108,15,403,10,71,28,105
+India,Dewas Road,Indore,4-way,185,26,266,80,81,40,105,62
+India,Ujjain Road,Indore,4-way,193,28,13,72,82,41,26,59
+India,Dhar Road,Indore,4-way,108,198,1,57,71,83,11,53
+India,Pithampur Road,Indore,4-way,4,19,37,58,15,33,45,53
+India,Khandwa Road,Indore,4-way,2,29,158,165,12,42,78,79
+India,Nemawar Road,Indore,4-way,1,86,26,86,11,64,40,64
+India,Sarafa Bazaar,Indore,4-way,30,198,53,148,42,83,51,76
+India,Chappan Dukan,Indore,4-way,438,20,15,15,105,34,28,28
+India,Olpad-Rander Road,Surat,4-way,16,158,177,82,29,78,80,63
+India,Hazira-Adajan Road,Surat,4-way,13,87,43,324,26,65,47,105
+India,Sachin-Udhna Road,Surat,4-way,81,81,76,6,62,62,60,17
+India,Dumas-Athwa Road,Surat,4-way,20,104,36,59,34,71,44,54
+India,Kamrej-Varachha Road,Surat,4-way,926,52,0,1,105,51,10,11
+India,Kadodara-Sahara Road,Surat,4-way,58,384,67,72,53,105,57,59
+India,National Highway 6 (NH6),Surat,4-way,166,135,0,34,79,75,10,44
+India,National Highway 8 (NH8),Surat,4-way,5,99,76,55,16,70,60,52
+India,Outer Ring Road,Surat,4-way,593,97,137,32,105,69,75,43
+India,Surat-Chennai Expressway,Surat,4-way,193,153,44,18,82,77,48,32
+India,J.M. Road,Pune,4-way,10,167,57,26,22,79,53,40
+India,Fergusson College Road (FC Road),Pune,4-way,679,609,155,192,105,105,77,82
+India,Laxmi Road,Pune,4-way,90,183,83,8,66,81,63,20
+India,Shivaji Nagar,Pune,4-way,777,423,54,41,105,105,52,46
+India,Koregaon Park,Pune,4-way,77,353,723,59,61,105,105,54
+India,Kothrud,Pune,4-way,57,89,81,18,53,66,62,32
+India,Viman Nagar,Pune,4-way,15,22,145,18,28,36,76,32
+India,Aundh,Pune,4-way,88,87,157,126,65,65,78,73
+India,Magarpatta City,Pune,4-way,756,10,26,25,105,22,40,40
+India,New Kalyani Nagar,Pune,4-way,15,247,17,752,28,90,30,105
+India,LBS Marg Junction,Mumbai,4-way,181,316,113,15,81,105,72,28
+India,Gandhi Nagar Junction,Mumbai,4-way,29,2,8,18,42,12,20,32
+India,Jolly Marg Junction,Mumbai,4-way,20,1137,165,58,34,105,79,53
+India,Nikolsawadi Circle,Mumbai,4-way,117,79,329,48,72,62,105,49
+India,MIDC A Cross Road,Mumbai,4-way,0,166,16,170,10,79,29,79
+India,N S Phadke Marg,Mumbai,4-way,90,470,13,6,66,105,26,17
+India,Gokhale Bridge,Delhi,4-way,123,29,876,163,73,42,105,78
+India,DND Flyway,Delhi,4-way,28,3,17,47,41,14,30,49
+India,Maharani Bagh,Delhi,4-way,172,19,32,18,80,33,43,32
+India,Burari Road,Delhi,4-way,74,14,1177,59,60,27,105,54
+India,Khyber Pass Crossing,Delhi,4-way,11,136,22,881,23,75,36,105
+India,Nigam Bodh Ghat,Delhi,4-way,13,33,100,118,26,43,70,72
+India,P.S. Timarpur,Delhi,4-way,56,8,2,10,52,20,12,22
+India,Mall Road,Delhi,4-way,14,113,135,157,27,72,75,78
+India,Chennai Bypass Road,Chennai,4-way,108,53,93,845,71,51,67,105
+India,Bangalore Chennai Expressway,Chennai,4-way,30,157,221,152,42,78,86,77
+India,Anna Salai,Chennai,4-way,12,37,960,25,24,45,105,40
+India,EVR Periyar Salai,Chennai,4-way,133,81,783,58,74,62,105,53
+India,Arukilpadi road,Chennai,4-way,192,8,81,116,82,20,62,72
+India,Thakkolam,Chennai,4-way,215,761,32,14,85,105,43,27
+India,Golden Quadrilateral,Chennai,4-way,18,283,11,38,32,105,23,45
+India,Chowringhee Road,Kolkata,4-way,198,156,8,87,83,77,20,65
+India,Hazra Road,Kolkata,4-way,17,869,15,117,30,105,28,72
+India,Park Street,Kolkata,4-way,162,193,19,20,78,82,33,34
+India,Hazra Road,Kolkata,4-way,114,18,105,12,72,32,71,24
+India,College Street,Kolkata,4-way,32,61,25,19,43,54,40,33
+India,Jaddu Mullick Street,Kolkata,4-way,395,16,578,16,105,29,105,29
+India,Raja SC Mullick Road,Kolkata,4-way,199,6,4,158,83,17,15,78
+India,Burdwan Road,Kolkata,4-way,14,26,18,39,27,40,32,46
+India,Burdwan Road,Kolkata,4-way,69,573,92,151,58,105,67,77
+India,Eastern Metropolitan Bypass,Kolkata,4-way,157,82,13,826,78,63,26,105
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,139,0,186,78,75,10,81,61
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,20,121,12,580,34,73,24,105
+India,Mahatma Gandhi Marg,Indore,4-way,930,59,128,90,105,54,74,66
+India,A.B. Road,Indore,4-way,181,121,28,637,81,73,41,105
+India,Dewas Road,Indore,4-way,35,159,10,850,44,78,22,105
+India,Ujjain Road,Indore,4-way,569,5,46,171,105,16,48,79
+India,Dhar Road,Indore,4-way,709,9,152,76,105,21,77,60
+India,Pithampur Road,Indore,4-way,31,137,183,29,42,75,81,42
+India,Khandwa Road,Indore,4-way,13,0,87,502,26,10,65,105
+India,Nemawar Road,Indore,4-way,62,0,53,196,55,10,51,83
+India,Sarafa Bazaar,Indore,4-way,41,25,109,719,46,40,71,105
+India,Chappan Dukan,Indore,4-way,59,30,18,11,54,42,32,23
+India,Olpad-Rander Road,Surat,4-way,19,94,1061,39,33,68,105,46
+India,Hazira-Adajan Road,Surat,4-way,40,93,13,8,46,67,26,20
+India,Sachin-Udhna Road,Surat,4-way,142,16,11,650,76,29,23,105
+India,Dumas-Athwa Road,Surat,4-way,663,12,184,36,105,24,81,44
+India,Kamrej-Varachha Road,Surat,4-way,0,0,8,96,10,10,20,68
+India,Kadodara-Sahara Road,Surat,4-way,161,6,17,135,78,17,30,75
+India,National Highway 6 (NH6),Surat,4-way,1189,86,127,60,105,64,74,54
+India,National Highway 8 (NH8),Surat,4-way,40,1142,5,66,46,105,16,56
+India,Outer Ring Road,Surat,4-way,414,4,18,14,105,15,32,27
+India,Surat-Chennai Expressway,Surat,4-way,5,717,71,3,16,105,58,14
+India,J.M. Road,Pune,4-way,1034,302,7,77,105,105,18,61
+India,Fergusson College Road (FC Road),Pune,4-way,4,446,20,164,15,105,34,79
+India,Laxmi Road,Pune,4-way,37,155,453,25,45,77,105,40
+India,Shivaji Nagar,Pune,4-way,13,73,12,370,26,59,24,105
+India,Koregaon Park,Pune,4-way,222,49,66,0,86,50,56,10
+India,Kothrud,Pune,4-way,4,180,12,17,15,81,24,30
+India,Viman Nagar,Pune,4-way,95,0,189,138,68,10,82,75
+India,Aundh,Pune,4-way,6,162,57,191,17,78,53,82
+India,Magarpatta City,Pune,4-way,12,1177,0,101,24,105,10,70
+India,New Kalyani Nagar,Pune,4-way,50,56,356,146,50,52,105,76
+India,LBS Marg Junction,Mumbai,4-way,38,0,1176,165,45,10,105,79
+India,Gandhi Nagar Junction,Mumbai,4-way,27,1,1,0,41,11,11,10
+India,Jolly Marg Junction,Mumbai,4-way,15,44,118,183,28,48,72,81
+India,Nikolsawadi Circle,Mumbai,4-way,11,113,154,166,23,72,77,79
+India,MIDC A Cross Road,Mumbai,4-way,6,67,137,51,17,57,75,50
+India,N S Phadke Marg,Mumbai,4-way,1007,9,721,12,105,21,105,24
+India,Gokhale Bridge,Delhi,4-way,85,44,1176,87,64,48,105,65
+India,DND Flyway,Delhi,4-way,0,10,27,144,10,22,41,76
+India,Maharani Bagh,Delhi,4-way,9,161,9,92,21,78,21,67
+India,Burari Road,Delhi,4-way,1,9,92,126,11,21,67,73
+India,Khyber Pass Crossing,Delhi,4-way,6,0,38,7,17,10,45,18
+India,Nigam Bodh Ghat,Delhi,4-way,11,19,386,93,23,33,105,67
+India,P.S. Timarpur,Delhi,4-way,12,530,1,700,24,105,11,105
+India,Mall Road,Delhi,4-way,834,51,2,1057,105,50,12,105
+India,Chennai Bypass Road,Chennai,4-way,474,341,981,50,105,105,105,50
+India,Bangalore Chennai Expressway,Chennai,4-way,0,573,61,1022,10,105,54,105
+India,Anna Salai,Chennai,4-way,199,132,157,23,83,74,78,38
+India,EVR Periyar Salai,Chennai,4-way,12,868,111,80,24,105,71,62
+India,Arukilpadi road,Chennai,4-way,19,893,525,18,33,105,105,32
+India,Thakkolam,Chennai,4-way,16,136,193,12,29,75,82,24
+India,Golden Quadrilateral,Chennai,4-way,14,30,630,253,27,42,105,105
+India,Chowringhee Road,Kolkata,4-way,962,570,9,89,105,105,21,66
+India,Hazra Road,Kolkata,4-way,0,681,132,76,10,105,74,60
+India,Park Street,Kolkata,4-way,21,826,97,6,35,105,69,17
+India,Hazra Road,Kolkata,4-way,10,259,106,899,22,105,71,105
+India,College Street,Kolkata,4-way,851,35,13,28,105,44,26,41
+India,Jaddu Mullick Street,Kolkata,4-way,124,18,770,398,73,32,105,105
+India,Raja SC Mullick Road,Kolkata,4-way,925,72,573,79,105,59,105,62
+India,Burdwan Road,Kolkata,4-way,257,18,186,12,105,32,81,24
+India,Burdwan Road,Kolkata,4-way,878,82,83,33,105,63,63,43
+India,Eastern Metropolitan Bypass,Kolkata,4-way,101,17,68,16,70,30,57,29
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,63,761,448,12,55,105,105,24
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,0,14,712,53,10,27,105,51
+India,Mahatma Gandhi Marg,Indore,4-way,6,75,860,0,17,60,105,10
+India,A.B. Road,Indore,4-way,64,119,10,1106,56,73,22,105
+India,Dewas Road,Indore,4-way,16,345,80,11,29,105,62,23
+India,Ujjain Road,Indore,4-way,25,42,92,647,40,47,67,105
+India,Dhar Road,Indore,4-way,190,3,185,63,82,14,81,55
+India,Pithampur Road,Indore,4-way,153,916,971,4,77,105,105,15
+India,Khandwa Road,Indore,4-way,97,129,19,43,69,74,33,47
+India,Nemawar Road,Indore,4-way,123,99,8,607,73,70,20,105
+India,Sarafa Bazaar,Indore,4-way,2,60,16,84,12,54,29,64
+India,Chappan Dukan,Indore,4-way,116,888,97,77,72,105,69,61
+India,Olpad-Rander Road,Surat,4-way,154,1,5,88,77,11,16,65
+India,Hazira-Adajan Road,Surat,4-way,18,171,4,53,32,79,15,51
+India,Sachin-Udhna Road,Surat,4-way,0,146,0,1150,10,76,10,105
+India,Dumas-Athwa Road,Surat,4-way,71,0,1057,16,58,10,105,29
+India,Kamrej-Varachha Road,Surat,4-way,84,11,80,1149,64,23,62,105
+India,Kadodara-Sahara Road,Surat,4-way,76,33,14,86,60,43,27,64
+India,National Highway 6 (NH6),Surat,4-way,366,28,1,125,105,41,11,73
+India,National Highway 8 (NH8),Surat,4-way,146,249,694,672,76,90,105,105
+India,Outer Ring Road,Surat,4-way,1,57,75,1053,11,53,60,105
+India,Surat-Chennai Expressway,Surat,4-way,204,0,0,48,84,10,10,49
+India,J.M. Road,Pune,4-way,874,89,96,38,105,66,68,45
+India,Fergusson College Road (FC Road),Pune,4-way,29,29,487,362,42,42,105,105
+India,Laxmi Road,Pune,4-way,50,161,95,21,50,78,68,35
+India,Shivaji Nagar,Pune,4-way,13,17,560,579,26,30,105,105
+India,Koregaon Park,Pune,4-way,15,13,576,74,28,26,105,60
+India,Kothrud,Pune,4-way,1,124,1131,15,11,73,105,28
+India,Viman Nagar,Pune,4-way,47,2,77,28,49,12,61,41
+India,Aundh,Pune,4-way,999,12,74,754,105,24,60,105
+India,Magarpatta City,Pune,4-way,47,0,36,162,49,10,44,78
+India,New Kalyani Nagar,Pune,4-way,33,149,96,12,43,77,68,24
+India,LBS Marg Junction,Mumbai,4-way,25,164,1,0,40,79,11,10
+India,Gandhi Nagar Junction,Mumbai,4-way,482,908,56,154,105,105,52,77
+India,Jolly Marg Junction,Mumbai,4-way,24,12,60,14,39,24,54,27
+India,Nikolsawadi Circle,Mumbai,4-way,39,984,679,32,46,105,105,43
+India,MIDC A Cross Road,Mumbai,4-way,15,1,86,525,28,11,64,105
+India,N S Phadke Marg,Mumbai,4-way,1005,532,79,51,105,105,62,50
+India,Gokhale Bridge,Delhi,4-way,61,599,253,606,54,105,105,105
+India,DND Flyway,Delhi,4-way,12,143,37,887,24,76,45,105
+India,Maharani Bagh,Delhi,4-way,607,9,16,424,105,21,29,105
+India,Burari Road,Delhi,4-way,1118,111,5,20,105,71,16,34
+India,Khyber Pass Crossing,Delhi,4-way,0,51,95,57,10,50,68,53
+India,Nigam Bodh Ghat,Delhi,4-way,78,92,15,489,61,67,28,105
+India,P.S. Timarpur,Delhi,4-way,27,90,15,31,41,66,28,42
+India,Mall Road,Delhi,4-way,575,197,131,136,105,83,74,75
+India,Chennai Bypass Road,Chennai,4-way,104,14,109,0,71,27,71,10
+India,Bangalore Chennai Expressway,Chennai,4-way,67,59,0,135,57,54,10,75
+India,Anna Salai,Chennai,4-way,57,87,44,16,53,65,48,29
+India,EVR Periyar Salai,Chennai,4-way,88,84,32,41,65,64,43,46
+India,Arukilpadi road,Chennai,4-way,45,4,17,0,48,15,30,10
+India,Thakkolam,Chennai,4-way,9,626,159,4,21,105,78,15
+India,Golden Quadrilateral,Chennai,4-way,49,128,11,60,50,74,23,54
+India,Chowringhee Road,Kolkata,4-way,1183,25,152,158,105,40,77,78
+India,Hazra Road,Kolkata,4-way,16,4,158,0,29,15,78,10
+India,Park Street,Kolkata,4-way,85,50,87,15,64,50,65,28
+India,Hazra Road,Kolkata,4-way,96,14,19,61,68,27,33,54
+India,College Street,Kolkata,4-way,191,1002,19,44,82,105,33,48
+India,Jaddu Mullick Street,Kolkata,4-way,0,18,64,21,10,32,56,35
+India,Raja SC Mullick Road,Kolkata,4-way,20,1019,5,486,34,105,16,105
+India,Burdwan Road,Kolkata,4-way,12,96,88,8,24,68,65,20
+India,Burdwan Road,Kolkata,4-way,63,13,43,11,55,26,47,23
+India,Eastern Metropolitan Bypass,Kolkata,4-way,74,89,72,149,60,66,59,77
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,0,189,284,479,10,82,105,105
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,88,674,15,125,65,105,28,73
+India,Mahatma Gandhi Marg,Indore,4-way,17,445,1150,25,30,105,105,40
+India,A.B. Road,Indore,4-way,200,0,13,86,83,10,26,64
+India,Dewas Road,Indore,4-way,1062,470,55,447,105,105,52,105
+India,Ujjain Road,Indore,4-way,186,0,88,195,81,10,65,83
+India,Dhar Road,Indore,4-way,5,13,75,1107,16,26,60,105
+India,Pithampur Road,Indore,4-way,177,0,6,128,80,10,17,74
+India,Khandwa Road,Indore,4-way,83,154,12,114,63,77,24,72
+India,Nemawar Road,Indore,4-way,14,163,22,30,27,78,36,42
+India,Sarafa Bazaar,Indore,4-way,33,86,15,63,43,64,28,55
+India,Chappan Dukan,Indore,4-way,72,11,278,19,59,23,105,33
+India,Olpad-Rander Road,Surat,4-way,902,19,101,37,105,33,70,45
+India,Hazira-Adajan Road,Surat,4-way,587,17,13,191,105,30,26,82
+India,Sachin-Udhna Road,Surat,4-way,66,14,6,3,56,27,17,14
+India,Dumas-Athwa Road,Surat,4-way,7,154,16,90,18,77,29,66
+India,Kamrej-Varachha Road,Surat,4-way,185,91,69,20,81,66,58,34
+India,Kadodara-Sahara Road,Surat,4-way,988,43,43,88,105,47,47,65
+India,National Highway 6 (NH6),Surat,4-way,103,5,88,85,70,16,65,64
+India,National Highway 8 (NH8),Surat,4-way,149,199,140,30,77,83,75,42
+India,Outer Ring Road,Surat,4-way,32,19,12,18,43,33,24,32
+India,Surat-Chennai Expressway,Surat,4-way,15,701,31,9,28,105,42,21
+India,J.M. Road,Pune,4-way,30,87,13,12,42,65,26,24
+India,Fergusson College Road (FC Road),Pune,4-way,889,11,24,17,105,23,39,30
+India,Laxmi Road,Pune,4-way,19,17,557,67,33,30,105,57
+India,Shivaji Nagar,Pune,4-way,1045,24,833,71,105,39,105,58
+India,Koregaon Park,Pune,4-way,94,1011,0,3,68,105,10,14
+India,Kothrud,Pune,4-way,12,16,171,4,24,29,79,15
+India,Viman Nagar,Pune,4-way,88,13,20,12,65,26,34,24
+India,Aundh,Pune,4-way,42,129,138,284,47,74,75,105
+India,Magarpatta City,Pune,4-way,127,1002,98,116,74,105,69,72
+India,New Kalyani Nagar,Pune,4-way,46,18,0,12,48,32,10,24
+India,LBS Marg Junction,Mumbai,4-way,19,96,1049,154,33,68,105,77
+India,Gandhi Nagar Junction,Mumbai,4-way,147,98,22,132,76,69,36,74
+India,Jolly Marg Junction,Mumbai,4-way,34,565,0,7,44,105,10,18
+India,Nikolsawadi Circle,Mumbai,4-way,2,61,102,98,12,54,70,69
+India,MIDC A Cross Road,Mumbai,4-way,47,38,77,13,49,45,61,26
+India,N S Phadke Marg,Mumbai,4-way,13,456,134,49,26,105,75,50
+India,Gokhale Bridge,Delhi,4-way,21,0,35,36,35,10,44,44
+India,DND Flyway,Delhi,4-way,76,81,66,158,60,62,56,78
+India,Maharani Bagh,Delhi,4-way,789,12,17,1091,105,24,30,105
+India,Burari Road,Delhi,4-way,382,9,180,27,105,21,81,41
+India,Khyber Pass Crossing,Delhi,4-way,95,154,156,16,68,77,77,29
+India,Nigam Bodh Ghat,Delhi,4-way,2,268,916,28,12,105,105,41
+India,P.S. Timarpur,Delhi,4-way,20,126,1007,94,34,73,105,68
+India,Mall Road,Delhi,4-way,734,25,76,42,105,40,60,47
+India,Chennai Bypass Road,Chennai,4-way,27,65,8,7,41,56,20,18
+India,Bangalore Chennai Expressway,Chennai,4-way,89,640,4,44,66,105,15,48
+India,Anna Salai,Chennai,4-way,1,16,140,85,11,29,75,64
+India,EVR Periyar Salai,Chennai,4-way,0,65,45,3,10,56,48,14
+India,Arukilpadi road,Chennai,4-way,170,170,19,11,79,79,33,23
+India,Thakkolam,Chennai,4-way,42,3,157,35,47,14,78,44
+India,Golden Quadrilateral,Chennai,4-way,397,21,20,179,105,35,34,81
+India,Chowringhee Road,Kolkata,4-way,8,11,748,98,20,23,105,69
+India,Hazra Road,Kolkata,4-way,0,2,121,23,10,12,73,38
+India,Park Street,Kolkata,4-way,16,389,98,3,29,105,69,14
+India,Hazra Road,Kolkata,4-way,89,16,89,19,66,29,66,33
+India,College Street,Kolkata,4-way,46,197,54,59,48,83,52,54
+India,Jaddu Mullick Street,Kolkata,4-way,26,863,207,140,40,105,84,75
+India,Raja SC Mullick Road,Kolkata,4-way,93,3,174,25,67,14,80,40
+India,Burdwan Road,Kolkata,4-way,18,121,2,4,32,73,12,15
+India,Burdwan Road,Kolkata,4-way,154,33,166,18,77,43,79,32
+India,Eastern Metropolitan Bypass,Kolkata,4-way,67,13,195,87,57,26,83,65
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,46,450,89,154,48,105,66,77
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,36,10,0,15,44,22,10,28
+India,Mahatma Gandhi Marg,Indore,4-way,14,276,4,127,27,105,15,74
+India,A.B. Road,Indore,4-way,19,82,28,7,33,63,41,18
+India,Dewas Road,Indore,4-way,6,159,178,10,17,78,80,22
+India,Ujjain Road,Indore,4-way,1191,7,1055,62,105,18,105,55
+India,Dhar Road,Indore,4-way,45,47,106,12,48,49,71,24
+India,Pithampur Road,Indore,4-way,7,197,133,149,18,83,74,77
+India,Khandwa Road,Indore,4-way,965,9,895,92,105,21,105,67
+India,Nemawar Road,Indore,4-way,59,1047,11,18,54,105,23,32
+India,Sarafa Bazaar,Indore,4-way,11,135,22,60,23,75,36,54
+India,Chappan Dukan,Indore,4-way,44,188,45,15,48,82,48,28
+India,Olpad-Rander Road,Surat,4-way,18,990,19,0,32,105,33,10
+India,Hazira-Adajan Road,Surat,4-way,111,8,292,63,71,20,105,55
+India,Sachin-Udhna Road,Surat,4-way,76,984,13,143,60,105,26,76
+India,Dumas-Athwa Road,Surat,4-way,315,190,134,22,105,82,75,36
+India,Kamrej-Varachha Road,Surat,4-way,440,186,125,124,105,81,73,73
+India,Kadodara-Sahara Road,Surat,4-way,198,0,78,724,83,10,61,105
+India,National Highway 6 (NH6),Surat,4-way,169,420,13,11,79,105,26,23
+India,National Highway 8 (NH8),Surat,4-way,196,15,93,17,83,28,67,30
+India,Outer Ring Road,Surat,4-way,11,4,167,91,23,15,79,66
+India,Surat-Chennai Expressway,Surat,4-way,40,81,15,18,46,62,28,32
+India,J.M. Road,Pune,4-way,429,16,26,35,105,29,40,44
+India,Fergusson College Road (FC Road),Pune,4-way,55,17,196,140,52,30,83,75
+India,Laxmi Road,Pune,4-way,194,10,1179,28,83,22,105,41
+India,Shivaji Nagar,Pune,4-way,275,19,19,75,105,33,33,60
+India,Koregaon Park,Pune,4-way,47,61,674,149,49,54,105,77
+India,Kothrud,Pune,4-way,242,8,11,20,89,20,23,34
+India,Viman Nagar,Pune,4-way,195,15,166,43,83,28,79,47
+India,Aundh,Pune,4-way,163,717,25,688,78,105,40,105
+India,Magarpatta City,Pune,4-way,920,15,1190,4,105,28,105,15
+India,New Kalyani Nagar,Pune,4-way,79,745,65,78,62,105,56,61
+India,LBS Marg Junction,Mumbai,4-way,26,100,8,20,40,70,20,34
+India,Gandhi Nagar Junction,Mumbai,4-way,11,18,42,18,23,32,47,32
+India,Jolly Marg Junction,Mumbai,4-way,93,38,19,3,67,45,33,14
+India,Nikolsawadi Circle,Mumbai,4-way,512,9,1085,3,105,21,105,14
+India,MIDC A Cross Road,Mumbai,4-way,62,32,5,1151,55,43,16,105
+India,N S Phadke Marg,Mumbai,4-way,117,43,5,1012,72,47,16,105
+India,Gokhale Bridge,Delhi,4-way,83,833,142,36,63,105,76,44
+India,DND Flyway,Delhi,4-way,62,19,5,1090,55,33,16,105
+India,Maharani Bagh,Delhi,4-way,47,8,294,44,49,20,105,48
+India,Burari Road,Delhi,4-way,886,87,19,18,105,65,33,32
+India,Khyber Pass Crossing,Delhi,4-way,173,618,122,484,80,105,73,105
+India,Nigam Bodh Ghat,Delhi,4-way,3,54,14,1035,14,52,27,105
+India,P.S. Timarpur,Delhi,4-way,14,42,784,68,27,47,105,57
+India,Mall Road,Delhi,4-way,5,9,70,12,16,21,58,24
+India,Chennai Bypass Road,Chennai,4-way,959,1120,14,44,105,105,27,48
+India,Bangalore Chennai Expressway,Chennai,4-way,498,12,33,17,105,24,43,30
+India,Anna Salai,Chennai,4-way,35,12,87,0,44,24,65,10
+India,EVR Periyar Salai,Chennai,4-way,175,59,22,161,80,54,36,78
+India,Arukilpadi road,Chennai,4-way,196,156,17,242,83,77,30,89
+India,Thakkolam,Chennai,4-way,984,51,0,22,105,50,10,36
+India,Golden Quadrilateral,Chennai,4-way,4,7,11,100,15,18,23,70
+India,Chowringhee Road,Kolkata,4-way,158,3,44,93,78,14,48,67
+India,Hazra Road,Kolkata,4-way,50,200,121,85,50,83,73,64
+India,Park Street,Kolkata,4-way,637,10,631,807,105,22,105,105
+India,Hazra Road,Kolkata,4-way,2,165,126,175,12,79,73,80
+India,College Street,Kolkata,4-way,684,6,11,28,105,17,23,41
+India,Jaddu Mullick Street,Kolkata,4-way,14,179,401,168,27,81,105,79
+India,Raja SC Mullick Road,Kolkata,4-way,97,129,53,157,69,74,51,78
+India,Burdwan Road,Kolkata,4-way,166,37,4,1031,79,45,15,105
+India,Burdwan Road,Kolkata,4-way,39,358,74,156,46,105,60,77
+India,Eastern Metropolitan Bypass,Kolkata,4-way,37,0,80,12,45,10,62,24
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,194,76,1004,179,83,60,105,81
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,644,106,14,359,105,71,27,105
+India,Mahatma Gandhi Marg,Indore,4-way,889,67,12,16,105,57,24,29
+India,A.B. Road,Indore,4-way,61,196,369,14,54,83,105,27
+India,Dewas Road,Indore,4-way,494,904,152,99,105,105,77,70
+India,Ujjain Road,Indore,4-way,185,96,74,142,81,68,60,76
+India,Dhar Road,Indore,4-way,105,133,402,1,71,74,105,11
+India,Pithampur Road,Indore,4-way,73,1193,85,73,59,105,64,59
+India,Khandwa Road,Indore,4-way,170,940,29,453,79,105,42,105
+India,Nemawar Road,Indore,4-way,688,139,141,89,105,75,75,66
+India,Sarafa Bazaar,Indore,4-way,95,14,46,79,68,27,48,62
+India,Chappan Dukan,Indore,4-way,20,88,93,0,34,65,67,10
+India,Olpad-Rander Road,Surat,4-way,93,334,859,972,67,105,105,105
+India,Hazira-Adajan Road,Surat,4-way,174,8,1,20,80,20,11,34
+India,Sachin-Udhna Road,Surat,4-way,456,62,188,180,105,55,82,81
+India,Dumas-Athwa Road,Surat,4-way,175,75,14,19,80,60,27,33
+India,Kamrej-Varachha Road,Surat,4-way,68,101,0,0,57,70,10,10
+India,Kadodara-Sahara Road,Surat,4-way,30,14,174,147,42,27,80,76
+India,National Highway 6 (NH6),Surat,4-way,28,22,98,62,41,36,69,55
+India,National Highway 8 (NH8),Surat,4-way,47,84,15,230,49,64,28,87
+India,Outer Ring Road,Surat,4-way,1037,16,19,105,105,29,33,71
+India,Surat-Chennai Expressway,Surat,4-way,82,58,38,130,63,53,45,74
+India,J.M. Road,Pune,4-way,97,36,989,125,69,44,105,73
+India,Fergusson College Road (FC Road),Pune,4-way,34,1015,0,152,44,105,10,77
+India,Laxmi Road,Pune,4-way,109,42,35,14,71,47,44,27
+India,Shivaji Nagar,Pune,4-way,170,43,3,175,79,47,14,80
+India,Koregaon Park,Pune,4-way,34,9,96,52,44,21,68,51
+India,Kothrud,Pune,4-way,0,423,28,155,10,105,41,77
+India,Viman Nagar,Pune,4-way,147,137,11,39,76,75,23,46
+India,Aundh,Pune,4-way,3,88,38,25,14,65,45,40
+India,Magarpatta City,Pune,4-way,30,143,956,600,42,76,105,105
+India,New Kalyani Nagar,Pune,4-way,2,10,970,1132,12,22,105,105
+India,LBS Marg Junction,Mumbai,4-way,63,80,10,6,55,62,22,17
+India,Gandhi Nagar Junction,Mumbai,4-way,158,73,5,87,78,59,16,65
+India,Jolly Marg Junction,Mumbai,4-way,42,5,16,90,47,16,29,66
+India,Nikolsawadi Circle,Mumbai,4-way,946,317,69,13,105,105,58,26
+India,MIDC A Cross Road,Mumbai,4-way,14,21,54,12,27,35,52,24
+India,N S Phadke Marg,Mumbai,4-way,194,58,20,14,83,53,34,27
+India,Gokhale Bridge,Delhi,4-way,16,10,525,13,29,22,105,26
+India,DND Flyway,Delhi,4-way,549,10,52,12,105,22,51,24
+India,Maharani Bagh,Delhi,4-way,50,134,51,40,50,75,50,46
+India,Burari Road,Delhi,4-way,6,55,179,16,17,52,81,29
+India,Khyber Pass Crossing,Delhi,4-way,949,6,78,67,105,17,61,57
+India,Nigam Bodh Ghat,Delhi,4-way,5,2,51,65,16,12,50,56
+India,P.S. Timarpur,Delhi,4-way,90,161,89,102,66,78,66,70
+India,Mall Road,Delhi,4-way,13,20,107,118,26,34,71,72
+India,Chennai Bypass Road,Chennai,4-way,83,17,53,108,63,30,51,71
+India,Bangalore Chennai Expressway,Chennai,4-way,90,80,18,62,66,62,32,55
+India,Anna Salai,Chennai,4-way,16,95,5,162,29,68,16,78
+India,EVR Periyar Salai,Chennai,4-way,20,23,27,61,34,38,41,54
+India,Arukilpadi road,Chennai,4-way,50,13,17,3,50,26,30,14
+India,Thakkolam,Chennai,4-way,478,521,935,19,105,105,105,33
+India,Golden Quadrilateral,Chennai,4-way,19,33,116,72,33,43,72,59
+India,Chowringhee Road,Kolkata,4-way,9,1165,119,83,21,105,73,63
+India,Hazra Road,Kolkata,4-way,60,20,79,87,54,34,62,65
+India,Park Street,Kolkata,4-way,230,134,14,198,87,75,27,83
+India,Hazra Road,Kolkata,4-way,1181,0,11,48,105,10,23,49
+India,College Street,Kolkata,4-way,14,482,11,24,27,105,23,39
+India,Jaddu Mullick Street,Kolkata,4-way,565,18,82,172,105,32,63,80
+India,Raja SC Mullick Road,Kolkata,4-way,11,1200,132,87,23,105,74,65
+India,Burdwan Road,Kolkata,4-way,280,84,81,18,105,64,62,32
+India,Burdwan Road,Kolkata,4-way,191,670,181,497,82,105,81,105
+India,Eastern Metropolitan Bypass,Kolkata,4-way,12,6,603,11,24,17,105,23
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,132,989,15,29,74,105,28,42
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,8,19,19,0,20,33,33,10
+India,Mahatma Gandhi Marg,Indore,4-way,39,1033,966,184,46,105,105,81
+India,A.B. Road,Indore,4-way,700,12,145,179,105,24,76,81
+India,Dewas Road,Indore,4-way,17,618,180,91,30,105,81,66
+India,Ujjain Road,Indore,4-way,1131,0,47,73,105,10,49,59
+India,Dhar Road,Indore,4-way,9,1056,6,1119,21,105,17,105
+India,Pithampur Road,Indore,4-way,47,19,17,151,49,33,30,77
+India,Khandwa Road,Indore,4-way,1141,16,475,20,105,29,105,34
+India,Nemawar Road,Indore,4-way,762,148,86,45,105,76,64,48
+India,Sarafa Bazaar,Indore,4-way,18,24,1163,200,32,39,105,83
+India,Chappan Dukan,Indore,4-way,18,17,293,18,32,30,105,32
+India,Olpad-Rander Road,Surat,4-way,11,16,149,55,23,29,77,52
+India,Hazira-Adajan Road,Surat,4-way,516,90,95,74,105,66,68,60
+India,Sachin-Udhna Road,Surat,4-way,9,153,0,17,21,77,10,30
+India,Dumas-Athwa Road,Surat,4-way,81,9,2,14,62,21,12,27
+India,Kamrej-Varachha Road,Surat,4-way,0,0,19,36,10,10,33,44
+India,Kadodara-Sahara Road,Surat,4-way,14,581,18,108,27,105,32,71
+India,National Highway 6 (NH6),Surat,4-way,525,23,9,16,105,38,21,29
+India,National Highway 8 (NH8),Surat,4-way,4,20,20,38,15,34,34,45
+India,Outer Ring Road,Surat,4-way,8,0,54,4,20,10,52,15
+India,Surat-Chennai Expressway,Surat,4-way,5,41,1005,100,16,46,105,70
+India,J.M. Road,Pune,4-way,5,4,1103,0,16,15,105,10
+India,Fergusson College Road (FC Road),Pune,4-way,86,88,154,7,64,65,77,18
+India,Laxmi Road,Pune,4-way,96,80,76,45,68,62,60,48
+India,Shivaji Nagar,Pune,4-way,17,63,11,98,30,55,23,69
+India,Koregaon Park,Pune,4-way,126,623,136,4,73,105,75,15
+India,Kothrud,Pune,4-way,13,137,141,402,26,75,75,105
+India,Viman Nagar,Pune,4-way,47,83,12,23,49,63,24,38
+India,Aundh,Pune,4-way,76,1025,86,90,60,105,64,66
+India,Magarpatta City,Pune,4-way,1,337,84,12,11,105,64,24
+India,New Kalyani Nagar,Pune,4-way,20,88,40,7,34,65,46,18
+India,LBS Marg Junction,Mumbai,4-way,133,18,45,19,74,32,48,33
+India,Gandhi Nagar Junction,Mumbai,4-way,15,174,197,83,28,80,83,63
+India,Jolly Marg Junction,Mumbai,4-way,882,62,20,120,105,55,34,73
+India,Nikolsawadi Circle,Mumbai,4-way,14,100,473,27,27,70,105,41
+India,MIDC A Cross Road,Mumbai,4-way,8,228,85,672,20,87,64,105
+India,N S Phadke Marg,Mumbai,4-way,12,17,170,880,24,30,79,105
+India,Gokhale Bridge,Delhi,4-way,4,689,3,311,15,105,14,105
+India,DND Flyway,Delhi,4-way,1137,24,628,20,105,39,105,34
+India,Maharani Bagh,Delhi,4-way,9,10,0,86,21,22,10,64
+India,Burari Road,Delhi,4-way,1152,34,428,10,105,44,105,22
+India,Khyber Pass Crossing,Delhi,4-way,5,9,1151,899,16,21,105,105
+India,Nigam Bodh Ghat,Delhi,4-way,6,35,172,77,17,44,80,61
+India,P.S. Timarpur,Delhi,4-way,52,1006,91,28,51,105,66,41
+India,Mall Road,Delhi,4-way,77,15,13,15,61,28,26,28
+India,Chennai Bypass Road,Chennai,4-way,5,17,17,191,16,30,30,82
+India,Bangalore Chennai Expressway,Chennai,4-way,18,120,17,861,32,73,30,105
+India,Anna Salai,Chennai,4-way,580,15,44,76,105,28,48,60
+India,EVR Periyar Salai,Chennai,4-way,13,87,377,12,26,65,105,24
+India,Arukilpadi road,Chennai,4-way,82,11,17,152,63,23,30,77
+India,Thakkolam,Chennai,4-way,46,18,122,616,48,32,73,105
+India,Golden Quadrilateral,Chennai,4-way,11,553,19,2,23,105,33,12
+India,Chowringhee Road,Kolkata,4-way,153,45,393,843,77,48,105,105
+India,Hazra Road,Kolkata,4-way,12,644,597,53,24,105,105,51
+India,Park Street,Kolkata,4-way,13,94,28,71,26,68,41,58
+India,Hazra Road,Kolkata,4-way,0,42,478,994,10,47,105,105
+India,College Street,Kolkata,4-way,89,12,36,18,66,24,44,32
+India,Jaddu Mullick Street,Kolkata,4-way,120,19,200,2,73,33,83,12
+India,Raja SC Mullick Road,Kolkata,4-way,139,99,77,18,75,70,61,32
+India,Burdwan Road,Kolkata,4-way,80,9,616,14,62,21,105,27
+India,Burdwan Road,Kolkata,4-way,896,13,132,15,105,26,74,28
+India,Eastern Metropolitan Bypass,Kolkata,4-way,188,938,217,70,82,105,86,58
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,951,24,13,19,105,39,26,33
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,138,19,11,45,75,33,23,48
+India,Mahatma Gandhi Marg,Indore,4-way,9,95,1081,33,21,68,105,43
+India,A.B. Road,Indore,4-way,166,68,120,64,79,57,73,56
+India,Dewas Road,Indore,4-way,48,808,72,84,49,105,59,64
+India,Ujjain Road,Indore,4-way,83,58,831,91,63,53,105,66
+India,Dhar Road,Indore,4-way,1160,5,0,70,105,16,10,58
+India,Pithampur Road,Indore,4-way,28,0,1,326,41,10,11,105
+India,Khandwa Road,Indore,4-way,3,13,40,44,14,26,46,48
+India,Nemawar Road,Indore,4-way,79,35,15,18,62,44,28,32
+India,Sarafa Bazaar,Indore,4-way,330,62,110,15,105,55,71,28
+India,Chappan Dukan,Indore,4-way,5,513,87,81,16,105,65,62
+India,Olpad-Rander Road,Surat,4-way,93,36,14,313,67,44,27,105
+India,Hazira-Adajan Road,Surat,4-way,174,24,12,143,80,39,24,76
+India,Sachin-Udhna Road,Surat,4-way,367,59,50,18,105,54,50,32
+India,Dumas-Athwa Road,Surat,4-way,123,96,139,861,73,68,75,105
+India,Kamrej-Varachha Road,Surat,4-way,187,79,9,12,82,62,21,24
+India,Kadodara-Sahara Road,Surat,4-way,117,24,194,389,72,39,83,105
+India,National Highway 6 (NH6),Surat,4-way,41,15,24,15,46,28,39,28
+India,National Highway 8 (NH8),Surat,4-way,109,83,129,133,71,63,74,74
+India,Outer Ring Road,Surat,4-way,11,16,538,100,23,29,105,70
+India,Surat-Chennai Expressway,Surat,4-way,1162,9,54,184,105,21,52,81
+India,J.M. Road,Pune,4-way,20,0,750,13,34,10,105,26
+India,Fergusson College Road (FC Road),Pune,4-way,307,16,20,36,105,29,34,44
+India,Laxmi Road,Pune,4-way,175,996,22,28,80,105,36,41
+India,Shivaji Nagar,Pune,4-way,69,133,15,20,58,74,28,34
+India,Koregaon Park,Pune,4-way,20,108,201,66,34,71,83,56
+India,Kothrud,Pune,4-way,632,114,17,17,105,72,30,30
+India,Viman Nagar,Pune,4-way,188,168,116,758,82,79,72,105
+India,Aundh,Pune,4-way,56,11,0,41,52,23,10,46
+India,Magarpatta City,Pune,4-way,1134,96,90,93,105,68,66,67
+India,New Kalyani Nagar,Pune,4-way,618,15,537,0,105,28,105,10
+India,LBS Marg Junction,Mumbai,4-way,39,855,64,19,46,105,56,33
+India,Gandhi Nagar Junction,Mumbai,4-way,130,4,113,19,74,15,72,33
+India,Jolly Marg Junction,Mumbai,4-way,2,15,103,19,12,28,70,33
+India,Nikolsawadi Circle,Mumbai,4-way,45,541,99,15,48,105,70,28
+India,MIDC A Cross Road,Mumbai,4-way,27,427,17,10,41,105,30,22
+India,N S Phadke Marg,Mumbai,4-way,171,179,60,13,79,81,54,26
+India,Gokhale Bridge,Delhi,4-way,0,810,44,23,10,105,48,38
+India,DND Flyway,Delhi,4-way,1022,160,199,17,105,78,83,30
+India,Maharani Bagh,Delhi,4-way,72,271,93,12,59,105,67,24
+India,Burari Road,Delhi,4-way,71,91,7,587,58,66,18,105
+India,Khyber Pass Crossing,Delhi,4-way,14,180,156,47,27,81,77,49
+India,Nigam Bodh Ghat,Delhi,4-way,16,91,16,48,29,66,29,49
+India,P.S. Timarpur,Delhi,4-way,59,701,18,6,54,105,32,17
+India,Mall Road,Delhi,4-way,6,16,0,965,17,29,10,105
+India,Chennai Bypass Road,Chennai,4-way,0,14,49,109,10,27,50,71
+India,Bangalore Chennai Expressway,Chennai,4-way,2,172,321,1,12,80,105,11
+India,Anna Salai,Chennai,4-way,197,31,744,50,83,42,105,50
+India,EVR Periyar Salai,Chennai,4-way,114,149,57,19,72,77,53,33
+India,Arukilpadi road,Chennai,4-way,61,599,981,16,54,105,105,29
+India,Thakkolam,Chennai,4-way,785,42,189,131,105,47,82,74
+India,Golden Quadrilateral,Chennai,4-way,44,14,4,15,48,27,15,28
+India,Chowringhee Road,Kolkata,4-way,12,5,32,149,24,16,43,77
+India,Hazra Road,Kolkata,4-way,244,15,560,1125,89,28,105,105
+India,Park Street,Kolkata,4-way,88,66,922,502,65,56,105,105
+India,Hazra Road,Kolkata,4-way,92,20,1051,134,67,34,105,75
+India,College Street,Kolkata,4-way,13,7,171,31,26,18,79,42
+India,Jaddu Mullick Street,Kolkata,4-way,14,12,14,757,27,24,27,105
+India,Raja SC Mullick Road,Kolkata,4-way,848,91,1,37,105,66,11,45
+India,Burdwan Road,Kolkata,4-way,15,2,18,1157,28,12,32,105
+India,Burdwan Road,Kolkata,4-way,1,517,0,50,11,105,10,50
+India,Eastern Metropolitan Bypass,Kolkata,4-way,106,7,486,12,71,18,105,24
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,301,82,182,5,105,63,81,16
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,511,60,93,161,105,54,67,78
+India,Mahatma Gandhi Marg,Indore,4-way,144,7,192,11,76,18,82,23
+India,A.B. Road,Indore,4-way,133,51,718,70,74,50,105,58
+India,Dewas Road,Indore,4-way,61,96,20,90,54,68,34,66
+India,Ujjain Road,Indore,4-way,11,15,18,86,23,28,32,64
+India,Dhar Road,Indore,4-way,166,2,832,142,79,12,105,76
+India,Pithampur Road,Indore,4-way,875,42,125,199,105,47,73,83
+India,Khandwa Road,Indore,4-way,20,144,798,6,34,76,105,17
+India,Nemawar Road,Indore,4-way,89,123,1025,73,66,73,105,59
+India,Sarafa Bazaar,Indore,4-way,71,16,12,200,58,29,24,83
+India,Chappan Dukan,Indore,4-way,85,47,6,15,64,49,17,28
+India,Olpad-Rander Road,Surat,4-way,93,92,130,1198,67,67,74,105
+India,Hazira-Adajan Road,Surat,4-way,862,15,20,106,105,28,34,71
+India,Sachin-Udhna Road,Surat,4-way,61,70,103,18,54,58,70,32
+India,Dumas-Athwa Road,Surat,4-way,0,96,66,147,10,68,56,76
+India,Kamrej-Varachha Road,Surat,4-way,12,13,91,178,24,26,66,80
+India,Kadodara-Sahara Road,Surat,4-way,371,18,12,17,105,32,24,30
+India,National Highway 6 (NH6),Surat,4-way,100,466,962,1110,70,105,105,105
+India,National Highway 8 (NH8),Surat,4-way,964,9,35,841,105,21,44,105
+India,Outer Ring Road,Surat,4-way,41,416,848,2,46,105,105,12
+India,Surat-Chennai Expressway,Surat,4-way,432,89,62,82,105,66,55,63
+India,J.M. Road,Pune,4-way,911,19,595,12,105,33,105,24
+India,Fergusson College Road (FC Road),Pune,4-way,198,560,11,40,83,105,23,46
+India,Laxmi Road,Pune,4-way,192,78,199,87,82,61,83,65
+India,Shivaji Nagar,Pune,4-way,9,13,62,93,21,26,55,67
+India,Koregaon Park,Pune,4-way,0,8,81,1084,10,20,62,105
+India,Kothrud,Pune,4-way,19,14,28,302,33,27,41,105
+India,Viman Nagar,Pune,4-way,415,182,29,0,105,81,42,10
+India,Aundh,Pune,4-way,7,15,19,197,18,28,33,83
+India,Magarpatta City,Pune,4-way,138,46,66,120,75,48,56,73
+India,New Kalyani Nagar,Pune,4-way,0,938,96,10,10,105,68,22
+India,LBS Marg Junction,Mumbai,4-way,176,26,73,10,80,40,59,22
+India,Gandhi Nagar Junction,Mumbai,4-way,17,187,88,80,30,82,65,62
+India,Jolly Marg Junction,Mumbai,4-way,161,686,148,15,78,105,76,28
+India,Nikolsawadi Circle,Mumbai,4-way,707,34,11,86,105,44,23,64
+India,MIDC A Cross Road,Mumbai,4-way,0,76,454,14,10,60,105,27
+India,N S Phadke Marg,Mumbai,4-way,15,68,174,123,28,57,80,73
+India,Gokhale Bridge,Delhi,4-way,10,114,645,749,22,72,105,105
+India,DND Flyway,Delhi,4-way,1112,99,72,1117,105,70,59,105
+India,Maharani Bagh,Delhi,4-way,14,15,92,14,27,28,67,27
+India,Burari Road,Delhi,4-way,980,78,20,57,105,61,34,53
+India,Khyber Pass Crossing,Delhi,4-way,84,170,159,5,64,79,78,16
+India,Nigam Bodh Ghat,Delhi,4-way,5,454,15,106,16,105,28,71
+India,P.S. Timarpur,Delhi,4-way,100,67,0,13,70,57,10,26
+India,Mall Road,Delhi,4-way,191,101,362,121,82,70,105,73
+India,Chennai Bypass Road,Chennai,4-way,1,40,195,1069,11,46,83,105
+India,Bangalore Chennai Expressway,Chennai,4-way,114,708,130,18,72,105,74,32
+India,Anna Salai,Chennai,4-way,60,25,22,6,54,40,36,17
+India,EVR Periyar Salai,Chennai,4-way,17,107,22,287,30,71,36,105
+India,Arukilpadi road,Chennai,4-way,1190,18,67,190,105,32,57,82
+India,Thakkolam,Chennai,4-way,13,64,14,364,26,56,27,105
+India,Golden Quadrilateral,Chennai,4-way,2,1061,79,198,12,105,62,83
+India,Chowringhee Road,Kolkata,4-way,147,488,6,151,76,105,17,77
+India,Hazra Road,Kolkata,4-way,102,0,67,175,70,10,57,80
+India,Park Street,Kolkata,4-way,800,138,1114,89,105,75,105,66
+India,Hazra Road,Kolkata,4-way,65,207,18,22,56,84,32,36
+India,College Street,Kolkata,4-way,3,88,157,0,14,65,78,10
+India,Jaddu Mullick Street,Kolkata,4-way,11,19,1057,47,23,33,105,49
+India,Raja SC Mullick Road,Kolkata,4-way,6,22,652,13,17,36,105,26
+India,Burdwan Road,Kolkata,4-way,65,33,0,160,56,43,10,78
+India,Burdwan Road,Kolkata,4-way,212,183,16,44,85,81,29,48
+India,Eastern Metropolitan Bypass,Kolkata,4-way,6,41,16,77,17,46,29,61
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,131,70,132,8,74,58,74,20
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,59,89,140,1191,54,66,75,105
+India,Mahatma Gandhi Marg,Indore,4-way,189,12,498,18,82,24,105,32
+India,A.B. Road,Indore,4-way,17,1042,130,109,30,105,74,71
+India,Dewas Road,Indore,4-way,81,62,496,39,62,55,105,46
+India,Ujjain Road,Indore,4-way,170,15,146,817,79,28,76,105
+India,Dhar Road,Indore,4-way,49,7,40,40,50,18,46,46
+India,Pithampur Road,Indore,4-way,290,2,48,384,105,12,49,105
+India,Khandwa Road,Indore,4-way,562,41,453,16,105,46,105,29
+India,Nemawar Road,Indore,4-way,171,98,13,942,79,69,26,105
+India,Sarafa Bazaar,Indore,4-way,31,1134,105,168,42,105,71,79
+India,Chappan Dukan,Indore,4-way,15,74,74,68,28,60,60,57
+India,Olpad-Rander Road,Surat,4-way,18,0,691,94,32,10,105,68
+India,Hazira-Adajan Road,Surat,4-way,573,146,120,102,105,76,73,70
+India,Sachin-Udhna Road,Surat,4-way,162,647,128,16,78,105,74,29
+India,Dumas-Athwa Road,Surat,4-way,1046,14,74,571,105,27,60,105
+India,Kamrej-Varachha Road,Surat,4-way,88,611,579,18,65,105,105,32
+India,Kadodara-Sahara Road,Surat,4-way,247,14,88,33,90,27,65,43
+India,National Highway 6 (NH6),Surat,4-way,1011,69,76,20,105,58,60,34
+India,National Highway 8 (NH8),Surat,4-way,1099,1,0,148,105,11,10,76
+India,Outer Ring Road,Surat,4-way,71,100,110,1030,58,70,71,105
+India,Surat-Chennai Expressway,Surat,4-way,48,17,1,2,49,30,11,12
+India,J.M. Road,Pune,4-way,408,127,12,44,105,74,24,48
+India,Fergusson College Road (FC Road),Pune,4-way,892,130,51,0,105,74,50,10
+India,Laxmi Road,Pune,4-way,115,162,78,7,72,78,61,18
+India,Shivaji Nagar,Pune,4-way,822,134,1,25,105,75,11,40
+India,Koregaon Park,Pune,4-way,6,8,96,15,17,20,68,28
+India,Kothrud,Pune,4-way,90,369,17,347,66,105,30,105
+India,Viman Nagar,Pune,4-way,77,325,0,60,61,105,10,54
+India,Aundh,Pune,4-way,25,44,48,16,40,48,49,29
+India,Magarpatta City,Pune,4-way,7,15,55,118,18,28,52,72
+India,New Kalyani Nagar,Pune,4-way,20,359,340,0,34,105,105,10
+India,LBS Marg Junction,Mumbai,4-way,90,2,115,1146,66,12,72,105
+India,Gandhi Nagar Junction,Mumbai,4-way,114,12,52,60,72,24,51,54
+India,Jolly Marg Junction,Mumbai,4-way,18,44,844,0,32,48,105,10
+India,Nikolsawadi Circle,Mumbai,4-way,120,34,767,758,73,44,105,105
+India,MIDC A Cross Road,Mumbai,4-way,90,7,188,51,66,18,82,50
+India,N S Phadke Marg,Mumbai,4-way,53,22,98,135,51,36,69,75
+India,Gokhale Bridge,Delhi,4-way,76,0,18,16,60,10,32,29
+India,DND Flyway,Delhi,4-way,68,292,77,87,57,105,61,65
+India,Maharani Bagh,Delhi,4-way,112,171,19,50,72,79,33,50
+India,Burari Road,Delhi,4-way,607,14,1138,1074,105,27,105,105
+India,Khyber Pass Crossing,Delhi,4-way,168,67,0,16,79,57,10,29
+India,Nigam Bodh Ghat,Delhi,4-way,38,50,11,8,45,50,23,20
+India,P.S. Timarpur,Delhi,4-way,31,146,187,17,42,76,82,30
+India,Mall Road,Delhi,4-way,0,902,79,1165,10,105,62,105
+India,Chennai Bypass Road,Chennai,4-way,1151,84,29,106,105,64,42,71
+India,Bangalore Chennai Expressway,Chennai,4-way,14,0,13,0,27,10,26,10
+India,Anna Salai,Chennai,4-way,167,76,85,10,79,60,64,22
+India,EVR Periyar Salai,Chennai,4-way,822,37,767,118,105,45,105,72
+India,Arukilpadi road,Chennai,4-way,92,117,9,43,67,72,21,47
+India,Thakkolam,Chennai,4-way,101,7,129,100,70,18,74,70
+India,Golden Quadrilateral,Chennai,4-way,142,32,16,15,76,43,29,28
+India,Chowringhee Road,Kolkata,4-way,55,48,137,11,52,49,75,23
+India,Hazra Road,Kolkata,4-way,772,73,12,969,105,59,24,105
+India,Park Street,Kolkata,4-way,16,929,1,15,29,105,11,28
+India,Hazra Road,Kolkata,4-way,142,17,92,2,76,30,67,12
+India,College Street,Kolkata,4-way,27,41,69,181,41,46,58,81
+India,Jaddu Mullick Street,Kolkata,4-way,28,198,1,17,41,83,11,30
+India,Raja SC Mullick Road,Kolkata,4-way,18,177,1038,70,32,80,105,58
+India,Burdwan Road,Kolkata,4-way,169,437,8,133,79,105,20,74
+India,Burdwan Road,Kolkata,4-way,17,188,24,81,30,82,39,62
+India,Eastern Metropolitan Bypass,Kolkata,4-way,2,76,48,19,12,60,49,33
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,22,12,222,897,36,24,86,105
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,1158,91,77,50,105,66,61,50
+India,Mahatma Gandhi Marg,Indore,4-way,0,0,11,894,10,10,23,105
+India,A.B. Road,Indore,4-way,70,511,8,96,58,105,20,68
+India,Dewas Road,Indore,4-way,1,711,593,58,11,105,105,53
+India,Ujjain Road,Indore,4-way,192,12,67,12,82,24,57,24
+India,Dhar Road,Indore,4-way,38,19,169,273,45,33,79,105
+India,Pithampur Road,Indore,4-way,73,86,12,13,59,64,24,26
+India,Khandwa Road,Indore,4-way,7,9,114,64,18,21,72,56
+India,Nemawar Road,Indore,4-way,802,3,154,83,105,14,77,63
+India,Sarafa Bazaar,Indore,4-way,69,13,570,436,58,26,105,105
+India,Chappan Dukan,Indore,4-way,65,509,153,93,56,105,77,67
+India,Olpad-Rander Road,Surat,4-way,50,182,64,507,50,81,56,105
+India,Hazira-Adajan Road,Surat,4-way,1114,107,58,181,105,71,53,81
+India,Sachin-Udhna Road,Surat,4-way,407,74,0,82,105,60,10,63
+India,Dumas-Athwa Road,Surat,4-way,1118,19,104,94,105,33,71,68
+India,Kamrej-Varachha Road,Surat,4-way,40,0,70,39,46,10,58,46
+India,Kadodara-Sahara Road,Surat,4-way,15,11,39,566,28,23,46,105
+India,National Highway 6 (NH6),Surat,4-way,9,16,16,4,21,29,29,15
+India,National Highway 8 (NH8),Surat,4-way,4,55,0,22,15,52,10,36
+India,Outer Ring Road,Surat,4-way,189,10,11,111,82,22,23,71
+India,Surat-Chennai Expressway,Surat,4-way,96,163,20,13,68,78,34,26
+India,J.M. Road,Pune,4-way,130,157,95,17,74,78,68,30
+India,Fergusson College Road (FC Road),Pune,4-way,64,73,2,1074,56,59,12,105
+India,Laxmi Road,Pune,4-way,49,742,59,18,50,105,54,32
+India,Shivaji Nagar,Pune,4-way,17,921,154,94,30,105,77,68
+India,Koregaon Park,Pune,4-way,983,35,73,17,105,44,59,30
+India,Kothrud,Pune,4-way,151,193,0,992,77,82,10,105
+India,Viman Nagar,Pune,4-way,22,13,15,59,36,26,28,54
+India,Aundh,Pune,4-way,15,36,9,11,28,44,21,23
+India,Magarpatta City,Pune,4-way,78,1039,8,81,61,105,20,62
+India,New Kalyani Nagar,Pune,4-way,117,20,1026,10,72,34,105,22
+India,LBS Marg Junction,Mumbai,4-way,50,130,65,33,50,74,56,43
+India,Gandhi Nagar Junction,Mumbai,4-way,103,927,38,157,70,105,45,78
+India,Jolly Marg Junction,Mumbai,4-way,68,827,94,1110,57,105,68,105
+India,Nikolsawadi Circle,Mumbai,4-way,137,115,74,18,75,72,60,32
+India,MIDC A Cross Road,Mumbai,4-way,47,185,507,3,49,81,105,14
+India,N S Phadke Marg,Mumbai,4-way,32,20,53,17,43,34,51,30
+India,Gokhale Bridge,Delhi,4-way,426,163,117,67,105,78,72,57
+India,DND Flyway,Delhi,4-way,12,13,321,19,24,26,105,33
+India,Maharani Bagh,Delhi,4-way,178,146,0,65,80,76,10,56
+India,Burari Road,Delhi,4-way,97,475,153,1137,69,105,77,105
+India,Khyber Pass Crossing,Delhi,4-way,1018,15,12,12,105,28,24,24
+India,Nigam Bodh Ghat,Delhi,4-way,15,199,0,191,28,83,10,82
+India,P.S. Timarpur,Delhi,4-way,15,0,62,2,28,10,55,12
+India,Mall Road,Delhi,4-way,170,48,134,95,79,49,75,68
+India,Chennai Bypass Road,Chennai,4-way,2,134,267,3,12,75,105,14
+India,Bangalore Chennai Expressway,Chennai,4-way,22,255,187,183,36,105,82,81
+India,Anna Salai,Chennai,4-way,68,483,14,19,57,105,27,33
+India,EVR Periyar Salai,Chennai,4-way,400,84,181,155,105,64,81,77
+India,Arukilpadi road,Chennai,4-way,30,15,200,18,42,28,83,32
+India,Thakkolam,Chennai,4-way,68,181,8,0,57,81,20,10
+India,Golden Quadrilateral,Chennai,4-way,33,128,18,6,43,74,32,17
+India,Chowringhee Road,Kolkata,4-way,116,63,13,172,72,55,26,80
+India,Hazra Road,Kolkata,4-way,83,86,15,15,63,64,28,28
+India,Park Street,Kolkata,4-way,114,6,115,10,72,17,72,22
+India,Hazra Road,Kolkata,4-way,691,75,141,230,105,60,75,87
+India,College Street,Kolkata,4-way,0,37,60,18,10,45,54,32
+India,Jaddu Mullick Street,Kolkata,4-way,27,12,68,20,41,24,57,34
+India,Raja SC Mullick Road,Kolkata,4-way,38,454,522,259,45,105,105,105
+India,Burdwan Road,Kolkata,4-way,659,51,286,415,105,50,105,105
+India,Burdwan Road,Kolkata,4-way,38,576,92,56,45,105,67,52
+India,Eastern Metropolitan Bypass,Kolkata,4-way,46,26,831,139,48,40,105,75
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,18,14,178,188,32,27,80,82
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,998,316,1,15,105,105,11,28
+India,Mahatma Gandhi Marg,Indore,4-way,64,187,724,0,56,82,105,10
+India,A.B. Road,Indore,4-way,880,46,986,38,105,48,105,45
+India,Dewas Road,Indore,4-way,13,663,42,409,26,105,47,105
+India,Ujjain Road,Indore,4-way,588,82,3,0,105,63,14,10
+India,Dhar Road,Indore,4-way,14,9,424,619,27,21,105,105
+India,Pithampur Road,Indore,4-way,43,100,30,1172,47,70,42,105
+India,Khandwa Road,Indore,4-way,100,73,62,189,70,59,55,82
+India,Nemawar Road,Indore,4-way,0,228,255,121,10,87,105,73
+India,Sarafa Bazaar,Indore,4-way,111,6,2,38,71,17,12,45
+India,Chappan Dukan,Indore,4-way,75,3,2,123,60,14,12,73
+India,Olpad-Rander Road,Surat,4-way,46,57,479,52,48,53,105,51
+India,Hazira-Adajan Road,Surat,4-way,60,56,1012,110,54,52,105,71
+India,Sachin-Udhna Road,Surat,4-way,41,13,50,7,46,26,50,18
+India,Dumas-Athwa Road,Surat,4-way,42,17,7,17,47,30,18,30
+India,Kamrej-Varachha Road,Surat,4-way,134,64,140,12,75,56,75,24
+India,Kadodara-Sahara Road,Surat,4-way,767,709,140,125,105,105,75,73
+India,National Highway 6 (NH6),Surat,4-way,84,17,88,698,64,30,65,105
+India,National Highway 8 (NH8),Surat,4-way,4,17,4,14,15,30,15,27
+India,Outer Ring Road,Surat,4-way,454,4,0,12,105,15,10,24
+India,Surat-Chennai Expressway,Surat,4-way,86,37,51,89,64,45,50,66
+India,J.M. Road,Pune,4-way,83,805,127,97,63,105,74,69
+India,Fergusson College Road (FC Road),Pune,4-way,20,23,199,126,34,38,83,73
+India,Laxmi Road,Pune,4-way,1034,12,73,946,105,24,59,105
+India,Shivaji Nagar,Pune,4-way,55,20,871,0,52,34,105,10
+India,Koregaon Park,Pune,4-way,75,438,615,98,60,105,105,69
+India,Kothrud,Pune,4-way,51,847,471,133,50,105,105,74
+India,Viman Nagar,Pune,4-way,0,146,57,86,10,76,53,64
+India,Aundh,Pune,4-way,132,61,437,373,74,54,105,105
+India,Magarpatta City,Pune,4-way,19,1188,643,13,33,105,105,26
+India,New Kalyani Nagar,Pune,4-way,7,16,950,9,18,29,105,21
+India,LBS Marg Junction,Mumbai,4-way,17,329,63,36,30,105,55,44
+India,Gandhi Nagar Junction,Mumbai,4-way,6,810,96,8,17,105,68,20
+India,Jolly Marg Junction,Mumbai,4-way,137,819,0,11,75,105,10,23
+India,Nikolsawadi Circle,Mumbai,4-way,94,829,156,53,68,105,77,51
+India,MIDC A Cross Road,Mumbai,4-way,19,4,67,1081,33,15,57,105
+India,N S Phadke Marg,Mumbai,4-way,15,20,147,4,28,34,76,15
+India,Gokhale Bridge,Delhi,4-way,7,36,0,1159,18,44,10,105
+India,DND Flyway,Delhi,4-way,871,187,33,18,105,82,43,32
+India,Maharani Bagh,Delhi,4-way,20,84,0,38,34,64,10,45
+India,Burari Road,Delhi,4-way,77,1110,21,81,61,105,35,62
+India,Khyber Pass Crossing,Delhi,4-way,23,183,11,75,38,81,23,60
+India,Nigam Bodh Ghat,Delhi,4-way,79,95,151,13,62,68,77,26
+India,P.S. Timarpur,Delhi,4-way,55,308,71,0,52,105,58,10
+India,Mall Road,Delhi,4-way,49,182,747,24,50,81,105,39
+India,Chennai Bypass Road,Chennai,4-way,1005,596,136,12,105,105,75,24
+India,Bangalore Chennai Expressway,Chennai,4-way,291,46,4,20,105,48,15,34
+India,Anna Salai,Chennai,4-way,27,59,118,0,41,54,72,10
+India,EVR Periyar Salai,Chennai,4-way,107,55,40,982,71,52,46,105
+India,Arukilpadi road,Chennai,4-way,533,94,73,1001,105,68,59,105
+India,Thakkolam,Chennai,4-way,566,85,3,575,105,64,14,105
+India,Golden Quadrilateral,Chennai,4-way,3,15,22,7,14,28,36,18
+India,Chowringhee Road,Kolkata,4-way,6,72,262,172,17,59,105,80
+India,Hazra Road,Kolkata,4-way,81,255,82,194,62,105,63,83
+India,Park Street,Kolkata,4-way,0,159,39,122,10,78,46,73
+India,Hazra Road,Kolkata,4-way,57,85,863,8,53,64,105,20
+India,College Street,Kolkata,4-way,20,478,52,6,34,105,51,17
+India,Jaddu Mullick Street,Kolkata,4-way,70,883,29,118,58,105,42,72
+India,Raja SC Mullick Road,Kolkata,4-way,25,106,107,20,40,71,71,34
+India,Burdwan Road,Kolkata,4-way,724,156,164,748,105,77,79,105
+India,Burdwan Road,Kolkata,4-way,111,56,276,33,71,52,105,43
+India,Eastern Metropolitan Bypass,Kolkata,4-way,122,498,86,187,73,105,64,82
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,74,1092,17,79,60,105,30,62
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,7,1103,80,174,18,105,62,80
+India,Mahatma Gandhi Marg,Indore,4-way,20,16,1136,11,34,29,105,23
+India,A.B. Road,Indore,4-way,192,812,172,169,82,105,80,79
+India,Dewas Road,Indore,4-way,607,437,8,18,105,105,20,32
+India,Ujjain Road,Indore,4-way,16,128,6,54,29,74,17,52
+India,Dhar Road,Indore,4-way,23,76,1139,99,38,60,105,70
+India,Pithampur Road,Indore,4-way,0,893,183,418,10,105,81,105
+India,Khandwa Road,Indore,4-way,582,18,0,13,105,32,10,26
+India,Nemawar Road,Indore,4-way,45,667,502,72,48,105,105,59
+India,Sarafa Bazaar,Indore,4-way,9,19,691,77,21,33,105,61
+India,Chappan Dukan,Indore,4-way,33,1196,558,93,43,105,105,67
+India,Olpad-Rander Road,Surat,4-way,62,29,60,476,55,42,54,105
+India,Hazira-Adajan Road,Surat,4-way,0,38,32,127,10,45,43,74
+India,Sachin-Udhna Road,Surat,4-way,24,812,175,395,39,105,80,105
+India,Dumas-Athwa Road,Surat,4-way,8,49,1111,424,20,50,105,105
+India,Kamrej-Varachha Road,Surat,4-way,132,79,51,43,74,62,50,47
+India,Kadodara-Sahara Road,Surat,4-way,370,312,19,12,105,105,33,24
+India,National Highway 6 (NH6),Surat,4-way,1144,64,40,25,105,56,46,40
+India,National Highway 8 (NH8),Surat,4-way,7,1,36,16,18,11,44,29
+India,Outer Ring Road,Surat,4-way,69,84,756,243,58,64,105,89
+India,Surat-Chennai Expressway,Surat,4-way,9,194,21,4,21,83,35,15
+India,J.M. Road,Pune,4-way,3,130,14,86,14,74,27,64
+India,Fergusson College Road (FC Road),Pune,4-way,105,0,3,0,71,10,14,10
+India,Laxmi Road,Pune,4-way,12,254,612,183,24,105,105,81
+India,Shivaji Nagar,Pune,4-way,68,0,154,74,57,10,77,60
+India,Koregaon Park,Pune,4-way,17,12,1189,35,30,24,105,44
+India,Kothrud,Pune,4-way,75,240,20,181,60,89,34,81
+India,Viman Nagar,Pune,4-way,173,176,36,443,80,80,44,105
+India,Aundh,Pune,4-way,13,704,19,80,26,105,33,62
+India,Magarpatta City,Pune,4-way,0,428,41,71,10,105,46,58
+India,New Kalyani Nagar,Pune,4-way,71,14,1152,1069,58,27,105,105
+India,LBS Marg Junction,Mumbai,4-way,5,74,719,94,16,60,105,68
+India,Gandhi Nagar Junction,Mumbai,4-way,17,4,111,9,30,15,71,21
+India,Jolly Marg Junction,Mumbai,4-way,0,88,135,14,10,65,75,27
+India,Nikolsawadi Circle,Mumbai,4-way,98,167,27,277,69,79,41,105
+India,MIDC A Cross Road,Mumbai,4-way,414,54,18,96,105,52,32,68
+India,N S Phadke Marg,Mumbai,4-way,14,91,109,205,27,66,71,84
+India,Gokhale Bridge,Delhi,4-way,12,996,11,5,24,105,23,16
+India,DND Flyway,Delhi,4-way,6,19,0,7,17,33,10,18
+India,Maharani Bagh,Delhi,4-way,1087,106,15,170,105,71,28,79
+India,Burari Road,Delhi,4-way,742,32,1,191,105,43,11,82
+India,Khyber Pass Crossing,Delhi,4-way,312,23,516,820,105,38,105,105
+India,Nigam Bodh Ghat,Delhi,4-way,38,104,39,40,45,71,46,46
+India,P.S. Timarpur,Delhi,4-way,76,41,27,1070,60,46,41,105
+India,Mall Road,Delhi,4-way,32,8,14,79,43,20,27,62
+India,Chennai Bypass Road,Chennai,4-way,60,84,193,200,54,64,82,83
+India,Bangalore Chennai Expressway,Chennai,4-way,15,95,15,19,28,68,28,33
+India,Anna Salai,Chennai,4-way,9,11,17,909,21,23,30,105
+India,EVR Periyar Salai,Chennai,4-way,18,5,0,1004,32,16,10,105
+India,Arukilpadi road,Chennai,4-way,173,14,459,100,80,27,105,70
+India,Thakkolam,Chennai,4-way,475,15,10,151,105,28,22,77
+India,Golden Quadrilateral,Chennai,4-way,4,793,44,1109,15,105,48,105
+India,Chowringhee Road,Kolkata,4-way,1108,80,15,12,105,62,28,24
+India,Hazra Road,Kolkata,4-way,4,0,163,39,15,10,78,46
+India,Park Street,Kolkata,4-way,73,13,139,40,59,26,75,46
+India,Hazra Road,Kolkata,4-way,43,14,164,11,47,27,79,23
+India,College Street,Kolkata,4-way,1197,32,127,112,105,43,74,72
+India,Jaddu Mullick Street,Kolkata,4-way,35,34,131,86,44,44,74,64
+India,Raja SC Mullick Road,Kolkata,4-way,19,195,20,389,33,83,34,105
+India,Burdwan Road,Kolkata,4-way,171,14,76,91,79,27,60,66
+India,Burdwan Road,Kolkata,4-way,42,151,83,9,47,77,63,21
+India,Eastern Metropolitan Bypass,Kolkata,4-way,55,2,1068,0,52,12,105,10
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,122,156,704,0,73,77,105,10
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,2,18,89,17,12,32,66,30
+India,Mahatma Gandhi Marg,Indore,4-way,507,34,19,440,105,44,33,105
+India,A.B. Road,Indore,4-way,22,16,8,61,36,29,20,54
+India,Dewas Road,Indore,4-way,28,5,141,189,41,16,75,82
+India,Ujjain Road,Indore,4-way,726,35,65,175,105,44,56,80
+India,Dhar Road,Indore,4-way,9,374,39,772,21,105,46,105
+India,Pithampur Road,Indore,4-way,73,28,32,111,59,41,43,71
+India,Khandwa Road,Indore,4-way,10,97,915,910,22,69,105,105
+India,Nemawar Road,Indore,4-way,0,21,6,81,10,35,17,62
+India,Sarafa Bazaar,Indore,4-way,47,1190,96,53,49,105,68,51
+India,Chappan Dukan,Indore,4-way,51,603,817,45,50,105,105,48
+India,Olpad-Rander Road,Surat,4-way,1195,19,10,18,105,33,22,32
+India,Hazira-Adajan Road,Surat,4-way,40,87,0,116,46,65,10,72
+India,Sachin-Udhna Road,Surat,4-way,19,64,33,174,33,56,43,80
+India,Dumas-Athwa Road,Surat,4-way,47,11,57,115,49,23,53,72
+India,Kamrej-Varachha Road,Surat,4-way,12,130,14,399,24,74,27,105
+India,Kadodara-Sahara Road,Surat,4-way,885,130,46,1085,105,74,48,105
+India,National Highway 6 (NH6),Surat,4-way,249,12,6,161,90,24,17,78
+India,National Highway 8 (NH8),Surat,4-way,91,593,11,541,66,105,23,105
+India,Outer Ring Road,Surat,4-way,193,82,488,17,82,63,105,30
+India,Surat-Chennai Expressway,Surat,4-way,83,718,778,19,63,105,105,33
+India,J.M. Road,Pune,4-way,23,93,106,59,38,67,71,54
+India,Fergusson College Road (FC Road),Pune,4-way,73,32,491,341,59,43,105,105
+India,Laxmi Road,Pune,4-way,153,186,16,171,77,81,29,79
+India,Shivaji Nagar,Pune,4-way,35,205,152,124,44,84,77,73
+India,Koregaon Park,Pune,4-way,0,87,156,160,10,65,77,78
+India,Kothrud,Pune,4-way,2,24,0,88,12,39,10,65
+India,Viman Nagar,Pune,4-way,37,79,4,17,45,62,15,30
+India,Aundh,Pune,4-way,185,770,87,62,81,105,65,55
+India,Magarpatta City,Pune,4-way,46,15,107,10,48,28,71,22
+India,New Kalyani Nagar,Pune,4-way,9,15,123,154,21,28,73,77
+India,LBS Marg Junction,Mumbai,4-way,17,20,73,79,30,34,59,62
+India,Gandhi Nagar Junction,Mumbai,4-way,51,765,60,43,50,105,54,47
+India,Jolly Marg Junction,Mumbai,4-way,12,210,164,134,24,85,79,75
+India,Nikolsawadi Circle,Mumbai,4-way,18,82,36,602,32,63,44,105
+India,MIDC A Cross Road,Mumbai,4-way,90,57,11,6,66,53,23,17
+India,N S Phadke Marg,Mumbai,4-way,78,9,769,30,61,21,105,42
+India,Gokhale Bridge,Delhi,4-way,13,100,11,20,26,70,23,34
+India,DND Flyway,Delhi,4-way,70,60,11,127,58,54,23,74
+India,Maharani Bagh,Delhi,4-way,183,19,189,19,81,33,82,33
+India,Burari Road,Delhi,4-way,85,197,12,7,64,83,24,18
+India,Khyber Pass Crossing,Delhi,4-way,1166,172,88,682,105,80,65,105
+India,Nigam Bodh Ghat,Delhi,4-way,921,515,47,106,105,105,49,71
+India,P.S. Timarpur,Delhi,4-way,85,17,0,151,64,30,10,77
+India,Mall Road,Delhi,4-way,165,10,181,114,79,22,81,72
+India,Chennai Bypass Road,Chennai,4-way,46,141,630,109,48,75,105,71
+India,Bangalore Chennai Expressway,Chennai,4-way,269,10,124,118,105,22,73,72
+India,Anna Salai,Chennai,4-way,145,18,17,12,76,32,30,24
+India,EVR Periyar Salai,Chennai,4-way,2,74,0,74,12,60,10,60
+India,Arukilpadi road,Chennai,4-way,60,33,20,1021,54,43,34,105
+India,Thakkolam,Chennai,4-way,57,151,655,199,53,77,105,83
+India,Golden Quadrilateral,Chennai,4-way,925,60,10,98,105,54,22,69
+India,Chowringhee Road,Kolkata,4-way,67,76,181,182,57,60,81,81
+India,Hazra Road,Kolkata,4-way,12,371,63,44,24,105,55,48
+India,Park Street,Kolkata,4-way,6,37,17,18,17,45,30,32
+India,Hazra Road,Kolkata,4-way,1143,1035,14,118,105,105,27,72
+India,College Street,Kolkata,4-way,75,90,11,518,60,66,23,105
+India,Jaddu Mullick Street,Kolkata,4-way,581,129,170,11,105,74,79,23
+India,Raja SC Mullick Road,Kolkata,4-way,13,73,734,17,26,59,105,30
+India,Burdwan Road,Kolkata,4-way,77,350,12,52,61,105,24,51
+India,Burdwan Road,Kolkata,4-way,7,157,12,47,18,78,24,49
+India,Eastern Metropolitan Bypass,Kolkata,4-way,14,67,15,32,27,57,28,43
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,53,24,15,20,51,39,28,34
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,138,34,85,15,75,44,64,28
+India,Mahatma Gandhi Marg,Indore,4-way,4,0,15,4,15,10,28,15
+India,A.B. Road,Indore,4-way,480,0,108,77,105,10,71,61
+India,Dewas Road,Indore,4-way,865,819,97,72,105,105,69,59
+India,Ujjain Road,Indore,4-way,52,11,12,119,51,23,24,73
+India,Dhar Road,Indore,4-way,36,12,11,6,44,24,23,17
+India,Pithampur Road,Indore,4-way,3,148,15,71,14,76,28,58
+India,Khandwa Road,Indore,4-way,848,200,99,39,105,83,70,46
+India,Nemawar Road,Indore,4-way,0,11,20,64,10,23,34,56
+India,Sarafa Bazaar,Indore,4-way,976,425,194,69,105,105,83,58
+India,Chappan Dukan,Indore,4-way,15,45,7,101,28,48,18,70
+India,Olpad-Rander Road,Surat,4-way,0,41,16,40,10,46,29,46
+India,Hazira-Adajan Road,Surat,4-way,11,15,357,5,23,28,105,16
+India,Sachin-Udhna Road,Surat,4-way,11,54,48,327,23,52,49,105
+India,Dumas-Athwa Road,Surat,4-way,6,0,197,19,17,10,83,33
+India,Kamrej-Varachha Road,Surat,4-way,18,0,703,167,32,10,105,79
+India,Kadodara-Sahara Road,Surat,4-way,682,516,4,13,105,105,15,26
+India,National Highway 6 (NH6),Surat,4-way,12,190,33,24,24,82,43,39
+India,National Highway 8 (NH8),Surat,4-way,160,0,173,3,78,10,80,14
+India,Outer Ring Road,Surat,4-way,66,16,62,191,56,29,55,82
+India,Surat-Chennai Expressway,Surat,4-way,16,0,759,2,29,10,105,12
+India,J.M. Road,Pune,4-way,78,18,20,136,61,32,34,75
+India,Fergusson College Road (FC Road),Pune,4-way,13,12,220,170,26,24,86,79
+India,Laxmi Road,Pune,4-way,3,32,13,129,14,43,26,74
+India,Shivaji Nagar,Pune,4-way,0,65,89,59,10,56,66,54
+India,Koregaon Park,Pune,4-way,40,947,176,8,46,105,80,20
+India,Kothrud,Pune,4-way,90,292,690,1180,66,105,105,105
+India,Viman Nagar,Pune,4-way,92,1054,7,14,67,105,18,27
+India,Aundh,Pune,4-way,204,582,80,11,84,105,62,23
+India,Magarpatta City,Pune,4-way,85,690,10,987,64,105,22,105
+India,New Kalyani Nagar,Pune,4-way,138,79,115,15,75,62,72,28
+India,LBS Marg Junction,Mumbai,4-way,71,157,76,188,58,78,60,82
+India,Gandhi Nagar Junction,Mumbai,4-way,20,45,1027,193,34,48,105,82
+India,Jolly Marg Junction,Mumbai,4-way,17,18,78,49,30,32,61,50
+India,Nikolsawadi Circle,Mumbai,4-way,24,912,176,18,39,105,80,32
+India,MIDC A Cross Road,Mumbai,4-way,112,93,166,138,72,67,79,75
+India,N S Phadke Marg,Mumbai,4-way,1105,57,55,344,105,53,52,105
+India,Gokhale Bridge,Delhi,4-way,82,0,83,143,63,10,63,76
+India,DND Flyway,Delhi,4-way,18,19,17,1194,32,33,30,105
+India,Maharani Bagh,Delhi,4-way,12,159,2,4,24,78,12,15
+India,Burari Road,Delhi,4-way,27,0,48,923,41,10,49,105
+India,Khyber Pass Crossing,Delhi,4-way,69,92,89,4,58,67,66,15
+India,Nigam Bodh Ghat,Delhi,4-way,114,453,5,72,72,105,16,59
+India,P.S. Timarpur,Delhi,4-way,4,54,5,425,15,52,16,105
+India,Mall Road,Delhi,4-way,167,15,1,528,79,28,11,105
+India,Chennai Bypass Road,Chennai,4-way,116,475,182,19,72,105,81,33
+India,Bangalore Chennai Expressway,Chennai,4-way,503,124,6,4,105,73,17,15
+India,Anna Salai,Chennai,4-way,5,15,46,67,16,28,48,57
+India,EVR Periyar Salai,Chennai,4-way,1125,198,17,42,105,83,30,47
+India,Arukilpadi road,Chennai,4-way,200,17,13,82,83,30,26,63
+India,Thakkolam,Chennai,4-way,1,218,0,17,11,86,10,30
+India,Golden Quadrilateral,Chennai,4-way,40,19,0,63,46,33,10,55
+India,Chowringhee Road,Kolkata,4-way,417,18,16,9,105,32,29,21
+India,Hazra Road,Kolkata,4-way,4,85,177,0,15,64,80,10
+India,Park Street,Kolkata,4-way,72,185,153,261,59,81,77,105
+India,Hazra Road,Kolkata,4-way,5,151,4,97,16,77,15,69
+India,College Street,Kolkata,4-way,14,13,175,972,27,26,80,105
+India,Jaddu Mullick Street,Kolkata,4-way,174,6,508,191,80,17,105,82
+India,Raja SC Mullick Road,Kolkata,4-way,103,77,175,13,70,61,80,26
+India,Burdwan Road,Kolkata,4-way,34,112,184,163,44,72,81,78
+India,Burdwan Road,Kolkata,4-way,165,552,19,46,79,105,33,48
+India,Eastern Metropolitan Bypass,Kolkata,4-way,97,4,9,17,69,15,21,30
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,200,15,0,20,83,28,10,34
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,4,90,4,187,15,66,15,82
+India,Mahatma Gandhi Marg,Indore,4-way,860,866,43,18,105,105,47,32
+India,A.B. Road,Indore,4-way,74,3,46,120,60,14,48,73
+India,Dewas Road,Indore,4-way,266,90,32,25,105,66,43,40
+India,Ujjain Road,Indore,4-way,1098,8,434,806,105,20,105,105
+India,Dhar Road,Indore,4-way,630,59,13,189,105,54,26,82
+India,Pithampur Road,Indore,4-way,4,127,18,76,15,74,32,60
+India,Khandwa Road,Indore,4-way,51,64,808,646,50,56,105,105
+India,Nemawar Road,Indore,4-way,77,350,0,19,61,105,10,33
+India,Sarafa Bazaar,Indore,4-way,601,114,127,12,105,72,74,24
+India,Chappan Dukan,Indore,4-way,1121,18,935,21,105,32,105,35
+India,Olpad-Rander Road,Surat,4-way,14,25,127,84,27,40,74,64
+India,Hazira-Adajan Road,Surat,4-way,99,472,1049,60,70,105,105,54
+India,Sachin-Udhna Road,Surat,4-way,196,84,14,79,83,64,27,62
+India,Dumas-Athwa Road,Surat,4-way,189,316,1000,223,82,105,105,86
+India,Kamrej-Varachha Road,Surat,4-way,614,100,1,616,105,70,11,105
+India,Kadodara-Sahara Road,Surat,4-way,680,18,1054,395,105,32,105,105
+India,National Highway 6 (NH6),Surat,4-way,14,702,6,28,27,105,17,41
+India,National Highway 8 (NH8),Surat,4-way,15,400,93,10,28,105,67,22
+India,Outer Ring Road,Surat,4-way,62,9,165,11,55,21,79,23
+India,Surat-Chennai Expressway,Surat,4-way,82,189,79,79,63,82,62,62
+India,J.M. Road,Pune,4-way,13,18,22,106,26,32,36,71
+India,Fergusson College Road (FC Road),Pune,4-way,186,19,143,695,81,33,76,105
+India,Laxmi Road,Pune,4-way,75,6,765,17,60,17,105,30
+India,Shivaji Nagar,Pune,4-way,7,0,90,842,18,10,66,105
+India,Koregaon Park,Pune,4-way,60,45,8,25,54,48,20,40
+India,Kothrud,Pune,4-way,17,87,83,12,30,65,63,24
+India,Viman Nagar,Pune,4-way,135,1123,260,790,75,105,105,105
+India,Aundh,Pune,4-way,6,19,28,16,17,33,41,29
+India,Magarpatta City,Pune,4-way,938,129,57,53,105,74,53,51
+India,New Kalyani Nagar,Pune,4-way,31,67,61,71,42,57,54,58
+India,LBS Marg Junction,Mumbai,4-way,1015,186,11,92,105,81,23,67
+India,Gandhi Nagar Junction,Mumbai,4-way,14,138,17,112,27,75,30,72
+India,Jolly Marg Junction,Mumbai,4-way,0,4,33,827,10,15,43,105
+India,Nikolsawadi Circle,Mumbai,4-way,786,46,162,44,105,48,78,48
+India,MIDC A Cross Road,Mumbai,4-way,44,7,48,145,48,18,49,76
+India,N S Phadke Marg,Mumbai,4-way,113,43,943,349,72,47,105,105
+India,Gokhale Bridge,Delhi,4-way,20,12,60,310,34,24,54,105
+India,DND Flyway,Delhi,4-way,7,19,2,782,18,33,12,105
+India,Maharani Bagh,Delhi,4-way,213,68,93,0,85,57,67,10
+India,Burari Road,Delhi,4-way,186,13,744,7,81,26,105,18
+India,Khyber Pass Crossing,Delhi,4-way,74,261,550,0,60,105,105,10
+India,Nigam Bodh Ghat,Delhi,4-way,173,27,190,297,80,41,82,105
+India,P.S. Timarpur,Delhi,4-way,403,14,4,194,105,27,15,83
+India,Mall Road,Delhi,4-way,19,0,783,3,33,10,105,14
+India,Chennai Bypass Road,Chennai,4-way,73,20,1,617,59,34,11,105
+India,Bangalore Chennai Expressway,Chennai,4-way,150,12,79,26,77,24,62,40
+India,Anna Salai,Chennai,4-way,18,14,193,14,32,27,82,27
+India,EVR Periyar Salai,Chennai,4-way,1,1,20,15,11,11,34,28
+India,Arukilpadi road,Chennai,4-way,132,14,19,589,74,27,33,105
+India,Thakkolam,Chennai,4-way,44,11,12,100,48,23,24,70
+India,Golden Quadrilateral,Chennai,4-way,95,608,9,15,68,105,21,28
+India,Chowringhee Road,Kolkata,4-way,123,754,68,981,73,105,57,105
+India,Hazra Road,Kolkata,4-way,73,211,95,102,59,85,68,70
+India,Park Street,Kolkata,4-way,43,953,269,837,47,105,105,105
+India,Hazra Road,Kolkata,4-way,74,18,42,20,60,32,47,34
+India,College Street,Kolkata,4-way,88,495,56,335,65,105,52,105
+India,Jaddu Mullick Street,Kolkata,4-way,9,798,679,5,21,105,105,16
+India,Raja SC Mullick Road,Kolkata,4-way,85,937,19,262,64,105,33,105
+India,Burdwan Road,Kolkata,4-way,4,74,863,71,15,60,105,58
+India,Burdwan Road,Kolkata,4-way,92,96,57,32,67,68,53,43
+India,Eastern Metropolitan Bypass,Kolkata,4-way,12,280,1168,6,24,105,105,17
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,99,155,1,54,70,77,11,52
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,200,163,157,896,83,78,78,105
+India,Mahatma Gandhi Marg,Indore,4-way,22,6,897,11,36,17,105,23
+India,A.B. Road,Indore,4-way,856,51,68,15,105,50,57,28
+India,Dewas Road,Indore,4-way,15,9,696,386,28,21,105,105
+India,Ujjain Road,Indore,4-way,22,89,0,1104,36,66,10,105
+India,Dhar Road,Indore,4-way,0,90,601,1175,10,66,105,105
+India,Pithampur Road,Indore,4-way,34,12,194,1,44,24,83,11
+India,Khandwa Road,Indore,4-way,193,12,76,81,82,24,60,62
+India,Nemawar Road,Indore,4-way,1,343,4,54,11,105,15,52
+India,Sarafa Bazaar,Indore,4-way,123,17,11,96,73,30,23,68
+India,Chappan Dukan,Indore,4-way,0,126,58,616,10,73,53,105
+India,Olpad-Rander Road,Surat,4-way,18,3,135,119,32,14,75,73
+India,Hazira-Adajan Road,Surat,4-way,131,72,90,146,74,59,66,76
+India,Sachin-Udhna Road,Surat,4-way,10,11,108,14,22,23,71,27
+India,Dumas-Athwa Road,Surat,4-way,3,0,152,83,14,10,77,63
+India,Kamrej-Varachha Road,Surat,4-way,50,1,4,77,50,11,15,61
+India,Kadodara-Sahara Road,Surat,4-way,1080,11,20,740,105,23,34,105
+India,National Highway 6 (NH6),Surat,4-way,190,17,65,918,82,30,56,105
+India,National Highway 8 (NH8),Surat,4-way,180,0,163,170,81,10,78,79
+India,Outer Ring Road,Surat,4-way,35,566,82,65,44,105,63,56
+India,Surat-Chennai Expressway,Surat,4-way,56,72,707,122,52,59,105,73
+India,J.M. Road,Pune,4-way,184,289,59,19,81,105,54,33
+India,Fergusson College Road (FC Road),Pune,4-way,37,183,826,48,45,81,105,49
+India,Laxmi Road,Pune,4-way,144,17,0,14,76,30,10,27
+India,Shivaji Nagar,Pune,4-way,30,21,30,333,42,35,42,105
+India,Koregaon Park,Pune,4-way,32,95,6,74,43,68,17,60
+India,Kothrud,Pune,4-way,18,94,13,194,32,68,26,83
+India,Viman Nagar,Pune,4-way,77,1,23,406,61,11,38,105
+India,Aundh,Pune,4-way,154,15,16,90,77,28,29,66
+India,Magarpatta City,Pune,4-way,294,3,0,199,105,14,10,83
+India,New Kalyani Nagar,Pune,4-way,89,6,282,12,66,17,105,24
+India,LBS Marg Junction,Mumbai,4-way,634,10,159,19,105,22,78,33
+India,Gandhi Nagar Junction,Mumbai,4-way,55,947,108,136,52,105,71,75
+India,Jolly Marg Junction,Mumbai,4-way,16,93,169,9,29,67,79,21
+India,Nikolsawadi Circle,Mumbai,4-way,507,72,71,15,105,59,58,28
+India,MIDC A Cross Road,Mumbai,4-way,36,128,111,173,44,74,71,80
+India,N S Phadke Marg,Mumbai,4-way,2,1015,1094,14,12,105,105,27
+India,Gokhale Bridge,Delhi,4-way,68,87,933,421,57,65,105,105
+India,DND Flyway,Delhi,4-way,6,6,17,25,17,17,30,40
+India,Maharani Bagh,Delhi,4-way,135,60,183,4,75,54,81,15
+India,Burari Road,Delhi,4-way,48,1044,88,311,49,105,65,105
+India,Khyber Pass Crossing,Delhi,4-way,162,23,801,711,78,38,105,105
+India,Nigam Bodh Ghat,Delhi,4-way,94,17,6,65,68,30,17,56
+India,P.S. Timarpur,Delhi,4-way,62,90,425,134,55,66,105,75
+India,Mall Road,Delhi,4-way,9,6,11,7,21,17,23,18
+India,Chennai Bypass Road,Chennai,4-way,18,83,190,177,32,63,82,80
+India,Bangalore Chennai Expressway,Chennai,4-way,0,121,109,12,10,73,71,24
+India,Anna Salai,Chennai,4-way,97,3,0,33,69,14,10,43
+India,EVR Periyar Salai,Chennai,4-way,14,5,38,65,27,16,45,56
+India,Arukilpadi road,Chennai,4-way,192,16,156,4,82,29,77,15
+India,Thakkolam,Chennai,4-way,15,26,88,35,28,40,65,44
+India,Golden Quadrilateral,Chennai,4-way,34,4,25,0,44,15,40,10
+India,Chowringhee Road,Kolkata,4-way,0,195,693,25,10,83,105,40
+India,Hazra Road,Kolkata,4-way,61,51,18,45,54,50,32,48
+India,Park Street,Kolkata,4-way,12,88,169,76,24,65,79,60
+India,Hazra Road,Kolkata,4-way,1120,11,17,7,105,23,30,18
+India,College Street,Kolkata,4-way,15,170,15,10,28,79,28,22
+India,Jaddu Mullick Street,Kolkata,4-way,62,9,19,790,55,21,33,105
+India,Raja SC Mullick Road,Kolkata,4-way,0,518,13,128,10,105,26,74
+India,Burdwan Road,Kolkata,4-way,183,36,1176,54,81,44,105,52
+India,Burdwan Road,Kolkata,4-way,195,0,77,28,83,10,61,41
+India,Eastern Metropolitan Bypass,Kolkata,4-way,11,8,53,13,23,20,51,26
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,13,16,11,173,26,29,23,80
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,78,90,41,0,61,66,46,10
+India,Mahatma Gandhi Marg,Indore,4-way,1,12,120,17,11,24,73,30
+India,A.B. Road,Indore,4-way,14,93,66,32,27,67,56,43
+India,Dewas Road,Indore,4-way,1054,36,6,188,105,44,17,82
+India,Ujjain Road,Indore,4-way,480,24,95,74,105,39,68,60
+India,Dhar Road,Indore,4-way,569,13,1123,14,105,26,105,27
+India,Pithampur Road,Indore,4-way,41,14,20,18,46,27,34,32
+India,Khandwa Road,Indore,4-way,105,189,24,497,71,82,39,105
+India,Nemawar Road,Indore,4-way,636,7,986,37,105,18,105,45
+India,Sarafa Bazaar,Indore,4-way,94,20,198,532,68,34,83,105
+India,Chappan Dukan,Indore,4-way,645,0,68,10,105,10,57,22
+India,Olpad-Rander Road,Surat,4-way,1187,31,19,22,105,42,33,36
+India,Hazira-Adajan Road,Surat,4-way,21,0,594,154,35,10,105,77
+India,Sachin-Udhna Road,Surat,4-way,75,75,209,78,60,60,85,61
+India,Dumas-Athwa Road,Surat,4-way,10,86,23,595,22,64,38,105
+India,Kamrej-Varachha Road,Surat,4-way,705,11,85,36,105,23,64,44
+India,Kadodara-Sahara Road,Surat,4-way,169,16,63,59,79,29,55,54
+India,National Highway 6 (NH6),Surat,4-way,78,1,190,47,61,11,82,49
+India,National Highway 8 (NH8),Surat,4-way,118,113,0,86,72,72,10,64
+India,Outer Ring Road,Surat,4-way,99,34,35,60,70,44,44,54
+India,Surat-Chennai Expressway,Surat,4-way,623,1052,48,109,105,105,49,71
+India,J.M. Road,Pune,4-way,178,20,55,56,80,34,52,52
+India,Fergusson College Road (FC Road),Pune,4-way,100,150,333,18,70,77,105,32
+India,Laxmi Road,Pune,4-way,27,49,1112,88,41,50,105,65
+India,Shivaji Nagar,Pune,4-way,13,37,1067,183,26,45,105,81
+India,Koregaon Park,Pune,4-way,289,35,14,70,105,44,27,58
+India,Kothrud,Pune,4-way,165,38,197,32,79,45,83,43
+India,Viman Nagar,Pune,4-way,110,782,63,1,71,105,55,11
+India,Aundh,Pune,4-way,0,1023,63,8,10,105,55,20
+India,Magarpatta City,Pune,4-way,1000,82,36,171,105,63,44,79
+India,New Kalyani Nagar,Pune,4-way,36,192,65,113,44,82,56,72
+India,LBS Marg Junction,Mumbai,4-way,139,10,852,145,75,22,105,76
+India,Gandhi Nagar Junction,Mumbai,4-way,30,32,42,39,42,43,47,46
+India,Jolly Marg Junction,Mumbai,4-way,210,399,307,78,85,105,105,61
+India,Nikolsawadi Circle,Mumbai,4-way,91,12,8,60,66,24,20,54
+India,MIDC A Cross Road,Mumbai,4-way,174,208,153,100,80,84,77,70
+India,N S Phadke Marg,Mumbai,4-way,40,12,147,17,46,24,76,30
+India,Gokhale Bridge,Delhi,4-way,92,8,25,75,67,20,40,60
+India,DND Flyway,Delhi,4-way,172,0,16,11,80,10,29,23
+India,Maharani Bagh,Delhi,4-way,0,200,20,98,10,83,34,69
+India,Burari Road,Delhi,4-way,6,16,17,190,17,29,30,82
+India,Khyber Pass Crossing,Delhi,4-way,198,98,190,110,83,69,82,71
+India,Nigam Bodh Ghat,Delhi,4-way,71,849,13,285,58,105,26,105
+India,P.S. Timarpur,Delhi,4-way,462,32,2,3,105,43,12,14
+India,Mall Road,Delhi,4-way,47,16,0,106,49,29,10,71
+India,Chennai Bypass Road,Chennai,4-way,47,13,11,19,49,26,23,33
+India,Bangalore Chennai Expressway,Chennai,4-way,39,971,250,0,46,105,90,10
+India,Anna Salai,Chennai,4-way,158,0,4,106,78,10,15,71
+India,EVR Periyar Salai,Chennai,4-way,11,190,9,2,23,82,21,12
+India,Arukilpadi road,Chennai,4-way,142,893,18,30,76,105,32,42
+India,Thakkolam,Chennai,4-way,25,52,7,24,40,51,18,39
+India,Golden Quadrilateral,Chennai,4-way,769,0,87,15,105,10,65,28
+India,Chowringhee Road,Kolkata,4-way,212,12,120,97,85,24,73,69
+India,Hazra Road,Kolkata,4-way,12,52,141,14,24,51,75,27
+India,Park Street,Kolkata,4-way,26,843,1,187,40,105,11,82
+India,Hazra Road,Kolkata,4-way,181,6,5,440,81,17,16,105
+India,College Street,Kolkata,4-way,797,194,6,7,105,83,17,18
+India,Jaddu Mullick Street,Kolkata,4-way,44,185,97,72,48,81,69,59
+India,Raja SC Mullick Road,Kolkata,4-way,0,14,49,32,10,27,50,43
+India,Burdwan Road,Kolkata,4-way,15,101,20,718,28,70,34,105
+India,Burdwan Road,Kolkata,4-way,674,17,615,19,105,30,105,33
+India,Eastern Metropolitan Bypass,Kolkata,4-way,40,156,77,452,46,77,61,105
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,65,33,74,60,56,43,60,54
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,1,33,217,175,11,43,86,80
+India,Mahatma Gandhi Marg,Indore,4-way,20,104,3,3,34,71,14,14
+India,A.B. Road,Indore,4-way,16,18,146,20,29,32,76,34
+India,Dewas Road,Indore,4-way,3,375,126,95,14,105,73,68
+India,Ujjain Road,Indore,4-way,15,14,10,18,28,27,22,32
+India,Dhar Road,Indore,4-way,203,6,11,54,84,17,23,52
+India,Pithampur Road,Indore,4-way,20,56,39,704,34,52,46,105
+India,Khandwa Road,Indore,4-way,65,139,61,692,56,75,54,105
+India,Nemawar Road,Indore,4-way,70,89,13,188,58,66,26,82
+India,Sarafa Bazaar,Indore,4-way,11,17,16,18,23,30,29,32
+India,Chappan Dukan,Indore,4-way,89,45,52,22,66,48,51,36
+India,Olpad-Rander Road,Surat,4-way,24,130,20,142,39,74,34,76
+India,Hazira-Adajan Road,Surat,4-way,1033,111,50,3,105,71,50,14
+India,Sachin-Udhna Road,Surat,4-way,6,5,0,0,17,16,10,10
+India,Dumas-Athwa Road,Surat,4-way,0,317,197,1177,10,105,83,105
+India,Kamrej-Varachha Road,Surat,4-way,187,701,94,35,82,105,68,44
+India,Kadodara-Sahara Road,Surat,4-way,635,288,141,34,105,105,75,44
+India,National Highway 6 (NH6),Surat,4-way,19,908,28,100,33,105,41,70
+India,National Highway 8 (NH8),Surat,4-way,38,19,11,975,45,33,23,105
+India,Outer Ring Road,Surat,4-way,113,214,34,155,72,85,44,77
+India,Surat-Chennai Expressway,Surat,4-way,8,0,41,4,20,10,46,15
+India,J.M. Road,Pune,4-way,120,171,86,223,73,79,64,86
+India,Fergusson College Road (FC Road),Pune,4-way,1085,94,0,67,105,68,10,57
+India,Laxmi Road,Pune,4-way,200,163,139,117,83,78,75,72
+India,Shivaji Nagar,Pune,4-way,36,41,115,20,44,46,72,34
+India,Koregaon Park,Pune,4-way,9,194,1,6,21,83,11,17
+India,Kothrud,Pune,4-way,820,980,196,182,105,105,83,81
+India,Viman Nagar,Pune,4-way,538,58,3,133,105,53,14,74
+India,Aundh,Pune,4-way,193,184,0,15,82,81,10,28
+India,Magarpatta City,Pune,4-way,53,0,198,0,51,10,83,10
+India,New Kalyani Nagar,Pune,4-way,0,1166,2,283,10,105,12,105
+India,LBS Marg Junction,Mumbai,4-way,150,222,18,0,77,86,32,10
+India,Gandhi Nagar Junction,Mumbai,4-way,1068,35,755,78,105,44,105,61
+India,Jolly Marg Junction,Mumbai,4-way,16,55,124,659,29,52,73,105
+India,Nikolsawadi Circle,Mumbai,4-way,137,450,18,1161,75,105,32,105
+India,MIDC A Cross Road,Mumbai,4-way,6,66,101,474,17,56,70,105
+India,N S Phadke Marg,Mumbai,4-way,475,116,958,9,105,72,105,21
+India,Gokhale Bridge,Delhi,4-way,83,194,147,100,63,83,76,70
+India,DND Flyway,Delhi,4-way,95,42,56,76,68,47,52,60
+India,Maharani Bagh,Delhi,4-way,2,140,13,300,12,75,26,105
+India,Burari Road,Delhi,4-way,3,11,114,0,14,23,72,10
+India,Khyber Pass Crossing,Delhi,4-way,32,16,88,499,43,29,65,105
+India,Nigam Bodh Ghat,Delhi,4-way,5,58,838,4,16,53,105,15
+India,P.S. Timarpur,Delhi,4-way,41,1117,10,0,46,105,22,10
+India,Mall Road,Delhi,4-way,582,75,648,94,105,60,105,68
+India,Chennai Bypass Road,Chennai,4-way,49,21,53,37,50,35,51,45
+India,Bangalore Chennai Expressway,Chennai,4-way,0,51,30,197,10,50,42,83
+India,Anna Salai,Chennai,4-way,198,59,79,1108,83,54,62,105
+India,EVR Periyar Salai,Chennai,4-way,32,18,4,52,43,32,15,51
+India,Arukilpadi road,Chennai,4-way,977,47,16,4,105,49,29,15
+India,Thakkolam,Chennai,4-way,0,869,1099,17,10,105,105,30
+India,Golden Quadrilateral,Chennai,4-way,16,0,58,16,29,10,53,29
+India,Chowringhee Road,Kolkata,4-way,26,125,7,22,40,73,18,36
+India,Hazra Road,Kolkata,4-way,1017,510,21,12,105,105,35,24
+India,Park Street,Kolkata,4-way,270,1153,21,165,105,105,35,79
+India,Hazra Road,Kolkata,4-way,48,39,172,74,49,46,80,60
+India,College Street,Kolkata,4-way,95,16,18,4,68,29,32,15
+India,Jaddu Mullick Street,Kolkata,4-way,154,21,15,821,77,35,28,105
+India,Raja SC Mullick Road,Kolkata,4-way,151,15,35,7,77,28,44,18
+India,Burdwan Road,Kolkata,4-way,0,194,3,99,10,83,14,70
+India,Burdwan Road,Kolkata,4-way,30,179,817,37,42,81,105,45
+India,Eastern Metropolitan Bypass,Kolkata,4-way,20,47,189,3,34,49,82,14
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,96,188,193,10,68,82,82,22
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,19,179,186,52,33,81,81,51
+India,Mahatma Gandhi Marg,Indore,4-way,18,843,32,0,32,105,43,10
+India,A.B. Road,Indore,4-way,22,81,113,15,36,62,72,28
+India,Dewas Road,Indore,4-way,14,17,408,1134,27,30,105,105
+India,Ujjain Road,Indore,4-way,15,42,699,113,28,47,105,72
+India,Dhar Road,Indore,4-way,6,72,152,0,17,59,77,10
+India,Pithampur Road,Indore,4-way,44,168,4,16,48,79,15,29
+India,Khandwa Road,Indore,4-way,581,109,675,4,105,71,105,15
+India,Nemawar Road,Indore,4-way,110,69,145,1,71,58,76,11
+India,Sarafa Bazaar,Indore,4-way,5,377,522,82,16,105,105,63
+India,Chappan Dukan,Indore,4-way,247,2,20,55,90,12,34,52
+India,Olpad-Rander Road,Surat,4-way,14,58,100,786,27,53,70,105
+India,Hazira-Adajan Road,Surat,4-way,6,88,9,61,17,65,21,54
+India,Sachin-Udhna Road,Surat,4-way,62,133,151,963,55,74,77,105
+India,Dumas-Athwa Road,Surat,4-way,153,16,15,93,77,29,28,67
+India,Kamrej-Varachha Road,Surat,4-way,20,721,35,1000,34,105,44,105
+India,Kadodara-Sahara Road,Surat,4-way,200,44,137,46,83,48,75,48
+India,National Highway 6 (NH6),Surat,4-way,193,90,12,125,82,66,24,73
+India,National Highway 8 (NH8),Surat,4-way,36,31,58,140,44,42,53,75
+India,Outer Ring Road,Surat,4-way,5,797,844,79,16,105,105,62
+India,Surat-Chennai Expressway,Surat,4-way,122,27,13,128,73,41,26,74
+India,J.M. Road,Pune,4-way,790,168,405,85,105,79,105,64
+India,Fergusson College Road (FC Road),Pune,4-way,393,87,61,93,105,65,54,67
+India,Laxmi Road,Pune,4-way,9,979,17,16,21,105,30,29
+India,Shivaji Nagar,Pune,4-way,629,49,13,13,105,50,26,26
+India,Koregaon Park,Pune,4-way,38,91,5,195,45,66,16,83
+India,Kothrud,Pune,4-way,0,75,6,76,10,60,17,60
+India,Viman Nagar,Pune,4-way,124,12,29,984,73,24,42,105
+India,Aundh,Pune,4-way,15,67,16,20,28,57,29,34
+India,Magarpatta City,Pune,4-way,13,42,116,780,26,47,72,105
+India,New Kalyani Nagar,Pune,4-way,77,8,0,18,61,20,10,32
+India,LBS Marg Junction,Mumbai,4-way,593,6,56,42,105,17,52,47
+India,Gandhi Nagar Junction,Mumbai,4-way,149,1150,178,0,77,105,80,10
+India,Jolly Marg Junction,Mumbai,4-way,43,93,28,26,47,67,41,40
+India,Nikolsawadi Circle,Mumbai,4-way,796,308,41,11,105,105,46,23
+India,MIDC A Cross Road,Mumbai,4-way,65,580,61,64,56,105,54,56
+India,N S Phadke Marg,Mumbai,4-way,902,140,358,0,105,75,105,10
+India,Gokhale Bridge,Delhi,4-way,90,15,886,747,66,28,105,105
+India,DND Flyway,Delhi,4-way,53,97,175,12,51,69,80,24
+India,Maharani Bagh,Delhi,4-way,107,17,12,0,71,30,24,10
+India,Burari Road,Delhi,4-way,99,26,13,32,70,40,26,43
+India,Khyber Pass Crossing,Delhi,4-way,222,86,17,176,86,64,30,80
+India,Nigam Bodh Ghat,Delhi,4-way,59,69,17,58,54,58,30,53
+India,P.S. Timarpur,Delhi,4-way,43,959,15,174,47,105,28,80
+India,Mall Road,Delhi,4-way,83,121,59,493,63,73,54,105
+India,Chennai Bypass Road,Chennai,4-way,845,89,0,729,105,66,10,105
+India,Bangalore Chennai Expressway,Chennai,4-way,6,4,0,0,17,15,10,10
+India,Anna Salai,Chennai,4-way,185,20,18,19,81,34,32,33
+India,EVR Periyar Salai,Chennai,4-way,1,29,134,498,11,42,75,105
+India,Arukilpadi road,Chennai,4-way,127,106,165,20,74,71,79,34
+India,Thakkolam,Chennai,4-way,133,75,40,176,74,60,46,80
+India,Golden Quadrilateral,Chennai,4-way,715,1,184,69,105,11,81,58
+India,Chowringhee Road,Kolkata,4-way,15,116,649,608,28,72,105,105
+India,Hazra Road,Kolkata,4-way,55,18,794,14,52,32,105,27
+India,Park Street,Kolkata,4-way,17,16,927,941,30,29,105,105
+India,Hazra Road,Kolkata,4-way,10,199,11,76,22,83,23,60
+India,College Street,Kolkata,4-way,397,17,129,155,105,30,74,77
+India,Jaddu Mullick Street,Kolkata,4-way,123,126,709,42,73,73,105,47
+India,Raja SC Mullick Road,Kolkata,4-way,94,37,4,195,68,45,15,83
+India,Burdwan Road,Kolkata,4-way,82,5,1019,321,63,16,105,105
+India,Burdwan Road,Kolkata,4-way,165,53,57,594,79,51,53,105
+India,Eastern Metropolitan Bypass,Kolkata,4-way,194,1,342,3,83,11,105,14
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,19,27,173,30,33,41,80,42
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,20,20,16,10,34,34,29,22
+India,Mahatma Gandhi Marg,Indore,4-way,14,71,18,158,27,58,32,78
+India,A.B. Road,Indore,4-way,54,194,440,12,52,83,105,24
+India,Dewas Road,Indore,4-way,68,43,220,186,57,47,86,81
+India,Ujjain Road,Indore,4-way,16,0,0,87,29,10,10,65
+India,Dhar Road,Indore,4-way,53,534,6,173,51,105,17,80
+India,Pithampur Road,Indore,4-way,11,21,20,65,23,35,34,56
+India,Khandwa Road,Indore,4-way,70,132,1167,43,58,74,105,47
+India,Nemawar Road,Indore,4-way,69,769,182,83,58,105,81,63
+India,Sarafa Bazaar,Indore,4-way,13,57,120,46,26,53,73,48
+India,Chappan Dukan,Indore,4-way,171,0,0,50,79,10,10,50
+India,Olpad-Rander Road,Surat,4-way,18,150,168,0,32,77,79,10
+India,Hazira-Adajan Road,Surat,4-way,69,126,15,15,58,73,28,28
+India,Sachin-Udhna Road,Surat,4-way,12,120,97,50,24,73,69,50
+India,Dumas-Athwa Road,Surat,4-way,62,26,13,97,55,40,26,69
+India,Kamrej-Varachha Road,Surat,4-way,73,8,198,41,59,20,83,46
+India,Kadodara-Sahara Road,Surat,4-way,865,165,58,19,105,79,53,33
+India,National Highway 6 (NH6),Surat,4-way,191,2,90,23,82,12,66,38
+India,National Highway 8 (NH8),Surat,4-way,197,67,51,197,83,57,50,83
+India,Outer Ring Road,Surat,4-way,224,0,16,75,87,10,29,60
+India,Surat-Chennai Expressway,Surat,4-way,82,662,7,17,63,105,18,30
+India,J.M. Road,Pune,4-way,47,113,171,70,49,72,79,58
+India,Fergusson College Road (FC Road),Pune,4-way,6,426,4,90,17,105,15,66
+India,Laxmi Road,Pune,4-way,652,0,5,70,105,10,16,58
+India,Shivaji Nagar,Pune,4-way,76,3,16,40,60,14,29,46
+India,Koregaon Park,Pune,4-way,113,14,8,139,72,27,20,75
+India,Kothrud,Pune,4-way,10,9,17,16,22,21,30,29
+India,Viman Nagar,Pune,4-way,20,121,44,46,34,73,48,48
+India,Aundh,Pune,4-way,227,101,19,1091,87,70,33,105
+India,Magarpatta City,Pune,4-way,55,372,20,37,52,105,34,45
+India,New Kalyani Nagar,Pune,4-way,31,15,690,651,42,28,105,105
+India,LBS Marg Junction,Mumbai,4-way,5,316,415,0,16,105,105,10
+India,Gandhi Nagar Junction,Mumbai,4-way,502,678,61,23,105,105,54,38
+India,Jolly Marg Junction,Mumbai,4-way,2,178,75,68,12,80,60,57
+India,Nikolsawadi Circle,Mumbai,4-way,13,94,1016,0,26,68,105,10
+India,MIDC A Cross Road,Mumbai,4-way,111,60,1057,1,71,54,105,11
+India,N S Phadke Marg,Mumbai,4-way,124,478,15,153,73,105,28,77
+India,Gokhale Bridge,Delhi,4-way,18,2,1110,3,32,12,105,14
+India,DND Flyway,Delhi,4-way,0,49,40,80,10,50,46,62
+India,Maharani Bagh,Delhi,4-way,26,173,8,230,40,80,20,87
+India,Burari Road,Delhi,4-way,6,11,20,12,17,23,34,24
+India,Khyber Pass Crossing,Delhi,4-way,0,889,42,92,10,105,47,67
+India,Nigam Bodh Ghat,Delhi,4-way,98,646,36,126,69,105,44,73
+India,P.S. Timarpur,Delhi,4-way,61,419,32,39,54,105,43,46
+India,Mall Road,Delhi,4-way,15,52,2,8,28,51,12,20
+India,Chennai Bypass Road,Chennai,4-way,19,13,725,46,33,26,105,48
+India,Bangalore Chennai Expressway,Chennai,4-way,6,277,805,145,17,105,105,76
+India,Anna Salai,Chennai,4-way,10,894,27,82,22,105,41,63
+India,EVR Periyar Salai,Chennai,4-way,44,631,41,5,48,105,46,16
+India,Arukilpadi road,Chennai,4-way,40,17,65,81,46,30,56,62
+India,Thakkolam,Chennai,4-way,87,66,25,69,65,56,40,58
+India,Golden Quadrilateral,Chennai,4-way,148,7,835,9,76,18,105,21
+India,Chowringhee Road,Kolkata,4-way,20,23,16,683,34,38,29,105
+India,Hazra Road,Kolkata,4-way,55,42,76,87,52,47,60,65
+India,Park Street,Kolkata,4-way,5,19,481,627,16,33,105,105
+India,Hazra Road,Kolkata,4-way,185,79,799,328,81,62,105,105
+India,College Street,Kolkata,4-way,75,126,9,13,60,73,21,26
+India,Jaddu Mullick Street,Kolkata,4-way,31,0,115,64,42,10,72,56
+India,Raja SC Mullick Road,Kolkata,4-way,1069,652,6,0,105,105,17,10
+India,Burdwan Road,Kolkata,4-way,404,89,17,14,105,66,30,27
+India,Burdwan Road,Kolkata,4-way,93,47,57,28,67,49,53,41
+India,Eastern Metropolitan Bypass,Kolkata,4-way,581,1096,630,271,105,105,105,105
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,97,191,37,42,69,82,45,47
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,7,28,0,13,18,41,10,26
+India,Mahatma Gandhi Marg,Indore,4-way,46,3,125,7,48,14,73,18
+India,A.B. Road,Indore,4-way,56,862,67,7,52,105,57,18
+India,Dewas Road,Indore,4-way,1199,74,19,36,105,60,33,44
+India,Ujjain Road,Indore,4-way,647,76,44,13,105,60,48,26
+India,Dhar Road,Indore,4-way,44,65,325,1,48,56,105,11
+India,Pithampur Road,Indore,4-way,8,40,1046,903,20,46,105,105
+India,Khandwa Road,Indore,4-way,7,20,151,178,18,34,77,80
+India,Nemawar Road,Indore,4-way,16,39,36,192,29,46,44,82
+India,Sarafa Bazaar,Indore,4-way,554,273,794,12,105,105,105,24
+India,Chappan Dukan,Indore,4-way,356,170,68,44,105,79,57,48
+India,Olpad-Rander Road,Surat,4-way,294,28,40,68,105,41,46,57
+India,Hazira-Adajan Road,Surat,4-way,177,10,8,193,80,22,20,82
+India,Sachin-Udhna Road,Surat,4-way,72,12,88,0,59,24,65,10
+India,Dumas-Athwa Road,Surat,4-way,156,87,69,18,77,65,58,32
+India,Kamrej-Varachha Road,Surat,4-way,154,4,49,66,77,15,50,56
+India,Kadodara-Sahara Road,Surat,4-way,3,64,66,174,14,56,56,80
+India,National Highway 6 (NH6),Surat,4-way,122,4,82,378,73,15,63,105
+India,National Highway 8 (NH8),Surat,4-way,24,133,140,872,39,74,75,105
+India,Outer Ring Road,Surat,4-way,532,807,200,197,105,105,83,83
+India,Surat-Chennai Expressway,Surat,4-way,401,0,100,17,105,10,70,30
+India,J.M. Road,Pune,4-way,96,95,154,775,68,68,77,105
+India,Fergusson College Road (FC Road),Pune,4-way,14,182,486,8,27,81,105,20
+India,Laxmi Road,Pune,4-way,18,56,48,64,32,52,49,56
+India,Shivaji Nagar,Pune,4-way,13,96,5,76,26,68,16,60
+India,Koregaon Park,Pune,4-way,12,852,177,419,24,105,80,105
+India,Kothrud,Pune,4-way,80,184,40,479,62,81,46,105
+India,Viman Nagar,Pune,4-way,2,8,2,109,12,20,12,71
+India,Aundh,Pune,4-way,168,144,9,16,79,76,21,29
+India,Magarpatta City,Pune,4-way,71,78,19,160,58,61,33,78
+India,New Kalyani Nagar,Pune,4-way,4,948,133,119,15,105,74,73
+India,LBS Marg Junction,Mumbai,4-way,0,19,108,99,10,33,71,70
+India,Gandhi Nagar Junction,Mumbai,4-way,42,149,450,42,47,77,105,47
+India,Jolly Marg Junction,Mumbai,4-way,1125,123,14,3,105,73,27,14
+India,Nikolsawadi Circle,Mumbai,4-way,2,17,8,1061,12,30,20,105
+India,MIDC A Cross Road,Mumbai,4-way,69,20,1008,29,58,34,105,42
+India,N S Phadke Marg,Mumbai,4-way,2,191,95,59,12,82,68,54
+India,Gokhale Bridge,Delhi,4-way,157,260,747,15,78,105,105,28
+India,DND Flyway,Delhi,4-way,32,164,389,134,43,79,105,75
+India,Maharani Bagh,Delhi,4-way,17,26,856,78,30,40,105,61
+India,Burari Road,Delhi,4-way,783,93,79,732,105,67,62,105
+India,Khyber Pass Crossing,Delhi,4-way,25,48,19,17,40,49,33,30
+India,Nigam Bodh Ghat,Delhi,4-way,94,70,94,45,68,58,68,48
+India,P.S. Timarpur,Delhi,4-way,38,27,78,0,45,41,61,10
+India,Mall Road,Delhi,4-way,123,550,144,0,73,105,76,10
+India,Chennai Bypass Road,Chennai,4-way,9,1108,3,99,21,105,14,70
+India,Bangalore Chennai Expressway,Chennai,4-way,173,65,163,42,80,56,78,47
+India,Anna Salai,Chennai,4-way,37,86,179,55,45,64,81,52
+India,EVR Periyar Salai,Chennai,4-way,26,126,106,127,40,73,71,74
+India,Arukilpadi road,Chennai,4-way,727,152,9,6,105,77,21,17
+India,Thakkolam,Chennai,4-way,150,73,587,8,77,59,105,20
+India,Golden Quadrilateral,Chennai,4-way,393,19,33,19,105,33,43,33
+India,Chowringhee Road,Kolkata,4-way,19,73,436,237,33,59,105,88
+India,Hazra Road,Kolkata,4-way,12,643,16,1146,24,105,29,105
+India,Park Street,Kolkata,4-way,40,1114,42,17,46,105,47,30
+India,Hazra Road,Kolkata,4-way,12,143,146,16,24,76,76,29
+India,College Street,Kolkata,4-way,42,194,53,490,47,83,51,105
+India,Jaddu Mullick Street,Kolkata,4-way,78,9,17,100,61,21,30,70
+India,Raja SC Mullick Road,Kolkata,4-way,293,2,3,72,105,12,14,59
+India,Burdwan Road,Kolkata,4-way,27,9,470,20,41,21,105,34
+India,Burdwan Road,Kolkata,4-way,669,528,1146,32,105,105,105,43
+India,Eastern Metropolitan Bypass,Kolkata,4-way,132,6,14,144,74,17,27,76
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,864,15,112,199,105,28,72,83
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,1082,0,83,107,105,10,63,71
+India,Mahatma Gandhi Marg,Indore,4-way,143,77,79,93,76,61,62,67
+India,A.B. Road,Indore,4-way,2,0,8,0,12,10,20,10
+India,Dewas Road,Indore,4-way,151,825,12,518,77,105,24,105
+India,Ujjain Road,Indore,4-way,934,13,147,12,105,26,76,24
+India,Dhar Road,Indore,4-way,131,76,20,750,74,60,34,105
+India,Pithampur Road,Indore,4-way,2,53,329,129,12,51,105,74
+India,Khandwa Road,Indore,4-way,110,39,94,147,71,46,68,76
+India,Nemawar Road,Indore,4-way,145,62,100,95,76,55,70,68
+India,Sarafa Bazaar,Indore,4-way,15,58,174,134,28,53,80,75
+India,Chappan Dukan,Indore,4-way,805,0,39,9,105,10,46,21
+India,Olpad-Rander Road,Surat,4-way,165,139,1197,51,79,75,105,50
+India,Hazira-Adajan Road,Surat,4-way,43,116,41,43,47,72,46,47
+India,Sachin-Udhna Road,Surat,4-way,115,8,391,164,72,20,105,79
+India,Dumas-Athwa Road,Surat,4-way,1,16,1029,52,11,29,105,51
+India,Kamrej-Varachha Road,Surat,4-way,3,74,6,143,14,60,17,76
+India,Kadodara-Sahara Road,Surat,4-way,25,1,7,160,40,11,18,78
+India,National Highway 6 (NH6),Surat,4-way,14,114,48,7,27,72,49,18
+India,National Highway 8 (NH8),Surat,4-way,142,40,70,23,76,46,58,38
+India,Outer Ring Road,Surat,4-way,64,154,8,5,56,77,20,16
+India,Surat-Chennai Expressway,Surat,4-way,72,199,400,52,59,83,105,51
+India,J.M. Road,Pune,4-way,0,45,594,11,10,48,105,23
+India,Fergusson College Road (FC Road),Pune,4-way,70,177,105,25,58,80,71,40
+India,Laxmi Road,Pune,4-way,702,479,19,246,105,105,33,89
+India,Shivaji Nagar,Pune,4-way,142,29,58,17,76,42,53,30
+India,Koregaon Park,Pune,4-way,435,16,909,19,105,29,105,33
+India,Kothrud,Pune,4-way,17,55,444,13,30,52,105,26
+India,Viman Nagar,Pune,4-way,12,950,45,249,24,105,48,90
+India,Aundh,Pune,4-way,146,11,147,11,76,23,76,23
+India,Magarpatta City,Pune,4-way,18,786,10,739,32,105,22,105
+India,New Kalyani Nagar,Pune,4-way,506,64,186,26,105,56,81,40
+India,LBS Marg Junction,Mumbai,4-way,989,32,166,88,105,43,79,65
+India,Gandhi Nagar Junction,Mumbai,4-way,62,23,13,123,55,38,26,73
+India,Jolly Marg Junction,Mumbai,4-way,27,46,58,11,41,48,53,23
+India,Nikolsawadi Circle,Mumbai,4-way,586,46,86,7,105,48,64,18
+India,MIDC A Cross Road,Mumbai,4-way,1158,43,62,86,105,47,55,64
+India,N S Phadke Marg,Mumbai,4-way,75,198,53,11,60,83,51,23
+India,Gokhale Bridge,Delhi,4-way,20,68,714,70,34,57,105,58
+India,DND Flyway,Delhi,4-way,21,31,67,514,35,42,57,105
+India,Maharani Bagh,Delhi,4-way,316,98,173,0,105,69,80,10
+India,Burari Road,Delhi,4-way,88,2,58,78,65,12,53,61
+India,Khyber Pass Crossing,Delhi,4-way,427,114,12,1053,105,72,24,105
+India,Nigam Bodh Ghat,Delhi,4-way,287,52,68,94,105,51,57,68
+India,P.S. Timarpur,Delhi,4-way,13,747,524,297,26,105,105,105
+India,Mall Road,Delhi,4-way,1,155,429,86,11,77,105,64
+India,Chennai Bypass Road,Chennai,4-way,91,172,17,133,66,80,30,74
+India,Bangalore Chennai Expressway,Chennai,4-way,114,122,15,574,72,73,28,105
+India,Anna Salai,Chennai,4-way,5,190,591,4,16,82,105,15
+India,EVR Periyar Salai,Chennai,4-way,74,71,39,18,60,58,46,32
+India,Arukilpadi road,Chennai,4-way,178,197,51,59,80,83,50,54
+India,Thakkolam,Chennai,4-way,354,114,41,337,105,72,46,105
+India,Golden Quadrilateral,Chennai,4-way,6,0,172,0,17,10,80,10
+India,Chowringhee Road,Kolkata,4-way,192,510,1,167,82,105,11,79
+India,Hazra Road,Kolkata,4-way,4,14,20,150,15,27,34,77
+India,Park Street,Kolkata,4-way,171,944,513,6,79,105,105,17
+India,Hazra Road,Kolkata,4-way,15,136,158,2,28,75,78,12
+India,College Street,Kolkata,4-way,18,37,74,1096,32,45,60,105
+India,Jaddu Mullick Street,Kolkata,4-way,0,12,25,0,10,24,40,10
+India,Raja SC Mullick Road,Kolkata,4-way,19,48,17,10,33,49,30,22
+India,Burdwan Road,Kolkata,4-way,829,0,34,11,105,10,44,23
+India,Burdwan Road,Kolkata,4-way,512,99,26,1,105,70,40,11
+India,Eastern Metropolitan Bypass,Kolkata,4-way,127,1027,0,140,74,105,10,75
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,17,52,13,114,30,51,26,72
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,16,28,189,742,29,41,82,105
+India,Mahatma Gandhi Marg,Indore,4-way,192,77,51,305,82,61,50,105
+India,A.B. Road,Indore,4-way,92,1,47,438,67,11,49,105
+India,Dewas Road,Indore,4-way,19,55,161,723,33,52,78,105
+India,Ujjain Road,Indore,4-way,129,11,108,1022,74,23,71,105
+India,Dhar Road,Indore,4-way,74,52,19,19,60,51,33,33
+India,Pithampur Road,Indore,4-way,14,383,23,911,27,105,38,105
+India,Khandwa Road,Indore,4-way,7,12,97,157,18,24,69,78
+India,Nemawar Road,Indore,4-way,616,609,1130,1037,105,105,105,105
+India,Sarafa Bazaar,Indore,4-way,0,343,58,161,10,105,53,78
+India,Chappan Dukan,Indore,4-way,9,36,25,40,21,44,40,46
+India,Olpad-Rander Road,Surat,4-way,17,0,11,34,30,10,23,44
+India,Hazira-Adajan Road,Surat,4-way,95,69,16,7,68,58,29,18
+India,Sachin-Udhna Road,Surat,4-way,3,10,19,4,14,22,33,15
+India,Dumas-Athwa Road,Surat,4-way,0,11,54,189,10,23,52,82
+India,Kamrej-Varachha Road,Surat,4-way,487,8,108,57,105,20,71,53
+India,Kadodara-Sahara Road,Surat,4-way,234,1192,164,10,88,105,79,22
+India,National Highway 6 (NH6),Surat,4-way,137,8,76,9,75,20,60,21
+India,National Highway 8 (NH8),Surat,4-way,92,8,163,167,67,20,78,79
+India,Outer Ring Road,Surat,4-way,60,40,45,823,54,46,48,105
+India,Surat-Chennai Expressway,Surat,4-way,99,132,910,150,70,74,105,77
+India,J.M. Road,Pune,4-way,109,68,101,26,71,57,70,40
+India,Fergusson College Road (FC Road),Pune,4-way,18,140,1,44,32,75,11,48
+India,Laxmi Road,Pune,4-way,123,18,1040,131,73,32,105,74
+India,Shivaji Nagar,Pune,4-way,33,631,112,1101,43,105,72,105
+India,Koregaon Park,Pune,4-way,0,642,47,811,10,105,49,105
+India,Kothrud,Pune,4-way,1141,75,30,155,105,60,42,77
+India,Viman Nagar,Pune,4-way,187,3,19,176,82,14,33,80
+India,Aundh,Pune,4-way,0,64,143,410,10,56,76,105
+India,Magarpatta City,Pune,4-way,49,49,66,1199,50,50,56,105
+India,New Kalyani Nagar,Pune,4-way,61,4,1167,481,54,15,105,105
+India,LBS Marg Junction,Mumbai,4-way,57,78,180,15,53,61,81,28
+India,Gandhi Nagar Junction,Mumbai,4-way,145,189,12,78,76,82,24,61
+India,Jolly Marg Junction,Mumbai,4-way,17,14,1,7,30,27,11,18
+India,Nikolsawadi Circle,Mumbai,4-way,177,19,15,8,80,33,28,20
+India,MIDC A Cross Road,Mumbai,4-way,24,9,45,197,39,21,48,83
+India,N S Phadke Marg,Mumbai,4-way,19,190,182,20,33,82,81,34
+India,Gokhale Bridge,Delhi,4-way,81,13,125,1,62,26,73,11
+India,DND Flyway,Delhi,4-way,66,50,138,17,56,50,75,30
+India,Maharani Bagh,Delhi,4-way,82,5,493,21,63,16,105,35
+India,Burari Road,Delhi,4-way,505,7,176,23,105,18,80,38
+India,Khyber Pass Crossing,Delhi,4-way,112,17,13,20,72,30,26,34
+India,Nigam Bodh Ghat,Delhi,4-way,1065,9,103,97,105,21,70,69
+India,P.S. Timarpur,Delhi,4-way,0,13,160,18,10,26,78,32
+India,Mall Road,Delhi,4-way,1113,64,10,108,105,56,22,71
+India,Chennai Bypass Road,Chennai,4-way,1102,73,377,93,105,59,105,67
+India,Bangalore Chennai Expressway,Chennai,4-way,44,17,11,120,48,30,23,73
+India,Anna Salai,Chennai,4-way,485,14,47,135,105,27,49,75
+India,EVR Periyar Salai,Chennai,4-way,179,13,15,8,81,26,28,20
+India,Arukilpadi road,Chennai,4-way,24,19,15,89,39,33,28,66
+India,Thakkolam,Chennai,4-way,56,796,89,12,52,105,66,24
+India,Golden Quadrilateral,Chennai,4-way,82,190,21,90,63,82,35,66
+India,Chowringhee Road,Kolkata,4-way,57,670,27,542,53,105,41,105
+India,Hazra Road,Kolkata,4-way,64,66,954,1004,56,56,105,105
+India,Park Street,Kolkata,4-way,15,1085,7,6,28,105,18,17
+India,Hazra Road,Kolkata,4-way,99,12,112,18,70,24,72,32
+India,College Street,Kolkata,4-way,21,2,200,169,35,12,83,79
+India,Jaddu Mullick Street,Kolkata,4-way,94,142,11,91,68,76,23,66
+India,Raja SC Mullick Road,Kolkata,4-way,9,39,81,141,21,46,62,75
+India,Burdwan Road,Kolkata,4-way,78,140,0,19,61,75,10,33
+India,Burdwan Road,Kolkata,4-way,15,96,486,5,28,68,105,16
+India,Eastern Metropolitan Bypass,Kolkata,4-way,78,5,15,10,61,16,28,22
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,14,171,8,708,27,79,20,105
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,819,592,0,13,105,105,10,26
+India,Mahatma Gandhi Marg,Indore,4-way,19,99,45,13,33,70,48,26
+India,A.B. Road,Indore,4-way,27,9,4,496,41,21,15,105
+India,Dewas Road,Indore,4-way,13,159,28,279,26,78,41,105
+India,Ujjain Road,Indore,4-way,12,24,58,60,24,39,53,54
+India,Dhar Road,Indore,4-way,69,131,136,19,58,74,75,33
+India,Pithampur Road,Indore,4-way,78,52,453,291,61,51,105,105
+India,Khandwa Road,Indore,4-way,384,172,0,60,105,80,10,54
+India,Nemawar Road,Indore,4-way,197,1015,15,39,83,105,28,46
+India,Sarafa Bazaar,Indore,4-way,40,54,1116,24,46,52,105,39
+India,Chappan Dukan,Indore,4-way,14,7,17,99,27,18,30,70
+India,Olpad-Rander Road,Surat,4-way,39,78,75,15,46,61,60,28
+India,Hazira-Adajan Road,Surat,4-way,4,9,40,3,15,21,46,14
+India,Sachin-Udhna Road,Surat,4-way,73,519,11,17,59,105,23,30
+India,Dumas-Athwa Road,Surat,4-way,76,0,48,3,60,10,49,14
+India,Kamrej-Varachha Road,Surat,4-way,1183,76,65,13,105,60,56,26
+India,Kadodara-Sahara Road,Surat,4-way,14,112,67,160,27,72,57,78
+India,National Highway 6 (NH6),Surat,4-way,74,38,168,66,60,45,79,56
+India,National Highway 8 (NH8),Surat,4-way,20,0,10,84,34,10,22,64
+India,Outer Ring Road,Surat,4-way,14,937,64,116,27,105,56,72
+India,Surat-Chennai Expressway,Surat,4-way,10,770,29,1192,22,105,42,105
+India,J.M. Road,Pune,4-way,197,13,130,95,83,26,74,68
+India,Fergusson College Road (FC Road),Pune,4-way,764,171,1090,17,105,79,105,30
+India,Laxmi Road,Pune,4-way,0,105,68,714,10,71,57,105
+India,Shivaji Nagar,Pune,4-way,75,24,106,4,60,39,71,15
+India,Koregaon Park,Pune,4-way,14,631,11,13,27,105,23,26
+India,Kothrud,Pune,4-way,59,79,5,1012,54,62,16,105
+India,Viman Nagar,Pune,4-way,14,56,54,19,27,52,52,33
+India,Aundh,Pune,4-way,207,93,78,690,84,67,61,105
+India,Magarpatta City,Pune,4-way,166,56,1179,109,79,52,105,71
+India,New Kalyani Nagar,Pune,4-way,177,111,55,883,80,71,52,105
+India,LBS Marg Junction,Mumbai,4-way,763,99,180,13,105,70,81,26
+India,Gandhi Nagar Junction,Mumbai,4-way,1,35,1040,62,11,44,105,55
+India,Jolly Marg Junction,Mumbai,4-way,1062,19,148,225,105,33,76,87
+India,Nikolsawadi Circle,Mumbai,4-way,37,70,0,7,45,58,10,18
+India,MIDC A Cross Road,Mumbai,4-way,15,13,47,750,28,26,49,105
+India,N S Phadke Marg,Mumbai,4-way,17,4,375,79,30,15,105,62
+India,Gokhale Bridge,Delhi,4-way,1131,32,46,16,105,43,48,29
+India,DND Flyway,Delhi,4-way,173,111,66,19,80,71,56,33
+India,Maharani Bagh,Delhi,4-way,13,474,51,3,26,105,50,14
+India,Burari Road,Delhi,4-way,14,631,69,20,27,105,58,34
+India,Khyber Pass Crossing,Delhi,4-way,20,11,155,94,34,23,77,68
+India,Nigam Bodh Ghat,Delhi,4-way,4,19,243,94,15,33,89,68
+India,P.S. Timarpur,Delhi,4-way,29,43,63,98,42,47,55,69
+India,Mall Road,Delhi,4-way,16,178,43,667,29,80,47,105
+India,Chennai Bypass Road,Chennai,4-way,75,16,10,28,60,29,22,41
+India,Bangalore Chennai Expressway,Chennai,4-way,12,974,15,923,24,105,28,105
+India,Anna Salai,Chennai,4-way,77,7,20,1059,61,18,34,105
+India,EVR Periyar Salai,Chennai,4-way,3,883,28,82,14,105,41,63
+India,Arukilpadi road,Chennai,4-way,42,34,16,37,47,44,29,45
+India,Thakkolam,Chennai,4-way,18,12,52,5,32,24,51,16
+India,Golden Quadrilateral,Chennai,4-way,697,1035,77,941,105,105,61,105
+India,Chowringhee Road,Kolkata,4-way,16,1,0,159,29,11,10,78
+India,Hazra Road,Kolkata,4-way,135,93,18,885,75,67,32,105
+India,Park Street,Kolkata,4-way,692,49,42,41,105,50,47,46
+India,Hazra Road,Kolkata,4-way,13,12,12,15,26,24,24,28
+India,College Street,Kolkata,4-way,91,13,16,47,66,26,29,49
+India,Jaddu Mullick Street,Kolkata,4-way,640,16,100,11,105,29,70,23
+India,Raja SC Mullick Road,Kolkata,4-way,13,4,137,145,26,15,75,76
+India,Burdwan Road,Kolkata,4-way,46,57,96,875,48,53,68,105
+India,Burdwan Road,Kolkata,4-way,543,9,1,343,105,21,11,105
+India,Eastern Metropolitan Bypass,Kolkata,4-way,90,14,1,12,66,27,11,24
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,188,19,192,154,82,33,82,77
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,994,5,73,19,105,16,59,33
+India,Mahatma Gandhi Marg,Indore,4-way,6,30,63,0,17,42,55,10
+India,A.B. Road,Indore,4-way,18,17,5,1,32,30,16,11
+India,Dewas Road,Indore,4-way,174,126,405,165,80,73,105,79
+India,Ujjain Road,Indore,4-way,45,3,53,17,48,14,51,30
+India,Dhar Road,Indore,4-way,13,113,154,84,26,72,77,64
+India,Pithampur Road,Indore,4-way,354,13,15,140,105,26,28,75
+India,Khandwa Road,Indore,4-way,1063,37,41,370,105,45,46,105
+India,Nemawar Road,Indore,4-way,9,12,174,160,21,24,80,78
+India,Sarafa Bazaar,Indore,4-way,191,1054,809,410,82,105,105,105
+India,Chappan Dukan,Indore,4-way,677,95,34,14,105,68,44,27
+India,Olpad-Rander Road,Surat,4-way,60,13,71,747,54,26,58,105
+India,Hazira-Adajan Road,Surat,4-way,30,156,808,82,42,77,105,63
+India,Sachin-Udhna Road,Surat,4-way,8,76,28,1011,20,60,41,105
+India,Dumas-Athwa Road,Surat,4-way,193,23,1044,33,82,38,105,43
+India,Kamrej-Varachha Road,Surat,4-way,175,147,93,104,80,76,67,71
+India,Kadodara-Sahara Road,Surat,4-way,18,765,71,138,32,105,58,75
+India,National Highway 6 (NH6),Surat,4-way,984,3,122,1119,105,14,73,105
+India,National Highway 8 (NH8),Surat,4-way,155,180,13,74,77,81,26,60
+India,Outer Ring Road,Surat,4-way,46,14,493,63,48,27,105,55
+India,Surat-Chennai Expressway,Surat,4-way,63,62,6,33,55,55,17,43
+India,J.M. Road,Pune,4-way,6,65,230,34,17,56,87,44
+India,Fergusson College Road (FC Road),Pune,4-way,12,22,0,70,24,36,10,58
+India,Laxmi Road,Pune,4-way,54,1143,25,0,52,105,40,10
+India,Shivaji Nagar,Pune,4-way,20,39,6,3,34,46,17,14
+India,Koregaon Park,Pune,4-way,71,295,89,6,58,105,66,17
+India,Kothrud,Pune,4-way,80,15,9,16,62,28,21,29
+India,Viman Nagar,Pune,4-way,84,123,304,54,64,73,105,52
+India,Aundh,Pune,4-way,11,15,984,31,23,28,105,42
+India,Magarpatta City,Pune,4-way,228,8,150,38,87,20,77,45
+India,New Kalyani Nagar,Pune,4-way,131,116,130,372,74,72,74,105
+India,LBS Marg Junction,Mumbai,4-way,160,11,66,142,78,23,56,76
+India,Gandhi Nagar Junction,Mumbai,4-way,188,49,98,559,82,50,69,105
+India,Jolly Marg Junction,Mumbai,4-way,18,175,89,12,32,80,66,24
+India,Nikolsawadi Circle,Mumbai,4-way,144,288,68,0,76,105,57,10
+India,MIDC A Cross Road,Mumbai,4-way,14,79,87,747,27,62,65,105
+India,N S Phadke Marg,Mumbai,4-way,46,75,574,23,48,60,105,38
+India,Gokhale Bridge,Delhi,4-way,8,759,32,68,20,105,43,57
+India,DND Flyway,Delhi,4-way,131,516,61,17,74,105,54,30
+India,Maharani Bagh,Delhi,4-way,11,172,15,16,23,80,28,29
+India,Burari Road,Delhi,4-way,17,7,154,16,30,18,77,29
+India,Khyber Pass Crossing,Delhi,4-way,9,700,61,54,21,105,54,52
+India,Nigam Bodh Ghat,Delhi,4-way,2,142,54,100,12,76,52,70
+India,P.S. Timarpur,Delhi,4-way,17,14,5,163,30,27,16,78
+India,Mall Road,Delhi,4-way,167,0,865,781,79,10,105,105
+India,Chennai Bypass Road,Chennai,4-way,20,160,11,35,34,78,23,44
+India,Bangalore Chennai Expressway,Chennai,4-way,43,126,59,67,47,73,54,57
+India,Anna Salai,Chennai,4-way,170,21,60,173,79,35,54,80
+India,EVR Periyar Salai,Chennai,4-way,15,34,16,41,28,44,29,46
+India,Arukilpadi road,Chennai,4-way,15,51,171,1157,28,50,79,105
+India,Thakkolam,Chennai,4-way,186,20,1162,82,81,34,105,63
+India,Golden Quadrilateral,Chennai,4-way,130,2,3,19,74,12,14,33
+India,Chowringhee Road,Kolkata,4-way,73,100,785,18,59,70,105,32
+India,Hazra Road,Kolkata,4-way,12,45,34,1110,24,48,44,105
+India,Park Street,Kolkata,4-way,154,0,2,142,77,10,12,76
+India,Hazra Road,Kolkata,4-way,171,70,176,4,79,58,80,15
+India,College Street,Kolkata,4-way,85,913,20,65,64,105,34,56
+India,Jaddu Mullick Street,Kolkata,4-way,95,45,337,43,68,48,105,47
+India,Raja SC Mullick Road,Kolkata,4-way,923,20,1165,80,105,34,105,62
+India,Burdwan Road,Kolkata,4-way,19,139,29,13,33,75,42,26
+India,Burdwan Road,Kolkata,4-way,11,116,1053,84,23,72,105,64
+India,Eastern Metropolitan Bypass,Kolkata,4-way,0,154,12,5,10,77,24,16
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,103,112,60,34,70,72,54,44
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,60,16,48,58,54,29,49,53
+India,Mahatma Gandhi Marg,Indore,4-way,181,85,16,143,81,64,29,76
+India,A.B. Road,Indore,4-way,108,99,559,529,71,70,105,105
+India,Dewas Road,Indore,4-way,993,688,12,40,105,105,24,46
+India,Ujjain Road,Indore,4-way,181,13,16,31,81,26,29,42
+India,Dhar Road,Indore,4-way,91,135,69,107,66,75,58,71
+India,Pithampur Road,Indore,4-way,404,29,13,93,105,42,26,67
+India,Khandwa Road,Indore,4-way,9,22,55,12,21,36,52,24
+India,Nemawar Road,Indore,4-way,25,20,64,69,40,34,56,58
+India,Sarafa Bazaar,Indore,4-way,0,173,105,25,10,80,71,40
+India,Chappan Dukan,Indore,4-way,17,55,813,143,30,52,105,76
+India,Olpad-Rander Road,Surat,4-way,83,66,429,612,63,56,105,105
+India,Hazira-Adajan Road,Surat,4-way,16,175,108,1018,29,80,71,105
+India,Sachin-Udhna Road,Surat,4-way,881,54,1195,108,105,52,105,71
+India,Dumas-Athwa Road,Surat,4-way,120,9,61,45,73,21,54,48
+India,Kamrej-Varachha Road,Surat,4-way,116,17,95,19,72,30,68,33
+India,Kadodara-Sahara Road,Surat,4-way,17,20,76,142,30,34,60,76
+India,National Highway 6 (NH6),Surat,4-way,10,93,11,581,22,67,23,105
+India,National Highway 8 (NH8),Surat,4-way,178,16,99,10,80,29,70,22
+India,Outer Ring Road,Surat,4-way,131,590,20,185,74,105,34,81
+India,Surat-Chennai Expressway,Surat,4-way,15,76,111,77,28,60,71,61
+India,J.M. Road,Pune,4-way,20,20,2,61,34,34,12,54
+India,Fergusson College Road (FC Road),Pune,4-way,12,14,2,16,24,27,12,29
+India,Laxmi Road,Pune,4-way,133,37,5,65,74,45,16,56
+India,Shivaji Nagar,Pune,4-way,1116,18,89,184,105,32,66,81
+India,Koregaon Park,Pune,4-way,62,18,90,9,55,32,66,21
+India,Kothrud,Pune,4-way,11,20,153,0,23,34,77,10
+India,Viman Nagar,Pune,4-way,825,5,7,0,105,16,18,10
+India,Aundh,Pune,4-way,438,358,60,108,105,105,54,71
+India,Magarpatta City,Pune,4-way,68,44,1,167,57,48,11,79
+India,New Kalyani Nagar,Pune,4-way,486,19,121,115,105,33,73,72
+India,LBS Marg Junction,Mumbai,4-way,9,38,17,68,21,45,30,57
+India,Gandhi Nagar Junction,Mumbai,4-way,78,12,43,13,61,24,47,26
+India,Jolly Marg Junction,Mumbai,4-way,16,16,66,79,29,29,56,62
+India,Nikolsawadi Circle,Mumbai,4-way,18,79,957,162,32,62,105,78
+India,MIDC A Cross Road,Mumbai,4-way,123,194,16,0,73,83,29,10
+India,N S Phadke Marg,Mumbai,4-way,633,35,1052,101,105,44,105,70
+India,Gokhale Bridge,Delhi,4-way,159,35,87,55,78,44,65,52
+India,DND Flyway,Delhi,4-way,43,26,5,157,47,40,16,78
+India,Maharani Bagh,Delhi,4-way,0,1073,88,45,10,105,65,48
+India,Burari Road,Delhi,4-way,339,137,454,39,105,75,105,46
+India,Khyber Pass Crossing,Delhi,4-way,783,92,465,14,105,67,105,27
+India,Nigam Bodh Ghat,Delhi,4-way,21,38,185,68,35,45,81,57
+India,P.S. Timarpur,Delhi,4-way,771,80,166,79,105,62,79,62
+India,Mall Road,Delhi,4-way,93,115,444,91,67,72,105,66
+India,Chennai Bypass Road,Chennai,4-way,56,100,3,3,52,70,14,14
+India,Bangalore Chennai Expressway,Chennai,4-way,362,138,54,135,105,75,52,75
+India,Anna Salai,Chennai,4-way,471,85,16,18,105,64,29,32
+India,EVR Periyar Salai,Chennai,4-way,28,63,119,127,41,55,73,74
+India,Arukilpadi road,Chennai,4-way,18,49,58,166,32,50,53,79
+India,Thakkolam,Chennai,4-way,469,50,11,17,105,50,23,30
+India,Golden Quadrilateral,Chennai,4-way,104,11,5,18,71,23,16,32
+India,Chowringhee Road,Kolkata,4-way,944,130,14,170,105,74,27,79
+India,Hazra Road,Kolkata,4-way,83,14,18,89,63,27,32,66
+India,Park Street,Kolkata,4-way,91,14,0,0,66,27,10,10
+India,Hazra Road,Kolkata,4-way,17,0,5,11,30,10,16,23
+India,College Street,Kolkata,4-way,5,130,838,129,16,74,105,74
+India,Jaddu Mullick Street,Kolkata,4-way,188,176,78,17,82,80,61,30
+India,Raja SC Mullick Road,Kolkata,4-way,85,359,103,32,64,105,70,43
+India,Burdwan Road,Kolkata,4-way,128,13,267,98,74,26,105,69
+India,Burdwan Road,Kolkata,4-way,8,134,695,52,20,75,105,51
+India,Eastern Metropolitan Bypass,Kolkata,4-way,104,114,98,0,71,72,69,10
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,103,17,293,20,70,30,105,34
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,16,87,17,102,29,65,30,70
+India,Mahatma Gandhi Marg,Indore,4-way,103,1,208,14,70,11,84,27
+India,A.B. Road,Indore,4-way,92,61,1070,8,67,54,105,20
+India,Dewas Road,Indore,4-way,20,12,74,300,34,24,60,105
+India,Ujjain Road,Indore,4-way,1193,1,0,188,105,11,10,82
+India,Dhar Road,Indore,4-way,14,1113,46,98,27,105,48,69
+India,Pithampur Road,Indore,4-way,11,72,0,120,23,59,10,73
+India,Khandwa Road,Indore,4-way,157,77,197,0,78,61,83,10
+India,Nemawar Road,Indore,4-way,475,66,97,529,105,56,69,105
+India,Sarafa Bazaar,Indore,4-way,11,63,2,37,23,55,12,45
+India,Chappan Dukan,Indore,4-way,1,16,6,7,11,29,17,18
+India,Olpad-Rander Road,Surat,4-way,101,168,96,101,70,79,68,70
+India,Hazira-Adajan Road,Surat,4-way,94,44,882,49,68,48,105,50
+India,Sachin-Udhna Road,Surat,4-way,159,17,46,31,78,30,48,42
+India,Dumas-Athwa Road,Surat,4-way,186,192,52,911,81,82,51,105
+India,Kamrej-Varachha Road,Surat,4-way,949,19,19,4,105,33,33,15
+India,Kadodara-Sahara Road,Surat,4-way,48,1193,14,63,49,105,27,55
+India,National Highway 6 (NH6),Surat,4-way,198,294,568,200,83,105,105,83
+India,National Highway 8 (NH8),Surat,4-way,1066,140,800,128,105,75,105,74
+India,Outer Ring Road,Surat,4-way,18,0,187,20,32,10,82,34
+India,Surat-Chennai Expressway,Surat,4-way,1047,0,274,100,105,10,105,70
+India,J.M. Road,Pune,4-way,17,0,131,49,30,10,74,50
+India,Fergusson College Road (FC Road),Pune,4-way,131,11,12,8,74,23,24,20
+India,Laxmi Road,Pune,4-way,11,0,16,0,23,10,29,10
+India,Shivaji Nagar,Pune,4-way,723,52,28,708,105,51,41,105
+India,Koregaon Park,Pune,4-way,67,113,9,6,57,72,21,17
+India,Kothrud,Pune,4-way,13,56,235,172,26,52,88,80
+India,Viman Nagar,Pune,4-way,178,17,33,42,80,30,43,47
+India,Aundh,Pune,4-way,0,5,88,651,10,16,65,105
+India,Magarpatta City,Pune,4-way,1182,2,44,11,105,12,48,23
+India,New Kalyani Nagar,Pune,4-way,15,14,15,170,28,27,28,79
+India,LBS Marg Junction,Mumbai,4-way,108,43,6,10,71,47,17,22
+India,Gandhi Nagar Junction,Mumbai,4-way,132,133,123,11,74,74,73,23
+India,Jolly Marg Junction,Mumbai,4-way,177,646,646,65,80,105,105,56
+India,Nikolsawadi Circle,Mumbai,4-way,78,781,9,15,61,105,21,28
+India,MIDC A Cross Road,Mumbai,4-way,17,54,29,177,30,52,42,80
+India,N S Phadke Marg,Mumbai,4-way,18,3,81,18,32,14,62,32
+India,Gokhale Bridge,Delhi,4-way,14,19,136,8,27,33,75,20
+India,DND Flyway,Delhi,4-way,54,553,99,173,52,105,70,80
+India,Maharani Bagh,Delhi,4-way,85,1,12,14,64,11,24,27
+India,Burari Road,Delhi,4-way,1132,609,887,15,105,105,105,28
+India,Khyber Pass Crossing,Delhi,4-way,20,92,122,16,34,67,73,29
+India,Nigam Bodh Ghat,Delhi,4-way,12,176,188,97,24,80,82,69
+India,P.S. Timarpur,Delhi,4-way,16,19,12,0,29,33,24,10
+India,Mall Road,Delhi,4-way,1170,45,123,900,105,48,73,105
+India,Chennai Bypass Road,Chennai,4-way,15,205,2,13,28,84,12,26
+India,Bangalore Chennai Expressway,Chennai,4-way,130,752,54,838,74,105,52,105
+India,Anna Salai,Chennai,4-way,12,13,2,64,24,26,12,56
+India,EVR Periyar Salai,Chennai,4-way,4,260,140,8,15,105,75,20
+India,Arukilpadi road,Chennai,4-way,0,11,11,384,10,23,23,105
+India,Thakkolam,Chennai,4-way,17,4,162,10,30,15,78,22
+India,Golden Quadrilateral,Chennai,4-way,150,46,1176,20,77,48,105,34
+India,Chowringhee Road,Kolkata,4-way,175,5,106,85,80,16,71,64
+India,Hazra Road,Kolkata,4-way,709,2,70,518,105,12,58,105
+India,Park Street,Kolkata,4-way,381,898,18,71,105,105,32,58
+India,Hazra Road,Kolkata,4-way,17,165,4,4,30,79,15,15
+India,College Street,Kolkata,4-way,59,288,65,37,54,105,56,45
+India,Jaddu Mullick Street,Kolkata,4-way,745,76,44,372,105,60,48,105
+India,Raja SC Mullick Road,Kolkata,4-way,187,14,94,17,82,27,68,30
+India,Burdwan Road,Kolkata,4-way,16,54,994,1081,29,52,105,105
+India,Burdwan Road,Kolkata,4-way,192,186,1030,3,82,81,105,14
+India,Eastern Metropolitan Bypass,Kolkata,4-way,50,112,74,15,50,72,60,28
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,11,13,13,6,23,26,26,17
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,58,75,0,848,53,60,10,105
+India,Mahatma Gandhi Marg,Indore,4-way,1048,921,6,11,105,105,17,23
+India,A.B. Road,Indore,4-way,1040,99,2,17,105,70,12,30
+India,Dewas Road,Indore,4-way,106,0,15,911,71,10,28,105
+India,Ujjain Road,Indore,4-way,264,15,11,104,105,28,23,71
+India,Dhar Road,Indore,4-way,101,51,11,73,70,50,23,59
+India,Pithampur Road,Indore,4-way,50,87,0,194,50,65,10,83
+India,Khandwa Road,Indore,4-way,781,3,164,194,105,14,79,83
+India,Nemawar Road,Indore,4-way,4,150,159,5,15,77,78,16
+India,Sarafa Bazaar,Indore,4-way,20,149,55,30,34,77,52,42
+India,Chappan Dukan,Indore,4-way,224,159,55,19,87,78,52,33
+India,Olpad-Rander Road,Surat,4-way,2,46,10,627,12,48,22,105
+India,Hazira-Adajan Road,Surat,4-way,77,5,61,51,61,16,54,50
+India,Sachin-Udhna Road,Surat,4-way,0,923,66,98,10,105,56,69
+India,Dumas-Athwa Road,Surat,4-way,18,13,61,44,32,26,54,48
+India,Kamrej-Varachha Road,Surat,4-way,944,834,17,70,105,105,30,58
+India,Kadodara-Sahara Road,Surat,4-way,84,31,24,10,64,42,39,22
+India,National Highway 6 (NH6),Surat,4-way,97,171,1120,138,69,79,105,75
+India,National Highway 8 (NH8),Surat,4-way,132,171,55,396,74,79,52,105
+India,Outer Ring Road,Surat,4-way,137,876,72,958,75,105,59,105
+India,Surat-Chennai Expressway,Surat,4-way,23,171,23,0,38,79,38,10
+India,J.M. Road,Pune,4-way,421,153,84,1178,105,77,64,105
+India,Fergusson College Road (FC Road),Pune,4-way,638,13,12,1,105,26,24,11
+India,Laxmi Road,Pune,4-way,116,618,32,488,72,105,43,105
+India,Shivaji Nagar,Pune,4-way,14,86,199,33,27,64,83,43
+India,Koregaon Park,Pune,4-way,32,84,139,73,43,64,75,59
+India,Kothrud,Pune,4-way,15,19,230,44,28,33,87,48
+India,Viman Nagar,Pune,4-way,95,129,79,849,68,74,62,105
+India,Aundh,Pune,4-way,380,14,102,1009,105,27,70,105
+India,Magarpatta City,Pune,4-way,88,867,78,133,65,105,61,74
+India,New Kalyani Nagar,Pune,4-way,68,937,13,20,57,105,26,34
+India,LBS Marg Junction,Mumbai,4-way,225,1086,0,980,87,105,10,105
+India,Gandhi Nagar Junction,Mumbai,4-way,2,91,174,4,12,66,80,15
+India,Jolly Marg Junction,Mumbai,4-way,4,196,515,167,15,83,105,79
+India,Nikolsawadi Circle,Mumbai,4-way,12,106,14,78,24,71,27,61
+India,MIDC A Cross Road,Mumbai,4-way,160,122,280,625,78,73,105,105
+India,N S Phadke Marg,Mumbai,4-way,962,129,19,8,105,74,33,20
+India,Gokhale Bridge,Delhi,4-way,71,2,95,29,58,12,68,42
+India,DND Flyway,Delhi,4-way,19,103,0,34,33,70,10,44
+India,Maharani Bagh,Delhi,4-way,911,15,12,16,105,28,24,29
+India,Burari Road,Delhi,4-way,200,12,189,16,83,24,82,29
+India,Khyber Pass Crossing,Delhi,4-way,16,15,19,22,29,28,33,36
+India,Nigam Bodh Ghat,Delhi,4-way,20,68,134,29,34,57,75,42
+India,P.S. Timarpur,Delhi,4-way,41,70,11,10,46,58,23,22
+India,Mall Road,Delhi,4-way,1076,10,105,66,105,22,71,56
+India,Chennai Bypass Road,Chennai,4-way,128,13,199,171,74,26,83,79
+India,Bangalore Chennai Expressway,Chennai,4-way,13,5,5,16,26,16,16,29
+India,Anna Salai,Chennai,4-way,69,833,18,0,58,105,32,10
+India,EVR Periyar Salai,Chennai,4-way,67,14,13,364,57,27,26,105
+India,Arukilpadi road,Chennai,4-way,74,15,43,190,60,28,47,82
+India,Thakkolam,Chennai,4-way,5,122,9,15,16,73,21,28
+India,Golden Quadrilateral,Chennai,4-way,56,160,157,17,52,78,78,30
+India,Chowringhee Road,Kolkata,4-way,0,189,58,198,10,82,53,83
+India,Hazra Road,Kolkata,4-way,176,104,49,37,80,71,50,45
+India,Park Street,Kolkata,4-way,927,6,0,17,105,17,10,30
+India,Hazra Road,Kolkata,4-way,44,48,219,8,48,49,86,20
+India,College Street,Kolkata,4-way,73,7,7,111,59,18,18,71
+India,Jaddu Mullick Street,Kolkata,4-way,12,15,2,178,24,28,12,80
+India,Raja SC Mullick Road,Kolkata,4-way,16,11,7,17,29,23,18,30
+India,Burdwan Road,Kolkata,4-way,64,63,10,86,56,55,22,64
+India,Burdwan Road,Kolkata,4-way,154,10,1044,14,77,22,105,27
+India,Eastern Metropolitan Bypass,Kolkata,4-way,268,753,876,172,105,105,105,80
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,1143,146,69,68,105,76,58,57
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,50,678,92,16,50,105,67,29
+India,Mahatma Gandhi Marg,Indore,4-way,11,19,121,141,23,33,73,75
+India,A.B. Road,Indore,4-way,49,74,65,185,50,60,56,81
+India,Dewas Road,Indore,4-way,16,923,513,27,29,105,105,41
+India,Ujjain Road,Indore,4-way,1045,967,8,149,105,105,20,77
+India,Dhar Road,Indore,4-way,168,0,22,11,79,10,36,23
+India,Pithampur Road,Indore,4-way,13,72,52,92,26,59,51,67
+India,Khandwa Road,Indore,4-way,16,71,505,140,29,58,105,75
+India,Nemawar Road,Indore,4-way,855,89,73,2,105,66,59,12
+India,Sarafa Bazaar,Indore,4-way,36,416,16,0,44,105,29,10
+India,Chappan Dukan,Indore,4-way,141,845,173,983,75,105,80,105
+India,Olpad-Rander Road,Surat,4-way,35,35,9,47,44,44,21,49
+India,Hazira-Adajan Road,Surat,4-way,20,0,38,662,34,10,45,105
+India,Sachin-Udhna Road,Surat,4-way,10,158,11,1169,22,78,23,105
+India,Dumas-Athwa Road,Surat,4-way,19,81,54,54,33,62,52,52
+India,Kamrej-Varachha Road,Surat,4-way,19,91,19,15,33,66,33,28
+India,Kadodara-Sahara Road,Surat,4-way,20,168,0,20,34,79,10,34
+India,National Highway 6 (NH6),Surat,4-way,34,6,13,322,44,17,26,105
+India,National Highway 8 (NH8),Surat,4-way,90,3,60,0,66,14,54,10
+India,Outer Ring Road,Surat,4-way,18,2,48,179,32,12,49,81
+India,Surat-Chennai Expressway,Surat,4-way,57,398,142,151,53,105,76,77
+India,J.M. Road,Pune,4-way,0,17,0,65,10,30,10,56
+India,Fergusson College Road (FC Road),Pune,4-way,149,54,124,156,77,52,73,77
+India,Laxmi Road,Pune,4-way,20,159,18,93,34,78,32,67
+India,Shivaji Nagar,Pune,4-way,3,199,169,148,14,83,79,76
+India,Koregaon Park,Pune,4-way,341,597,81,711,105,105,62,105
+India,Kothrud,Pune,4-way,12,1128,62,15,24,105,55,28
+India,Viman Nagar,Pune,4-way,222,84,53,12,86,64,51,24
+India,Aundh,Pune,4-way,536,798,35,1188,105,105,44,105
+India,Magarpatta City,Pune,4-way,129,11,626,88,74,23,105,65
+India,New Kalyani Nagar,Pune,4-way,74,7,739,17,60,18,105,30
+India,LBS Marg Junction,Mumbai,4-way,69,103,90,364,58,70,66,105
+India,Gandhi Nagar Junction,Mumbai,4-way,90,11,45,100,66,23,48,70
+India,Jolly Marg Junction,Mumbai,4-way,138,13,20,132,75,26,34,74
+India,Nikolsawadi Circle,Mumbai,4-way,300,40,146,977,105,46,76,105
+India,MIDC A Cross Road,Mumbai,4-way,97,44,0,7,69,48,10,18
+India,N S Phadke Marg,Mumbai,4-way,67,193,20,16,57,82,34,29
+India,Gokhale Bridge,Delhi,4-way,70,17,12,860,58,30,24,105
+India,DND Flyway,Delhi,4-way,11,12,133,144,23,24,74,76
+India,Maharani Bagh,Delhi,4-way,88,185,901,25,65,81,105,40
+India,Burari Road,Delhi,4-way,16,8,132,780,29,20,74,105
+India,Khyber Pass Crossing,Delhi,4-way,176,528,56,127,80,105,52,74
+India,Nigam Bodh Ghat,Delhi,4-way,1102,53,53,12,105,51,51,24
+India,P.S. Timarpur,Delhi,4-way,549,156,25,118,105,77,40,72
+India,Mall Road,Delhi,4-way,65,5,147,1,56,16,76,11
+India,Chennai Bypass Road,Chennai,4-way,83,106,2,196,63,71,12,83
+India,Bangalore Chennai Expressway,Chennai,4-way,26,238,627,73,40,88,105,59
+India,Anna Salai,Chennai,4-way,195,84,607,70,83,64,105,58
+India,EVR Periyar Salai,Chennai,4-way,14,170,24,183,27,79,39,81
+India,Arukilpadi road,Chennai,4-way,1018,190,135,47,105,82,75,49
+India,Thakkolam,Chennai,4-way,181,8,80,38,81,20,62,45
+India,Golden Quadrilateral,Chennai,4-way,991,86,159,96,105,64,78,68
+India,Chowringhee Road,Kolkata,4-way,106,42,25,293,71,47,40,105
+India,Hazra Road,Kolkata,4-way,19,1020,176,143,33,105,80,76
+India,Park Street,Kolkata,4-way,159,794,935,77,78,105,105,61
+India,Hazra Road,Kolkata,4-way,188,15,45,244,82,28,48,89
+India,College Street,Kolkata,4-way,0,984,132,664,10,105,74,105
+India,Jaddu Mullick Street,Kolkata,4-way,4,171,15,8,15,79,28,20
+India,Raja SC Mullick Road,Kolkata,4-way,82,142,92,65,63,76,67,56
+India,Burdwan Road,Kolkata,4-way,922,73,91,696,105,59,66,105
+India,Burdwan Road,Kolkata,4-way,642,100,20,943,105,70,34,105
+India,Eastern Metropolitan Bypass,Kolkata,4-way,175,111,16,41,80,71,29,46
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,17,17,44,156,30,30,48,77
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,186,27,398,10,81,41,105,22
+India,Mahatma Gandhi Marg,Indore,4-way,130,40,990,146,74,46,105,76
+India,A.B. Road,Indore,4-way,19,139,12,61,33,75,24,54
+India,Dewas Road,Indore,4-way,48,186,169,30,49,81,79,42
+India,Ujjain Road,Indore,4-way,47,6,4,838,49,17,15,105
+India,Dhar Road,Indore,4-way,159,726,0,3,78,105,10,14
+India,Pithampur Road,Indore,4-way,11,90,101,74,23,66,70,60
+India,Khandwa Road,Indore,4-way,147,25,10,0,76,40,22,10
+India,Nemawar Road,Indore,4-way,84,114,67,85,64,72,57,64
+India,Sarafa Bazaar,Indore,4-way,164,59,71,40,79,54,58,46
+India,Chappan Dukan,Indore,4-way,87,1136,24,20,65,105,39,34
+India,Olpad-Rander Road,Surat,4-way,0,138,126,687,10,75,73,105
+India,Hazira-Adajan Road,Surat,4-way,1006,29,43,14,105,42,47,27
+India,Sachin-Udhna Road,Surat,4-way,122,24,197,533,73,39,83,105
+India,Dumas-Athwa Road,Surat,4-way,15,13,119,58,28,26,73,53
+India,Kamrej-Varachha Road,Surat,4-way,1078,496,184,10,105,105,81,22
+India,Kadodara-Sahara Road,Surat,4-way,914,53,8,24,105,51,20,39
+India,National Highway 6 (NH6),Surat,4-way,1058,20,198,255,105,34,83,105
+India,National Highway 8 (NH8),Surat,4-way,646,47,7,44,105,49,18,48
+India,Outer Ring Road,Surat,4-way,361,510,108,0,105,105,71,10
+India,Surat-Chennai Expressway,Surat,4-way,0,139,14,0,10,75,27,10
+India,J.M. Road,Pune,4-way,10,496,93,96,22,105,67,68
+India,Fergusson College Road (FC Road),Pune,4-way,1,139,62,15,11,75,55,28
+India,Laxmi Road,Pune,4-way,91,120,15,100,66,73,28,70
+India,Shivaji Nagar,Pune,4-way,39,11,36,63,46,23,44,55
+India,Koregaon Park,Pune,4-way,978,0,185,93,105,10,81,67
+India,Kothrud,Pune,4-way,1054,75,215,170,105,60,85,79
+India,Viman Nagar,Pune,4-way,21,1,15,331,35,11,28,105
+India,Aundh,Pune,4-way,108,65,20,63,71,56,34,55
+India,Magarpatta City,Pune,4-way,179,151,0,32,81,77,10,43
+India,New Kalyani Nagar,Pune,4-way,26,92,19,17,40,67,33,30
+India,LBS Marg Junction,Mumbai,4-way,44,152,19,854,48,77,33,105
+India,Gandhi Nagar Junction,Mumbai,4-way,16,36,45,9,29,44,48,21
+India,Jolly Marg Junction,Mumbai,4-way,5,24,284,19,16,39,105,33
+India,Nikolsawadi Circle,Mumbai,4-way,15,8,29,7,28,20,42,18
+India,MIDC A Cross Road,Mumbai,4-way,32,573,125,3,43,105,73,14
+India,N S Phadke Marg,Mumbai,4-way,757,193,18,56,105,82,32,52
+India,Gokhale Bridge,Delhi,4-way,34,136,47,100,44,75,49,70
+India,DND Flyway,Delhi,4-way,14,183,1012,11,27,81,105,23
+India,Maharani Bagh,Delhi,4-way,166,71,168,90,79,58,79,66
+India,Burari Road,Delhi,4-way,170,15,788,61,79,28,105,54
+India,Khyber Pass Crossing,Delhi,4-way,82,872,57,269,63,105,53,105
+India,Nigam Bodh Ghat,Delhi,4-way,159,16,1066,241,78,29,105,89
+India,P.S. Timarpur,Delhi,4-way,87,419,2,76,65,105,12,60
+India,Mall Road,Delhi,4-way,503,20,60,412,105,34,54,105
+India,Chennai Bypass Road,Chennai,4-way,115,96,370,971,72,68,105,105
+India,Bangalore Chennai Expressway,Chennai,4-way,125,99,0,11,73,70,10,23
+India,Anna Salai,Chennai,4-way,13,156,8,13,26,77,20,26
+India,EVR Periyar Salai,Chennai,4-way,457,174,17,794,105,80,30,105
+India,Arukilpadi road,Chennai,4-way,53,0,131,36,51,10,74,44
+India,Thakkolam,Chennai,4-way,27,67,48,9,41,57,49,21
+India,Golden Quadrilateral,Chennai,4-way,32,42,174,185,43,47,80,81
+India,Chowringhee Road,Kolkata,4-way,77,0,765,142,61,10,105,76
+India,Hazra Road,Kolkata,4-way,182,17,74,888,81,30,60,105
+India,Park Street,Kolkata,4-way,59,50,11,9,54,50,23,21
+India,Hazra Road,Kolkata,4-way,98,891,47,12,69,105,49,24
+India,College Street,Kolkata,4-way,64,159,82,12,56,78,63,24
+India,Jaddu Mullick Street,Kolkata,4-way,25,61,7,18,40,54,18,32
+India,Raja SC Mullick Road,Kolkata,4-way,27,89,309,870,41,66,105,105
+India,Burdwan Road,Kolkata,4-way,0,19,139,1034,10,33,75,105
+India,Burdwan Road,Kolkata,4-way,1101,6,1110,70,105,17,105,58
+India,Eastern Metropolitan Bypass,Kolkata,4-way,0,2,26,64,10,12,40,56
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,128,19,164,401,74,33,79,105
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,35,128,100,1029,44,74,70,105
+India,Mahatma Gandhi Marg,Indore,4-way,14,2,12,11,27,12,24,23
+India,A.B. Road,Indore,4-way,50,149,7,5,50,77,18,16
+India,Dewas Road,Indore,4-way,762,76,15,400,105,60,28,105
+India,Ujjain Road,Indore,4-way,1019,26,167,864,105,40,79,105
+India,Dhar Road,Indore,4-way,68,62,80,207,57,55,62,84
+India,Pithampur Road,Indore,4-way,17,8,18,454,30,20,32,105
+India,Khandwa Road,Indore,4-way,185,20,98,1,81,34,69,11
+India,Nemawar Road,Indore,4-way,537,387,11,153,105,105,23,77
+India,Sarafa Bazaar,Indore,4-way,494,492,210,87,105,105,85,65
+India,Chappan Dukan,Indore,4-way,0,97,20,460,10,69,34,105
+India,Olpad-Rander Road,Surat,4-way,0,63,15,12,10,55,28,24
+India,Hazira-Adajan Road,Surat,4-way,149,509,492,27,77,105,105,41
+India,Sachin-Udhna Road,Surat,4-way,11,734,21,448,23,105,35,105
+India,Dumas-Athwa Road,Surat,4-way,20,32,906,419,34,43,105,105
+India,Kamrej-Varachha Road,Surat,4-way,3,0,603,19,14,10,105,33
+India,Kadodara-Sahara Road,Surat,4-way,174,31,19,993,80,42,33,105
+India,National Highway 6 (NH6),Surat,4-way,91,18,11,58,66,32,23,53
+India,National Highway 8 (NH8),Surat,4-way,56,16,141,808,52,29,75,105
+India,Outer Ring Road,Surat,4-way,67,163,47,989,57,78,49,105
+India,Surat-Chennai Expressway,Surat,4-way,173,1075,68,116,80,105,57,72
+India,J.M. Road,Pune,4-way,59,17,82,0,54,30,63,10
+India,Fergusson College Road (FC Road),Pune,4-way,98,20,69,16,69,34,58,29
+India,Laxmi Road,Pune,4-way,984,104,10,47,105,71,22,49
+India,Shivaji Nagar,Pune,4-way,25,196,143,26,40,83,76,40
+India,Koregaon Park,Pune,4-way,86,177,193,95,64,80,82,68
+India,Kothrud,Pune,4-way,565,919,11,20,105,105,23,34
+India,Viman Nagar,Pune,4-way,12,126,127,58,24,73,74,53
+India,Aundh,Pune,4-way,19,82,20,273,33,63,34,105
+India,Magarpatta City,Pune,4-way,1156,154,0,97,105,77,10,69
+India,New Kalyani Nagar,Pune,4-way,65,8,0,17,56,20,10,30
+India,LBS Marg Junction,Mumbai,4-way,139,134,25,11,75,75,40,23
+India,Gandhi Nagar Junction,Mumbai,4-way,0,110,17,16,10,71,30,29
+India,Jolly Marg Junction,Mumbai,4-way,4,1195,14,39,15,105,27,46
+India,Nikolsawadi Circle,Mumbai,4-way,447,179,72,47,105,81,59,49
+India,MIDC A Cross Road,Mumbai,4-way,192,60,315,197,82,54,105,83
+India,N S Phadke Marg,Mumbai,4-way,12,22,67,20,24,36,57,34
+India,Gokhale Bridge,Delhi,4-way,39,122,520,94,46,73,105,68
+India,DND Flyway,Delhi,4-way,15,681,37,119,28,105,45,73
+India,Maharani Bagh,Delhi,4-way,101,19,594,1040,70,33,105,105
+India,Burari Road,Delhi,4-way,2,92,941,51,12,67,105,50
+India,Khyber Pass Crossing,Delhi,4-way,540,17,7,128,105,30,18,74
+India,Nigam Bodh Ghat,Delhi,4-way,158,17,33,6,78,30,43,17
+India,P.S. Timarpur,Delhi,4-way,40,65,6,186,46,56,17,81
+India,Mall Road,Delhi,4-way,0,136,14,13,10,75,27,26
+India,Chennai Bypass Road,Chennai,4-way,530,589,809,700,105,105,105,105
+India,Bangalore Chennai Expressway,Chennai,4-way,0,40,120,11,10,46,73,23
+India,Anna Salai,Chennai,4-way,2,9,3,12,12,21,14,24
+India,EVR Periyar Salai,Chennai,4-way,1033,95,1165,468,105,68,105,105
+India,Arukilpadi road,Chennai,4-way,132,20,113,51,74,34,72,50
+India,Thakkolam,Chennai,4-way,191,170,34,7,82,79,44,18
+India,Golden Quadrilateral,Chennai,4-way,108,14,82,17,71,27,63,30
+India,Chowringhee Road,Kolkata,4-way,15,22,131,20,28,36,74,34
+India,Hazra Road,Kolkata,4-way,85,1185,19,282,64,105,33,105
+India,Park Street,Kolkata,4-way,6,185,469,14,17,81,105,27
+India,Hazra Road,Kolkata,4-way,19,43,11,40,33,47,23,46
+India,College Street,Kolkata,4-way,84,2,181,117,64,12,81,72
+India,Jaddu Mullick Street,Kolkata,4-way,663,96,17,54,105,68,30,52
+India,Raja SC Mullick Road,Kolkata,4-way,6,976,82,579,17,105,63,105
+India,Burdwan Road,Kolkata,4-way,109,684,181,186,71,105,81,81
+India,Burdwan Road,Kolkata,4-way,42,38,2,196,47,45,12,83
+India,Eastern Metropolitan Bypass,Kolkata,4-way,177,135,73,132,80,75,59,74
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,574,61,14,535,105,54,27,105
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,188,140,961,41,82,75,105,46
+India,Mahatma Gandhi Marg,Indore,4-way,48,31,181,132,49,42,81,74
+India,A.B. Road,Indore,4-way,57,18,7,952,53,32,18,105
+India,Dewas Road,Indore,4-way,1077,58,12,92,105,53,24,67
+India,Ujjain Road,Indore,4-way,12,143,18,32,24,76,32,43
+India,Dhar Road,Indore,4-way,11,179,20,839,23,81,34,105
+India,Pithampur Road,Indore,4-way,62,183,9,40,55,81,21,46
+India,Khandwa Road,Indore,4-way,20,11,64,121,34,23,56,73
+India,Nemawar Road,Indore,4-way,19,46,6,22,33,48,17,36
+India,Sarafa Bazaar,Indore,4-way,6,9,124,54,17,21,73,52
+India,Chappan Dukan,Indore,4-way,18,67,79,1021,32,57,62,105
+India,Olpad-Rander Road,Surat,4-way,35,597,72,12,44,105,59,24
+India,Hazira-Adajan Road,Surat,4-way,16,75,903,184,29,60,105,81
+India,Sachin-Udhna Road,Surat,4-way,529,122,29,954,105,73,42,105
+India,Dumas-Athwa Road,Surat,4-way,3,366,20,344,14,105,34,105
+India,Kamrej-Varachha Road,Surat,4-way,1057,10,27,6,105,22,41,17
+India,Kadodara-Sahara Road,Surat,4-way,12,18,135,0,24,32,75,10
+India,National Highway 6 (NH6),Surat,4-way,0,9,122,198,10,21,73,83
+India,National Highway 8 (NH8),Surat,4-way,174,0,430,660,80,10,105,105
+India,Outer Ring Road,Surat,4-way,35,1,62,3,44,11,55,14
+India,Surat-Chennai Expressway,Surat,4-way,7,128,18,109,18,74,32,71
+India,J.M. Road,Pune,4-way,142,37,50,556,76,45,50,105
+India,Fergusson College Road (FC Road),Pune,4-way,8,63,91,191,20,55,66,82
+India,Laxmi Road,Pune,4-way,58,1,98,96,53,11,69,68
+India,Shivaji Nagar,Pune,4-way,97,83,780,31,69,63,105,42
+India,Koregaon Park,Pune,4-way,27,216,11,19,41,85,23,33
+India,Kothrud,Pune,4-way,52,639,12,8,51,105,24,20
+India,Viman Nagar,Pune,4-way,77,24,748,14,61,39,105,27
+India,Aundh,Pune,4-way,78,34,200,41,61,44,83,46
+India,Magarpatta City,Pune,4-way,117,20,629,2,72,34,105,12
+India,New Kalyani Nagar,Pune,4-way,242,162,11,667,89,78,23,105
+India,LBS Marg Junction,Mumbai,4-way,57,154,797,102,53,77,105,70
+India,Gandhi Nagar Junction,Mumbai,4-way,20,124,192,156,34,73,82,77
+India,Jolly Marg Junction,Mumbai,4-way,84,471,19,73,64,105,33,59
+India,Nikolsawadi Circle,Mumbai,4-way,29,0,1089,4,42,10,105,15
+India,MIDC A Cross Road,Mumbai,4-way,0,0,0,12,10,10,10,24
+India,N S Phadke Marg,Mumbai,4-way,31,10,149,49,42,22,77,50
+India,Gokhale Bridge,Delhi,4-way,176,12,17,112,80,24,30,72
+India,DND Flyway,Delhi,4-way,0,2,80,200,10,12,62,83
+India,Maharani Bagh,Delhi,4-way,1023,182,18,1143,105,81,32,105
+India,Burari Road,Delhi,4-way,81,607,182,166,62,105,81,79
+India,Khyber Pass Crossing,Delhi,4-way,15,226,18,63,28,87,32,55
+India,Nigam Bodh Ghat,Delhi,4-way,2,103,792,2,12,70,105,12
+India,P.S. Timarpur,Delhi,4-way,20,100,89,176,34,70,66,80
+India,Mall Road,Delhi,4-way,18,5,804,108,32,16,105,71
+India,Chennai Bypass Road,Chennai,4-way,173,164,803,94,80,79,105,68
+India,Bangalore Chennai Expressway,Chennai,4-way,20,140,24,161,34,75,39,78
+India,Anna Salai,Chennai,4-way,175,6,11,16,80,17,23,29
+India,EVR Periyar Salai,Chennai,4-way,85,79,935,394,64,62,105,105
+India,Arukilpadi road,Chennai,4-way,17,1168,308,2,30,105,105,12
+India,Thakkolam,Chennai,4-way,136,323,1149,87,75,105,105,65
+India,Golden Quadrilateral,Chennai,4-way,16,19,17,15,29,33,30,28
+India,Chowringhee Road,Kolkata,4-way,90,172,868,1197,66,80,105,105
+India,Hazra Road,Kolkata,4-way,47,945,190,22,49,105,82,36
+India,Park Street,Kolkata,4-way,20,24,180,6,34,39,81,17
+India,Hazra Road,Kolkata,4-way,196,102,22,11,83,70,36,23
+India,College Street,Kolkata,4-way,1006,130,5,0,105,74,16,10
+India,Jaddu Mullick Street,Kolkata,4-way,0,90,183,795,10,66,81,105
+India,Raja SC Mullick Road,Kolkata,4-way,82,180,192,56,63,81,82,52
+India,Burdwan Road,Kolkata,4-way,327,413,132,22,105,105,74,36
+India,Burdwan Road,Kolkata,4-way,696,12,599,88,105,24,105,65
+India,Eastern Metropolitan Bypass,Kolkata,4-way,35,19,668,14,44,33,105,27
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,17,196,0,8,30,83,10,20
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,49,118,1036,0,50,72,105,10
+India,Mahatma Gandhi Marg,Indore,4-way,158,67,35,20,78,57,44,34
+India,A.B. Road,Indore,4-way,82,18,3,99,63,32,14,70
+India,Dewas Road,Indore,4-way,13,145,87,990,26,76,65,105
+India,Ujjain Road,Indore,4-way,125,191,103,171,73,82,70,79
+India,Dhar Road,Indore,4-way,184,79,1131,8,81,62,105,20
+India,Pithampur Road,Indore,4-way,19,15,67,1,33,28,57,11
+India,Khandwa Road,Indore,4-way,29,55,1,588,42,52,11,105
+India,Nemawar Road,Indore,4-way,504,1102,17,169,105,105,30,79
+India,Sarafa Bazaar,Indore,4-way,14,156,450,116,27,77,105,72
+India,Chappan Dukan,Indore,4-way,1154,696,17,111,105,105,30,71
+India,Olpad-Rander Road,Surat,4-way,13,6,976,282,26,17,105,105
+India,Hazira-Adajan Road,Surat,4-way,93,0,59,41,67,10,54,46
+India,Sachin-Udhna Road,Surat,4-way,41,38,153,24,46,45,77,39
+India,Dumas-Athwa Road,Surat,4-way,62,275,193,3,55,105,82,14
+India,Kamrej-Varachha Road,Surat,4-way,0,64,166,11,10,56,79,23
+India,Kadodara-Sahara Road,Surat,4-way,3,14,4,0,14,27,15,10
+India,National Highway 6 (NH6),Surat,4-way,7,15,81,15,18,28,62,28
+India,National Highway 8 (NH8),Surat,4-way,78,180,63,1123,61,81,55,105
+India,Outer Ring Road,Surat,4-way,10,19,14,2,22,33,27,12
+India,Surat-Chennai Expressway,Surat,4-way,17,19,20,1162,30,33,34,105
+India,J.M. Road,Pune,4-way,160,89,145,82,78,66,76,63
+India,Fergusson College Road (FC Road),Pune,4-way,25,83,70,153,40,63,58,77
+India,Laxmi Road,Pune,4-way,935,17,11,17,105,30,23,30
+India,Shivaji Nagar,Pune,4-way,11,8,672,183,23,20,105,81
+India,Koregaon Park,Pune,4-way,163,19,1153,1069,78,33,105,105
+India,Kothrud,Pune,4-way,154,11,107,44,77,23,71,48
+India,Viman Nagar,Pune,4-way,168,15,194,8,79,28,83,20
+India,Aundh,Pune,4-way,139,101,361,911,75,70,105,105
+India,Magarpatta City,Pune,4-way,20,17,18,87,34,30,32,65
+India,New Kalyani Nagar,Pune,4-way,9,70,116,31,21,58,72,42
+India,LBS Marg Junction,Mumbai,4-way,15,137,192,0,28,75,82,10
+India,Gandhi Nagar Junction,Mumbai,4-way,389,820,613,39,105,105,105,46
+India,Jolly Marg Junction,Mumbai,4-way,13,1010,67,64,26,105,57,56
+India,Nikolsawadi Circle,Mumbai,4-way,2,169,927,92,12,79,105,67
+India,MIDC A Cross Road,Mumbai,4-way,13,12,73,55,26,24,59,52
+India,N S Phadke Marg,Mumbai,4-way,50,175,338,7,50,80,105,18
+India,Gokhale Bridge,Delhi,4-way,26,10,123,914,40,22,73,105
+India,DND Flyway,Delhi,4-way,143,1071,228,13,76,105,87,26
+India,Maharani Bagh,Delhi,4-way,965,88,45,1093,105,65,48,105
+India,Burari Road,Delhi,4-way,6,1048,16,162,17,105,29,78
+India,Khyber Pass Crossing,Delhi,4-way,8,189,49,184,20,82,50,81
+India,Nigam Bodh Ghat,Delhi,4-way,15,109,440,31,28,71,105,42
+India,P.S. Timarpur,Delhi,4-way,187,136,7,80,82,75,18,62
+India,Mall Road,Delhi,4-way,51,0,120,187,50,10,73,82
+India,Chennai Bypass Road,Chennai,4-way,100,13,12,552,70,26,24,105
+India,Bangalore Chennai Expressway,Chennai,4-way,2,854,473,831,12,105,105,105
+India,Anna Salai,Chennai,4-way,100,1146,967,0,70,105,105,10
+India,EVR Periyar Salai,Chennai,4-way,11,735,501,22,23,105,105,36
+India,Arukilpadi road,Chennai,4-way,122,513,0,0,73,105,10,10
+India,Thakkolam,Chennai,4-way,65,39,0,61,56,46,10,54
+India,Golden Quadrilateral,Chennai,4-way,137,913,18,68,75,105,32,57
+India,Chowringhee Road,Kolkata,4-way,144,11,503,172,76,23,105,80
+India,Hazra Road,Kolkata,4-way,1,143,16,3,11,76,29,14
+India,Park Street,Kolkata,4-way,38,123,19,1,45,73,33,11
+India,Hazra Road,Kolkata,4-way,1180,25,51,130,105,40,50,74
+India,College Street,Kolkata,4-way,13,39,148,13,26,46,76,26
+India,Jaddu Mullick Street,Kolkata,4-way,11,35,8,919,23,44,20,105
+India,Raja SC Mullick Road,Kolkata,4-way,19,11,750,98,33,23,105,69
+India,Burdwan Road,Kolkata,4-way,57,16,17,6,53,29,30,17
+India,Burdwan Road,Kolkata,4-way,118,104,46,18,72,71,48,32
+India,Eastern Metropolitan Bypass,Kolkata,4-way,824,198,432,0,105,83,105,10
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,179,13,152,1126,81,26,77,105
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,12,10,0,33,24,22,10,43
+India,Mahatma Gandhi Marg,Indore,4-way,926,33,89,18,105,43,66,32
+India,A.B. Road,Indore,4-way,143,0,1011,13,76,10,105,26
+India,Dewas Road,Indore,4-way,74,98,872,687,60,69,105,105
+India,Ujjain Road,Indore,4-way,20,12,1085,161,34,24,105,78
+India,Dhar Road,Indore,4-way,95,14,70,56,68,27,58,52
+India,Pithampur Road,Indore,4-way,135,11,63,119,75,23,55,73
+India,Khandwa Road,Indore,4-way,330,24,68,39,105,39,57,46
+India,Nemawar Road,Indore,4-way,2,18,56,172,12,32,52,80
+India,Sarafa Bazaar,Indore,4-way,13,84,82,0,26,64,63,10
+India,Chappan Dukan,Indore,4-way,8,76,85,196,20,60,64,83
+India,Olpad-Rander Road,Surat,4-way,389,16,42,81,105,29,47,62
+India,Hazira-Adajan Road,Surat,4-way,586,13,114,14,105,26,72,27
+India,Sachin-Udhna Road,Surat,4-way,261,8,195,29,105,20,83,42
+India,Dumas-Athwa Road,Surat,4-way,107,306,34,29,71,105,44,42
+India,Kamrej-Varachha Road,Surat,4-way,144,16,68,95,76,29,57,68
+India,Kadodara-Sahara Road,Surat,4-way,0,113,421,18,10,72,105,32
+India,National Highway 6 (NH6),Surat,4-way,33,79,51,16,43,62,50,29
+India,National Highway 8 (NH8),Surat,4-way,0,2,5,172,10,12,16,80
+India,Outer Ring Road,Surat,4-way,8,912,8,11,20,105,20,23
+India,Surat-Chennai Expressway,Surat,4-way,56,15,8,336,52,28,20,105
+India,J.M. Road,Pune,4-way,70,316,5,19,58,105,16,33
+India,Fergusson College Road (FC Road),Pune,4-way,99,399,67,29,70,105,57,42
+India,Laxmi Road,Pune,4-way,359,10,660,18,105,22,105,32
+India,Shivaji Nagar,Pune,4-way,63,15,81,115,55,28,62,72
+India,Koregaon Park,Pune,4-way,14,1109,17,8,27,105,30,20
+India,Kothrud,Pune,4-way,31,0,442,15,42,10,105,28
+India,Viman Nagar,Pune,4-way,151,313,156,25,77,105,77,40
+India,Aundh,Pune,4-way,974,191,81,497,105,82,62,105
+India,Magarpatta City,Pune,4-way,190,16,13,46,82,29,26,48
+India,New Kalyani Nagar,Pune,4-way,142,65,18,8,76,56,32,20
+India,LBS Marg Junction,Mumbai,4-way,154,376,947,152,77,105,105,77
+India,Gandhi Nagar Junction,Mumbai,4-way,349,768,155,186,105,105,77,81
+India,Jolly Marg Junction,Mumbai,4-way,105,62,1108,86,71,55,105,64
+India,Nikolsawadi Circle,Mumbai,4-way,201,95,468,941,83,68,105,105
+India,MIDC A Cross Road,Mumbai,4-way,80,119,1094,15,62,73,105,28
+India,N S Phadke Marg,Mumbai,4-way,0,1147,11,152,10,105,23,77
+India,Gokhale Bridge,Delhi,4-way,7,594,0,1085,18,105,10,105
+India,DND Flyway,Delhi,4-way,72,0,92,1200,59,10,67,105
+India,Maharani Bagh,Delhi,4-way,182,777,928,14,81,105,105,27
+India,Burari Road,Delhi,4-way,13,466,84,155,26,105,64,77
+India,Khyber Pass Crossing,Delhi,4-way,66,690,787,0,56,105,105,10
+India,Nigam Bodh Ghat,Delhi,4-way,46,56,50,29,48,52,50,42
+India,P.S. Timarpur,Delhi,4-way,6,651,0,12,17,105,10,24
+India,Mall Road,Delhi,4-way,10,161,70,2,22,78,58,12
+India,Chennai Bypass Road,Chennai,4-way,140,36,0,607,75,44,10,105
+India,Bangalore Chennai Expressway,Chennai,4-way,148,53,0,196,76,51,10,83
+India,Anna Salai,Chennai,4-way,107,85,16,223,71,64,29,86
+India,EVR Periyar Salai,Chennai,4-way,50,19,6,0,50,33,17,10
+India,Arukilpadi road,Chennai,4-way,2,84,80,41,12,64,62,46
+India,Thakkolam,Chennai,4-way,67,15,20,196,57,28,34,83
+India,Golden Quadrilateral,Chennai,4-way,494,121,138,176,105,73,75,80
+India,Chowringhee Road,Kolkata,4-way,18,967,79,130,32,105,62,74
+India,Hazra Road,Kolkata,4-way,194,824,66,88,83,105,56,65
+India,Park Street,Kolkata,4-way,177,74,50,117,80,60,50,72
+India,Hazra Road,Kolkata,4-way,165,275,168,15,79,105,79,28
+India,College Street,Kolkata,4-way,45,17,32,76,48,30,43,60
+India,Jaddu Mullick Street,Kolkata,4-way,1034,494,2,48,105,105,12,49
+India,Raja SC Mullick Road,Kolkata,4-way,1105,1175,0,14,105,105,10,27
+India,Burdwan Road,Kolkata,4-way,113,16,0,194,72,29,10,83
+India,Burdwan Road,Kolkata,4-way,20,14,176,155,34,27,80,77
+India,Eastern Metropolitan Bypass,Kolkata,4-way,18,12,19,185,32,24,33,81
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,109,125,644,90,71,73,105,66
+India,Shyama Prasad Mukherjee Road,Kolkata,4-way,1016,112,61,738,105,72,54,105
+India,Mahatma Gandhi Marg,Indore,4-way,663,12,91,29,105,24,66,42
+India,A.B. Road,Indore,4-way,1,193,197,0,11,82,83,10
+India,Dewas Road,Indore,4-way,1088,16,14,849,105,29,27,105
+India,Ujjain Road,Indore,4-way,572,163,952,86,105,78,105,64
+India,Dhar Road,Indore,4-way,99,139,15,157,70,75,28,78
+India,Pithampur Road,Indore,4-way,34,0,1106,15,44,10,105,28
+India,Khandwa Road,Indore,4-way,84,1000,0,181,64,105,10,81
+India,Nemawar Road,Indore,4-way,83,61,14,1130,63,54,27,105
+India,Sarafa Bazaar,Indore,4-way,79,12,19,56,62,24,33,52
+India,Chappan Dukan,Indore,4-way,25,0,1,64,40,10,11,56
+India,Olpad-Rander Road,Surat,4-way,0,80,50,49,10,62,50,50
+India,Hazira-Adajan Road,Surat,4-way,76,114,120,98,60,72,73,69
+India,Sachin-Udhna Road,Surat,4-way,28,1087,185,80,41,105,81,62
+India,Dumas-Athwa Road,Surat,4-way,25,12,12,46,40,24,24,48
+India,Kamrej-Varachha Road,Surat,4-way,143,104,157,195,76,71,78,83
+India,Kadodara-Sahara Road,Surat,4-way,621,1,963,88,105,11,105,65
+India,National Highway 6 (NH6),Surat,4-way,74,101,386,97,60,70,105,69
+India,National Highway 8 (NH8),Surat,4-way,487,322,78,0,105,105,61,10
+India,Outer Ring Road,Surat,4-way,657,20,37,506,105,34,45,105
+India,Surat-Chennai Expressway,Surat,4-way,0,108,39,64,10,71,46,56
+India,J.M. Road,Pune,4-way,15,58,169,32,28,53,79,43
+India,Fergusson College Road (FC Road),Pune,4-way,143,45,0,29,76,48,10,42
+India,Laxmi Road,Pune,4-way,16,15,94,716,29,28,68,105
+India,Shivaji Nagar,Pune,4-way,430,326,70,186,105,105,58,81
+India,Koregaon Park,Pune,4-way,167,12,88,577,79,24,65,105
+India,Kothrud,Pune,4-way,29,82,8,125,42,63,20,73
+India,Viman Nagar,Pune,4-way,3,15,83,18,14,28,63,32
+India,Aundh,Pune,4-way,88,99,11,998,65,70,23,105
+India,Magarpatta City,Pune,4-way,11,38,173,30,23,45,80,42
+India,New Kalyani Nagar,Pune,4-way,12,10,14,67,24,22,27,57

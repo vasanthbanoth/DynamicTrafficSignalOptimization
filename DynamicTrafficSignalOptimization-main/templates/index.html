@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traffic Time Prediction</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        /* Reset and Base Styles */
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* Main Container - The Card */
+        .container {
+            background-color: #ffffff;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 500px;
+            text-align: center;
+            transition: all 0.3s ease; /* Subtle transition for potential future effects */
+        }
+
+        /* Header */
+        h1 {
+            font-size: 2.2rem; /* Slightly adjusted size */
+            font-weight: 600;
+            color: #2c3e50; /* Dark blue-grey */
+            margin-bottom: 30px; /* More space below header */
+            position: relative; /* For potential future pseudo-elements */
+        }
+
+         /* Add a subtle underline effect to the title */
+         h1::after {
+            content: '';
+            display: block;
+            width: 60px;
+            height: 3px;
+            background-color: #3498db; /* A nice blue accent */
+            margin: 10px auto 0; /* Center the line */
+            border-radius: 1.5px;
+         }
+
+
+        /* Form Styling */
+        form {
+            display: grid;
+            gap: 20px; /* Spacing between form elements */
+            text-align: left; /* Align labels to the left */
+        }
+
+        .form-group {
+            /* Optional: Group label and input if more complex layouts are needed later */
+        }
+
+        label {
+            display: block; /* Ensure label is on its own line */
+            font-size: 0.95rem;
+            font-weight: 400;
+            color: #555;
+            margin-bottom: 8px; /* Space between label and input */
+        }
+
+        input[type="number"] {
+            width: 100%;
+            padding: 12px 15px; /* Comfortable padding */
+            border: 1px solid #ddd;
+            border-radius: 8px; /* Softer corners */
+            font-size: 1rem;
+            font-family: 'Poppins', sans-serif;
+            transition: border-color 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        input[type="number"]:focus {
+            outline: none;
+            border-color: #3498db; /* Highlight focus with accent color */
+            box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2); /* Soft glow on focus */
+        }
+
+        /* Button Styling */
+        button {
+            padding: 15px; /* Generous padding */
+            border-radius: 8px;
+            border: none;
+            background: linear-gradient(to right, #3498db, #2980b9); /* Blue gradient */
+            color: white;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+            margin-top: 10px; /* Space above the button */
+            box-shadow: 0 4px 15px rgba(52, 152, 219, 0.3);
+        }
+
+        button:hover {
+            background: linear-gradient(to right, #2980b9, #3498db); /* Slightly darker on hover */
+            transform: translateY(-2px); /* Subtle lift effect */
+            box-shadow: 0 6px 20px rgba(52, 152, 219, 0.4);
+        }
+
+        button:active {
+             transform: translateY(0px); /* Press effect */
+             box-shadow: 0 3px 10px rgba(52, 152, 219, 0.3);
+        }
+
+
+        /* Result Area Styling */
+        #result {
+            margin-top: 30px; /* More space before results */
+            text-align: left; /* Align results text left for readability */
+            padding: 20px;
+            background-color: #f8f9fa; /* Slightly different background for results */
+            border-radius: 8px;
+            border: 1px solid #e9ecef;
+            font-size: 0.95rem;
+            line-height: 1.6;
+            color: #444;
+            min-height: 50px; /* Ensure it has some height even when empty */
+            transition: all 0.5s ease-out; /* Smooth appearance */
+            opacity: 0; /* Start hidden */
+            transform: translateY(10px); /* Start slightly lower */
+        }
+
+        #result.visible { /* Class to toggle visibility */
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+
+        #result h3 {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: #3498db; /* Use accent color for headings */
+            margin-bottom: 10px;
+            margin-top: 15px; /* Space above subsequent headings */
+        }
+         #result h3:first-of-type {
+             margin-top: 0; /* No top margin for the very first heading */
+         }
+
+
+        #result span.error { /* Specific class for errors */
+            color: #e74c3c; /* A clear red for errors */
+            font-weight: bold;
+            display: block; /* Make it take its own line */
+            text-align: center;
+        }
+
+        #result br {
+            display: block; /* Ensure breaks create clear lines */
+            margin-bottom: 5px;
+        }
+
+
+    </style>
+    <script>
+        async function getPrediction(event) {
+            event.preventDefault();
+            const formData = new FormData(document.getElementById('predictionForm'));
+            const resultDiv = document.getElementById('result');
+
+            // Clear previous results and hide
+            resultDiv.innerHTML = '';
+            resultDiv.classList.remove('visible');
+
+            try {
+                 // Optional: Add a loading indicator
+                 resultDiv.innerHTML = 'Calculating...';
+                 resultDiv.classList.add('visible');
+
+
+                const response = await fetch('/predict', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                 if (!response.ok) {
+                    throw new Error(`HTTP error! Status: ${response.status}`);
+                 }
+
+
+                const result = await response.json();
+                let output = '';
+
+                if (result.error) {
+                    // Use the dedicated error class
+                    output = `<span class="error">${result.error}</span>`;
+                } else {
+                    output += '<h3>SUMO Parameters:</h3>';
+                    let tempVar = 0;
+                    for (const [key, value] of Object.entries(result.input_parameters)) {
+                        tempVar++;
+                        // Making the key name more descriptive if possible (assuming keys are like 'East_Traffic (m)')
+                        const friendlyKey = key.replace('_Traffic (m)', '').replace('_', ' ');
+                        output += `<strong>${friendlyKey}:</strong> ${Math.round(value / 5.5) + 1} <br/>`; // SUMO param value
+                    }
+
+                    output += '<h3>Predicted Times:</h3>';
+                     // Assuming result.predicted_times keys are like '1', '2' etc. mapping to params
+                     let paramIndex = 0;
+                     const inputParams = Object.keys(result.input_parameters); // Get the original input keys
+
+                    for (const [key, value] of Object.entries(result.predicted_times)) {
+                         // Try to map the prediction key back to a direction name
+                         let directionName = `Direction ${key}`; // Default fallback
+                         if (inputParams[paramIndex]) {
+                             directionName = inputParams[paramIndex].replace('_Traffic (m)', '').replace('_', ' ');
+                         }
+                        output += `<strong>${directionName}:</strong> ${value.toFixed(2)} seconds<br/>`; // Format time
+                        paramIndex++;
+                    }
+                }
+
+                resultDiv.innerHTML = output; // Update content
+                resultDiv.classList.add('visible'); // Make results visible with transition
+
+            } catch (error) {
+                 console.error('Fetch Error:', error);
+                 resultDiv.innerHTML = `<span class="error">Failed to get prediction. ${error.message}. Please check the console and network connection.</span>`;
+                 resultDiv.classList.add('visible'); // Show error
+             }
+        }
+    </script>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Traffic Time Estimator</h1>
+
+        <form id="predictionForm" onsubmit="getPrediction(event)">
+            <!-- Replaced labels with placeholders and used grid for alignment -->
+            <div class="form-group">
+                 <label for="east_traffic">Eastbound Traffic Length (m):</label>
+                 <input type="number" step="any" name="East_Traffic (m)" id="east_traffic" placeholder="e.g., 150.5" required>
+            </div>
+
+            <div class="form-group">
+                 <label for="north_traffic">Northbound Traffic Length (m):</label>
+                 <input type="number" step="any" name="North_Traffic (m)" id="north_traffic" placeholder="e.g., 210" required>
+            </div>
+
+            <div class="form-group">
+                 <label for="south_traffic">Southbound Traffic Length (m):</label>
+                 <input type="number" step="any" name="South_Traffic (m)" id="south_traffic" placeholder="e.g., 88.2" required>
+            </div>
+
+            <div class="form-group">
+                 <label for="west_traffic">Westbound Traffic Length (m):</label>
+                 <input type="number" step="any" name="West_Traffic (m)" id="west_traffic" placeholder="e.g., 120" required>
+            </div>
+
+            <button type="submit">Predict Time Estimates</button>
+        </form>
+
+        <!-- Result Area -->
+        <div id="result">
+            <!-- Prediction results will be injected here by JavaScript -->
+        </div>
+    </div>
+
+</body>
+</html>
